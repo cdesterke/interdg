@@ -13,6 +13,11 @@ link : https://dgidb.org/
 
 > data(custom)
 
+> custom
+ [1] "CYP3A4" "KCNH2"  "PLAU"   "ABCC1"  "ABCB1"  "SLC6A4" "TYMS"   "ADRA1A"
+ [9] "ADRA1B" "ADRA1D"
+
+
 ### or transform limma results in gene vector
 
 > custom<-geneqvectordg(limma_res,updown="up",thres=0.5,q=0.05)
