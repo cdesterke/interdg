@@ -1,0 +1,6328 @@
+interaction_types;drug_name
+activator;(-)-CAMPHOR
+agonist,activator;(-)-CAMPHOR
+inhibitor;(-)-CAMPHOR
+inhibitor;(-)-ROLIPRAM
+inhibitor;(CYCLOHEXYLAMINO)METHYLENEDIPHOSPHONIC ACID
+agonist;(D)-SERINE
+inhibitor;1400W
+agonist;2-ARACHIDONOYLGLYCEROL
+inhibitor;2-MERCAPTOBENZOTHIAZOLE
+agonist;2-METHYLHISTAMINE
+antagonist;4-DAMP
+agonist;4-METHYLHISTAMINE
+inhibitor;4SC-203
+blocker;5-BENZYLOXYTRYPTAMINE
+agonist;5-MEO-DMT
+agonist;5-OXO-ETE
+antagonist;8-CHLOROTHEOPHYLLINE
+antagonist;8-CYCLOPENTYLTHEOPHYLLINE
+agonist;8-OH-DPAT
+antagonist;A-119637
+antagonist;A-123189
+antagonist;A-349,821
+inhibitor;A-443654
+agonist;ABALOPARATIDE
+ligand;ABALOPARATIDE
+antagonist;ABARELIX
+antagonist;ABATACEPT
+inhibitor;ABATACEPT
+inhibitor;ABC-294640
+antagonist;ABCIXIMAB
+inhibitor;ABCIXIMAB
+agonist;ABEDITEROL
+inhibitor;ABEMACICLIB
+inhibitor;ABEXINOSTAT
+inhibitor;ABIRATERONE
+inhibitor;ABIRATERONE ACETATE
+inhibitor;ABITUZUMAB
+inhibitor;ABIVERTINIB
+inhibitor;ABOBOTULINUMTOXINA
+inhibitor;ABROCITINIB
+antagonist;ABT 737
+antagonist;ABT-102
+agonist;ABT-107
+agonist;ABT-126
+antagonist;ABT-288
+inhibitor;ABT-384
+modulator;ABT-560
+blocker;ABT-639
+inhibitor;ABX-IL8
+inhibitor;AC-430
+inhibitor;AC-480
+inhibitor;ACALABRUTINIB
+inhibitor;ACALISIB
+antagonist;ACAMPROSATE
+positive modulator;ACAMPROSATE
+antagonist;ACAMPROSATE CALCIUM
+inhibitor;ACARBOSE
+antagonist;ACEBUTOLOL
+partial agonist;ACEBUTOLOL
+antagonist;ACEBUTOLOL HYDROCHLORIDE
+inhibitor;ACECLOFENAC
+antagonist;ACEMETACIN
+inhibitor;ACENOCOUMAROL
+antagonist;ACEPROMAZINE
+antagonist;ACEPROMETAZINE
+activator;ACETALDEHYDE
+activator;ACETAMINOPHEN
+inhibitor;ACETAMINOPHEN
+inhibitor;ACETAZOLAMIDE
+inhibitor;ACETAZOLAMIDE SODIUM
+blocker;ACETOHEXAMIDE
+inhibitor;ACETOHEXAMIDE
+antagonist;ACETOPHENAZINE
+antagonist;ACETOPHENAZINE MALEATE
+agonist;ACETYLCHOLINE
+agonist;ACETYLCHOLINE CHLORIDE
+activator;ACETYLCYSTEINE
+inhibitor;ACETYLCYSTEINE
+ligand;ACETYLCYSTEINE
+modulator;ACETYLCYSTEINE
+stimulator;ACETYLCYSTEINE
+inhibitor;ACETYLDIGITOXIN
+agonist;ACIFRAN
+agonist;ACIPIMOX
+agonist;ACITRETIN
+antagonist;ACLIDINIUM
+antagonist;ACLIDINIUM BROMIDE
+modulator;ACOLBIFENE
+activator;ACONITINE
+antagonist;ACRIVASTINE
+activator;ACROLEIN
+inhibitor;ACUMAPIMOD
+antibody;ADALIMUMAB
+inhibitor;ADALIMUMAB
+agonist;ADAPALENE
+antagonist;ADAPALENE
+inhibitor;ADAPALENE
+inhibitor;ADAVOSERTIB
+antagonist;ADC3680
+inhibitor;ADECATUMUMAB
+activator;ADEMETIONINE
+cofactor;ADEMETIONINE
+agonist;ADENOSINE
+blocker;ADENOSINE
+inhibitor;ADENOSINE
+agonist;ADENOSINE DIPHOSPHATE
+inhibitor;ADENOSINE DIPHOSPHATE
+activator;ADENOSINE PHOSPHATE
+inhibitory allosteric modulator,antagonist;ADENOSINE PHOSPHATE
+product of;ADENOSINE PHOSPHATE
+activator;ADENOSINE TRIPHOSPHATE
+agonist;ADENOSINE TRIPHOSPHATE
+agonist,antagonist;ADENOSINE TRIPHOSPHATE
+blocker,inhibitor;ADENOSINE TRIPHOSPHATE
+cofactor;ADENOSINE TRIPHOSPHATE
+inhibitor;ADENOSINE TRIPHOSPHATE
+ligand;ADINAZOLAM
+positive modulator;ADINAZOLAM
+partial agonist;ADIPIPLON
+agonist;ADL-5747
+antagonist;ADOMEGLIVANT
+agonist;ADP-597
+agonist;ADU-S100
+inhibitor;AEE-788
+inhibitor;AEW-541
+antagonist;AFACIFENACIN
+blocker;AFACIFENACIN
+agonist;AFAMELANOTIDE
+inhibitor;AFATINIB
+inhibitor;AFATINIB DIMALEATE
+inhibitor;AFELIMOMAB
+agonist;AFIMOXIFENE
+agonist,antagonist;AFIMOXIFENE
+antagonist;AFIMOXIFENE
+inhibitor;AFIMOXIFENE
+modulator;AFIMOXIFENE
+antibody;AFLIBERCEPT
+binder;AFLIBERCEPT
+inhibitor;AFLIBERCEPT
+inhibitor;AFURESERTIB
+inhibitor;AG-13958
+inhibitor;AG-24322
+agonist;AGATOLIMOD
+inhibitor;AGATOLIMOD
+agonist;AGATOLIMOD SODIUM
+activator;AGMATINE
+agonist;AGMATINE
+antagonist;AGMATINE
+agonist;AGOMELATINE
+antagonist;AGOMELATINE
+inhibitor;AJMALINE
+inhibitor;AKN-028
+inhibitor;AL-901
+antagonist;ALACIZUMAB PEGOL
+inhibitor;ALANINE
+inhibitor;ALBENDAZOLE
+agonist;ALBIGLUTIDE
+agonist;ALBINTERFERON ALFA-2B
+agonist;ALBUTEROL
+agonist;ALBUTEROL SULFATE
+antagonist;ALCAFTADINE
+antagonist;ALCLOFENAC
+agonist;ALCLOMETASONE
+agonist;ALCLOMETASONE DIPROPIONATE
+agonist;ALCOHOL
+antagonist;ALCOHOL
+allosteric modulator;ALCURONIUM
+agonist;ALDESLEUKIN
+agonist,modulator;ALDESLEUKIN
+agonist;ALDOSTERONE
+inhibitor;ALDOXORUBICIN
+inhibitor;ALECTINIB
+inhibitor;ALECTINIB HYDROCHLORIDE
+inhibitor;ALEFACEPT
+agonist;ALEGLITAZAR
+agonist;ALEMCINAL
+antibody;ALEMTUZUMAB
+inhibitor;ALEMTUZUMAB
+inhibitor;ALENDRONATE SODIUM
+inhibitor;ALENDRONIC ACID
+inhibitor;ALEPLASININ
+agonist;ALFACALCIDOL
+agonist;ALFENTANIL
+agonist;ALFENTANIL HYDROCHLORIDE
+inhibitor;ALFLUTINIB
+antagonist;ALFUZOSIN
+inhibitor;ALFUZOSIN
+agonist;ALFUZOSIN HYDROCHLORIDE
+inhibitor;ALIROCUMAB
+inhibitor;ALISERTIB
+inhibitor;ALISKIREN
+inhibitor;ALISKIREN FUMARATE
+agonist;ALITRETINOIN
+inhibitor;ALITRETINOIN
+antagonist;ALIZAPRIDE
+activator;ALLICIN
+blocker;ALLICIN
+inhibitor;ALLITINIB
+inhibitor;ALLOPURINOL
+inhibitor;ALLOPURINOL SODIUM
+antagonist;ALLOXAZINE
+agonist;ALLYLESTRENOL
+binder;ALMITRINE
+antagonist;ALMOREXANT
+agonist;ALMOTRIPTAN
+agonist;ALMOTRIPTAN MALATE
+agonist;ALNIDITAN
+inhibitor;ALOGLIPTIN
+inhibitor;ALOGLIPTIN BENZOATE
+inhibitor;ALOISINE
+antagonist;ALOSETRON
+antagonist;ALOSETRON HYDROCHLORIDE
+inhibitor;ALOXISTATIN
+inhibitor;ALPELISIB
+allosteric modulator;ALPRAZOLAM
+ligand;ALPRAZOLAM
+positive modulator;ALPRAZOLAM
+antagonist;ALPRENOLOL
+activator;ALPROSTADIL
+agonist;ALPROSTADIL
+antagonist;ALSEROXYLON
+inhibitor;ALSTERPAULLONE
+activator;ALTEPLASE
+agonist;ALTINICLINE
+inhibitor;ALTIRATINIB
+inhibitor;ALUMINUM CHLORIDE
+inhibitor;ALVELESTAT
+antagonist;ALVERINE
+inhibitor;ALVESPIMYCIN
+antagonist;ALVIMOPAN
+inhibitor;ALVOCIDIB
+antagonist;AM-211
+antagonist;AM-461
+inhibitor;AMA0076
+agonist;AMANTADINE
+antagonist;AMANTADINE
+blocker;AMANTADINE
+antagonist;AMANTADINE HYDROCHLORIDE
+inhibitor;AMATUXIMAB
+inhibitor;AMBENONIUM
+inhibitor;AMBENONIUM CHLORIDE
+antagonist;AMBRISENTAN
+agonist;AMCINONIDE
+inhibitor;AME-133V
+antagonist;AMELUBANT
+antagonist;AMESERGIDE
+antagonist;AMG-108
+inhibitor;AMG-208
+inhibitor;AMG-319
+inhibitor;AMG-337
+antagonist;AMG-517
+inhibitor;AMG-548
+inhibitor;AMG-714
+antibody;AMG-888
+inhibitor;AMG-900
+agonist;AMIBEGRON
+agonist;AMIBEGRON HYDROCHLORIDE
+blocker;AMIFAMPRIDINE
+inducer;AMIFOSTINE
+blocker;AMILORIDE
+inhibitor;AMILORIDE
+blocker;AMILORIDE HYDROCHLORIDE
+inhibitor;AMINOCAPROIC ACID
+inhibitor;AMINOETHOXYVINYLGLYCINE
+inhibitor;AMINOGLUTETHIMIDE
+activator;AMINOPHYLLINE
+antagonist;AMINOPHYLLINE
+inhibitor;AMINOPHYLLINE
+inhibitor;AMINOSALICYLATE POTASSIUM
+inhibitor;AMINOSALICYLATE SODIUM
+agonist;AMIODARONE
+blocker;AMIODARONE
+inhibitor;AMIODARONE
+negative modulator,inhibitor;AMIODARONE
+blocker;AMIODARONE HYDROCHLORIDE
+modulator;AMISELIMOD HYDROCHLORIDE
+antagonist;AMISULPRIDE
+agonist;AMITRIPTYLINE
+agonist,activator;AMITRIPTYLINE
+agonist,antagonist;AMITRIPTYLINE
+antagonist;AMITRIPTYLINE
+antagonist,inhibitor;AMITRIPTYLINE
+binder;AMITRIPTYLINE
+blocker;AMITRIPTYLINE
+inhibitor;AMITRIPTYLINE
+inhibitor,inducer;AMITRIPTYLINE
+ligand;AMITRIPTYLINE
+inhibitor;AMITRIPTYLINE HYDROCHLORIDE
+antagonist;AMLEXANOX
+inhibitor;AMLEXANOX
+inhibitor;AMLODIPINE
+blocker;AMLODIPINE BESYLATE
+blocker;AMLODIPINE MALEATE
+antagonist;AMMONIUM TRICHLOROTELLURATE
+inhibitor;AMMONIUM TRICHLOROTELLURATE
+antagonist;AMOBARBITAL
+potentiator;AMOBARBITAL
+inhibitor;AMODIAQUINE
+antagonist;AMOXAPINE
+binder;AMOXAPINE
+inhibitor;AMOXAPINE
+antibody;AMP-224
+agonist;AMP579
+antagonist;AMPEROZIDE
+activator;AMPHETAMINE
+agonist;AMPHETAMINE
+binder;AMPHETAMINE
+inhibitor;AMPHETAMINE
+negative modulator;AMPHETAMINE
+stimulator;AMPHETAMINE
+inhibitor;AMRUBICIN
+inhibitor;AMRUBICIN HYDROCHLORIDE
+inhibitor;AMSACRINE
+negative modulator;AMSACRINE
+agonist;AMTHAMINE
+inhibitor;AMUVATINIB
+agonist;AMYLIN
+antagonist;AMYLMETACRESOL
+blocker;AMYLOCAINE
+inhibitor;AN-9
+inhibitor;ANACETRAPIB
+inhibitor;ANAGRELIDE
+inhibitor;ANAGRELIDE HYDROCHLORIDE
+antagonist;ANAKINRA
+agonist;ANAMORELIN HYDROCHLORIDE
+activator;ANANDAMIDE
+agonist;ANANDAMIDE
+allosteric modulator;ANANDAMIDE
+blocker;ANANDAMIDE
+inhibitor;ANANDAMIDE
+inhibitor;ANASTROZOLE
+antagonist;ANATIBANT
+agonist;ANCESTIM
+antagonist;ANCRIVIROC
+antibody;ANDECALIXIMAB
+inhibitor;ANDECALIXIMAB
+activator;ANDOLAST
+agonist;ANDROSTANEDIOL
+agonist;ANDROSTANOLONE
+inducer;ANDROSTENEDIONE
+positive modulator;ANDROSTENEDIONE
+antibody;ANIFROLUMAB
+agonist;ANILERIDINE
+agonist;ANILERIDINE HYDROCHLORIDE
+agonist;ANILERIDINE PHOSPHATE
+allosteric modulator;ANIRACETAM
+inhibitor;ANISINDIONE
+antagonist;ANISOTROPINE METHYLBROMIDE
+activator;ANISTREPLASE
+inhibitor;ANLOTINIB
+inhibitor;ANRUKINZUMAB
+antagonist;ANTALARMIN
+inhibitor;ANTAQ
+antagonist;ANTAZOLINE
+antagonist;ANTAZOLINE PHOSPHATE
+agonist;ANTHRALIN
+antagonist;ANTHRALIN
+agonist;ANTI-INHIBITOR COAGULANT COMPLEX
+cleavage;ANTI-INHIBITOR COAGULANT COMPLEX
+inhibitor;ANTIPYRINE
+antagonist;ANTI-THYMOCYTE GLOBULIN (RABBIT)
+binder;ANTI-THYMOCYTE GLOBULIN (RABBIT)
+inhibitor;ANTI-THYMOCYTE GLOBULIN (RABBIT)
+inhibitor;ANTRAFENINE
+agonist;APADENOSON
+antagonist;APAFANT
+antagonist;APALUTAMIDE
+inhibitor;APAMIN
+inhibitor;APATORSEN
+antagonist;APC-100
+inhibitor;APICIDIN
+activator;APIGENIN
+inhibitor;APILIMOD
+partial agonist;APIMOSTINEL
+inhibitor;APITOLISIB
+inhibitor;APIXABAN
+antagonist;APLAVIROC
+antagonist;APLAVIROC HYDROCHLORIDE
+partial agonist;APLINDORE FUMARATE
+partial agonist;APN1125
+antibody;APOMAB
+activator;APOMORPHINE
+agonist;APOMORPHINE
+antagonist;APOMORPHINE
+agonist;APOMORPHINE HYDROCHLORIDE
+agonist;APRACLONIDINE
+agonist;APRACLONIDINE HYDROCHLORIDE
+inhibitor;APRATASTAT
+antagonist;APREMILAST
+inhibitor;APREMILAST
+antagonist;APREPITANT
+inhibitor;APRICOXIB
+inhibitor;APRINDINE
+antisense oligonucleotide;APRINOCARSEN
+antagonist;APROBARBITAL
+potentiator;APROBARBITAL
+antagonist;APROCITENTAN
+inhibitor;APROTININ
+agonist;AQW051
+partial agonist;AQW051
+inhibitor;AR-12
+ligand;ARACHIDONIC ACID
+agonist;ARACHIDONOYL GLYCINE
+agonist;ARANIDIPINE
+antagonist;ARANIDIPINE
+agonist;ARBACLOFEN
+agonist;ARBACLOFEN PLACARBIL
+agonist;ARBUTAMINE
+inhibitor;ARBUTIN
+activator;ARCAINE
+activator;ARDEPARIN SODIUM
+agonist;ARECOLINE
+agonist;ARFORMOTEROL
+agonist;ARFORMOTEROL TARTRATE
+inhibitor;ARGATROBAN
+agonist;ARGININE
+inhibitor;ARHALOFENATE
+modulator;ARHALOFENATE
+inhibitor;ARIMIDEX
+agonist;ARIPIPRAZOLE
+antagonist;ARIPIPRAZOLE
+antagonist,ligand;ARIPIPRAZOLE
+antagonist,ligand,partial agonist;ARIPIPRAZOLE
+antagonist,partial agonist;ARIPIPRAZOLE
+inverse agonist;ARIPIPRAZOLE
+ligand;ARIPIPRAZOLE
+modulator;ARIPIPRAZOLE
+partial agonist;ARIPIPRAZOLE
+antagonist;ARIPIPRAZOLE LAUROXIL
+partial agonist;ARIPIPRAZOLE LAUROXIL
+antagonist,inhibitor;ARMODAFINIL
+inhibitor;ARMODAFINIL
+antagonist;AROTINOLOL
+agonist;ARPROMIDINE
+antagonist;ARPROMIDINE
+inhibitor;ARQ-736
+inhibitor;ARRY-300
+inhibitor;ARRY-382
+antagonist;ARRY-502
+inhibitor;ARRY-797
+inhibitor;ARSENIC TRIOXIDE
+ligand;ARTENIMOL
+blocker;ARTICAINE HYDROCHLORIDE
+inhibitor;AS-602868
+inhibitor;AS-703988
+antagonist;ASAPIPRANT
+allosteric modulator;ASCIMINIB
+inhibitor;ASCIMINIB
+inhibitor;ASCRINVACUMAB
+inhibitor;ASELIZUMAB
+agonist;ASENAPINE
+antagonist;ASENAPINE
+antagonist;ASENAPINE MALEATE
+inhibitor;ASK-8007
+antagonist;ASM-024
+modulator;ASM-024
+antagonist;ASOPRISNIL
+modulator;ASOPRISNIL
+inhibitor;ASP-3026
+agonist;ASP-4058
+positive modulator;ASP7991
+inhibitor;ASPARAGINE
+substrate;ASPARAGINE
+agonist;ASPARTAME
+inducer;ASPARTAME
+substrate;ASPARTIC ACID
+blocker;ASPIRIN
+inhibitor;ASPIRIN
+inhibitor;AST-487
+antagonist;ASTEMIZOLE
+blocker;ASTEMIZOLE
+inhibitor;ASTEMIZOLE
+vaccine;ASTUPROTIMUT-R
+inhibitor;AT-13148
+antagonist;AT-406
+inhibitor;AT-7519
+inhibitor;AT-9283
+inhibitor;ATABECESTAT
+inhibitor;ATACICEPT
+modulator;ATAGABALIN
+antagonist;ATENOLOL
+antibody;ATEZOLIZUMAB
+inhibitor;ATEZOLIZUMAB
+antagonist;ATICAPRANT
+agonist;ATILMOTIN
+binder;ATOMOXETINE
+blocker;ATOMOXETINE
+inhibitor;ATOMOXETINE
+partial agonist;ATOMOXETINE
+inhibitor;ATOMOXETINE HYDROCHLORIDE
+antagonist;ATOPAXAR
+agonist;ATORVASTATIN
+inhibitor;ATORVASTATIN
+ligand;ATORVASTATIN
+inhibitor;ATORVASTATIN CALCIUM
+antagonist;ATOSIBAN
+inhibitor;ATOVAQUONE
+antagonist;ATRACURIUM
+antagonist;ATRACURIUM BESYLATE
+antagonist;ATRASENTAN
+antagonist;ATRASENTAN HYDROCHLORIDE
+antagonist;ATROPINE
+antagonist;ATROPINE SULFATE
+modulator;ATX08-001
+inhibitor;AUPHEN
+activator;AURANOFIN
+inhibitor;AURANOFIN
+ligand;AURYXIA
+agonist;AUS-131
+antagonist;AV-101
+antibody;AV-203
+antagonist;AVACOPAN
+inhibitor;AVAGACESTAT
+inhibitor;AVANAFIL
+inhibitor;AVAPRITINIB
+agonist;AVATROMBOPAG
+inhibitor;AVATROMBOPAG
+agonist;AVE0847
+antagonist;AVE-1642
+agonist;AVE8134
+inhibitor;AVE-9940
+antagonist;AVELUMAB
+antibody;AVELUMAB
+agonist;AVITRIPTAN
+positive modulator;AVL-3288
+antagonist;AVOSENTAN
+antagonist;AXELOPRAN
+inhibitor;AXITINIB
+inhibitor;AXL-1717
+agonist;AXOMADOL
+inhibitor;AZ9773
+inhibitor;AZACITIDINE
+inhibitor;AZALANSTAT
+antagonist;AZATADINE
+antagonist;AZATADINE MALEATE
+inhibitor;AZATHIOPRINE
+modulator;AZATHIOPRINE
+inhibitor;AZATHIOPRINE SODIUM
+inhibitor;AZD-0156
+agonist;AZD0328
+inhibitor;AZD-0424
+inhibitor;AZD-1080
+inhibitor;AZD-1208
+inhibitor;AZD-1236
+blocker;AZD1305
+antagonist;AZD1386
+inhibitor;AZD1386
+agonist;AZD1446
+inhibitor;AZD-1480
+activator;AZD-1656
+antagonist;AZD1981
+inhibitor;AZD-2014
+modulator;AZD2066
+antagonist;AZD2207
+allosteric modulator;AZD2423
+antagonist;AZD2423
+blocker;AZD3161
+agonist;AZD3199
+modulator;AZD3514
+inhibitor;AZD-3839
+inhibitor;AZD-4017
+inhibitor;AZD-4547
+inhibitor;AZD-4769
+antagonist;AZD4818
+inhibitor;AZD-4877
+inhibitor;AZD-5363
+inhibitor;AZD-5438
+antagonist;AZD5672
+positive modulator;AZD6280
+inhibitor;AZD-6482
+inhibitor;AZD-6703
+inhibitor;AZD-6918
+blocker;AZD7009
+allosteric modulator;AZD7325
+antagonist;AZD7325
+positive modulator;AZD7325
+inhibitor;AZD-7451
+inhibitor;AZD-7624
+inhibitor;AZD-7687
+inhibitor;AZD-7762
+inhibitor;AZD-8055
+antagonist;AZD8108
+inhibitor;AZD-8186
+inhibitor;AZD-8330
+antagonist;AZD8683
+inhibitor;AZD-8835
+antagonist;AZD9056
+antagonist;AZELASTINE
+inhibitor;AZELASTINE
+antagonist;AZELASTINE HYDROCHLORIDE
+antagonist;AZELIRAGON
+agonist;AZELNIDIPINE
+inhibitor;AZIDOPINE
+inhibitor;AZILECT
+antagonist;AZILSARTAN
+antagonist;AZILSARTAN KAMEDOXOMIL
+agonist;AZITHROMYCIN
+inhibitor;AZITHROMYCIN
+inhibitor;AZM-475271
+inhibitor;BACITRACIN
+agonist;BACLOFEN
+inhibitor;BAFETINIB
+inhibitor;BAFILOMYCIN A1
+partial agonist;BALAGLITAZONE
+inhibitor;BALAMAPIMOD
+inhibitor;BALANOL
+inhibitor;BALICATIB
+antagonist;BALOVAPTAN
+agonist;BALSALAZIDE
+inhibitor;BALSALAZIDE
+agonist;BALSALAZIDE DISODIUM
+inhibitor;BALSALAZIDE DISODIUM
+agonist;BALUGRASTIM
+agonist;BAMBUTEROL
+inhibitor;BAMBUTEROL
+inhibitor;BAMINERCEPT
+inhibitor;BAN2401
+inhibitor;BARASERTIB
+antagonist;BARBITAL
+potentiator;BARBITAL
+agonist;BARDOXOLONE
+antagonist;BARDOXOLONE METHYL
+inhibitor;BARDOXOLONE METHYL
+inhibitor;BARICITINIB
+antagonist;BARNIDIPINE
+antagonist;BARUSIBAN
+antibody;BASILIXIMAB
+inhibitor;BASILIXIMAB
+allosteric modulator;BASIMGLURANT
+modulator;BASIMGLURANT
+allosteric modulator;BASMISANIL
+agonist;BATEFENTEROL
+antagonist;BATEFENTEROL
+inhibitor;BATIMASTAT
+antagonist;BAVISANT
+antibody;BAVITUXIMAB
+agonist;BAY1067197
+inhibitor;BAY-1082439
+inhibitor;BAY-1125976
+inhibitor;BAY-1161909
+inhibitor;BAY-1217389
+agonist,antagonist;BAZEDOXIFENE
+antagonist;BAZEDOXIFENE
+modulator;BAZEDOXIFENE ACETATE
+antagonist;BECAMPANEL
+agonist;BECAPLERMIN
+inhibitor;BECATECARIN
+agonist;BECLOMETHASONE DIPROPIONATE
+agonist;BECOCALCIDIOL
+agonist;BEDORADRINE
+agonist;BEDORADRINE SULFATE
+antagonist;BEFETUPITANT
+agonist;BEFIRADOL
+inhibitor;BEFLOXATONE
+inhibitor;BEGACESTAT
+antibody;BEGELOMAB
+inhibitor;BEGELOMAB
+antagonist;BELATACEPT
+inhibitor;BELATACEPT
+antibody;BELIMUMAB
+inhibitor;BELIMUMAB
+modulator;BELIMUMAB
+inhibitor;BELINOSTAT
+inhibitor;BELORANIB
+inhibitor;BEMCENTINIB
+antagonist;BEMIPARIN
+inhibitor;BEMPEDOIC ACID
+agonist;BEMPEGALDESLEUKIN
+inhibitor;BENAZEPRIL
+inhibitor;BENAZEPRIL HYDROCHLORIDE
+inhibitor;BENAZEPRILAT
+blocker;BENDAZAC
+inducer;BENDROFLUMETHIAZIDE
+inhibitor;BENDROFLUMETHIAZIDE
+antagonist;BENIDIPINE
+blocker;BENIDIPINE
+inhibitor;BENOXINATE
+blocker;BENOXINATE HYDROCHLORIDE
+antagonist;BENPERIDOL
+antibody;BENRALIZUMAB
+binder;BENRALIZUMAB
+inhibitor;BENRALIZUMAB
+inhibitor;BENSERAZIDE
+inhibitor;BENTAMAPIMOD
+ligand;BENTAZEPAM
+positive modulator;BENTAZEPAM
+ligand;BENTIROMIDE
+blocker;BENZAMIL
+antagonist;BENZATROPINE
+inhibitor;BENZATROPINE
+inhibitor;BENZBROMARONE
+inhibitor;BENZOCAINE
+ligand;BENZODIAZEPINE
+positive modulator;BENZODIAZEPINE
+modulator;BENZOIN
+inhibitor;BENZOLAMIDE
+antagonist;BENZONATATE
+activator;BENZOQUINONE
+agonist;BENZPHETAMINE
+inducer;BENZPHETAMINE
+inhibitor;BENZPHETAMINE
+inhibitor;BENZPHETAMINE HYDROCHLORIDE
+agonist;BENZQUINAMIDE
+antagonist;BENZQUINAMIDE
+inhibitor;BENZQUINAMIDE
+modulator;BENZQUINAMIDE HYDROCHLORIDE
+inhibitor;BENZTHIAZIDE
+antagonist;BENZTROPINE MESYLATE
+inhibitor;BENZYLCYSTEINE
+inhibitor;BENZYLPENICILLIN
+inhibitor,substrate;BENZYLPENICILLIN
+agonist;BENZYLPENICILLOYL POLYLYSINE
+antagonist;BEPAFANT
+antagonist;BEPOTASTINE
+antagonist;BEPOTASTINE BESYLATE
+binder;BEPRIDIL
+blocker;BEPRIDIL
+inhibitor;BEPRIDIL
+blocker;BEPRIDIL HYDROCHLORIDE
+agonist;BERAPROST
+inhibitor;BERMEKIMAB
+inhibitor;BERTILIMUMAB
+inhibitor;BERUBICIN HYDROCHLORIDE
+inhibitor;BERZOSERTIB
+binder;BETA CAROTENE
+agonist;BETAHISTINE
+antagonist;BETAHISTINE
+agonist;BETAMETHASONE
+agonist;BETAMETHASONE ACETATE
+agonist;BETAMETHASONE BENZOATE
+agonist;BETAMETHASONE DIPROPIONATE
+agonist;BETAMETHASONE PHOSPHORIC ACID
+agonist;BETAMETHASONE SODIUM PHOSPHATE
+agonist;BETAMETHASONE VALERATE
+antagonist;BETAXOLOL
+antagonist;BETAXOLOL HYDROCHLORIDE
+agonist;BETAZOLE
+agonist;BETAZOLE HYDROCHLORIDE
+agonist;BETHANECHOL
+agonist;BETHANECHOL CHLORIDE
+agonist;BETHANIDINE
+antagonist;BETHANIDINE
+inhibitor;BETHANIDINE
+inhibitor;BETRIXABAN
+antibody;BEVACIZUMAB
+inhibitor;BEVACIZUMAB
+antagonist;BEVANTOLOL
+antagonist;BEVENOPRAN
+inhibitor;BEXAGLIFLOZIN
+activator;BEXAROTENE
+agonist;BEXAROTENE
+antagonist;BEXAROTENE
+agonist;BEZAFIBRATE
+partial agonist;BEZAFIBRATE
+inhibitor;BGT-226
+inhibitor;BHQ-880
+antagonist;BI113823
+inhibitor;BI-2536
+antagonist;BI-505
+inhibitor;BI-811283
+inhibitor;BI-853520
+antagonist;BICALUTAMIDE
+antagonist;BICUCULLINE
+blocker;BICUCULLINE
+partial agonist;BIFEPRUNOX
+inhibitor;BIIB021
+inhibitor;BIIB059
+antagonist;BILASTINE
+antagonist;BILOBALIDE
+antagonist;BIMAGRUMAB
+antibody;BIMAGRUMAB
+agonist;BIMATOPROST
+inhibitor;BIMIRALISIB
+inhibitor;BIMOSIAMOSE
+allosteric modulator;BINIMETINIB
+inhibitor;BINIMETINIB
+agonist;BINODENOSON
+agonist;BIOALLETHRIN
+blocker;BIOALLETHRIN
+modulator;BIOALLETHRIN
+cofactor;BIOTIN
+substrate;BIOTIN
+antagonist;BIPERIDEN
+antagonist;BIPERIDEN HYDROCHLORIDE
+antagonist;BIPERIDEN LACTATE
+antagonist;BIRINAPANT
+inhibitor;BIRINAPANT
+inhibitor;BISMUTH SUBSALICYLATE
+antagonist;BISOPROLOL
+antagonist;BISOPROLOL FUMARATE
+inhibitor;BITHIONOL
+agonist;BITOLTEROL MESYLATE
+inhibitor;BITOPERTIN
+inhibitor;BIVALIRUDIN
+antagonist;BKT140
+cleavage;BLEOMYCIN
+inhibitor;BLEOMYCIN
+activator;BLINATUMOMAB
+antibody;BLINATUMOMAB
+inhibitor;BLISIBIMOD
+antagonist;BLONANSERIN
+inhibitor;BLOSOZUMAB
+inhibitor;BMS-214662
+activator;BMS-223131
+allosteric modulator;BMS-345541
+inhibitor;BMS-387032
+inhibitor;BMS-582949
+inhibitor;BMS-690514
+inhibitor;BMS-698769
+inhibitor;BMS-754807
+inhibitor;BMS-777607
+agonist;BMS-779788
+inhibitor;BMS-794833
+inhibitor;BMS-817378
+antagonist;BMS-817399
+inhibitor;BMS-823778
+antagonist;BMS-833923
+modulator;BMS-852927
+inhibitor;BMS-863233
+inhibitor;BMS-911543
+antibody;BMS-936559
+antagonist;BMS-986020
+inhibitor;BMS-986142
+agonist;BMY-14802
+agonist;BMY-7378
+antagonist;BMY-7378
+antagonist;BNTX
+inhibitor;BOCEPREVIR
+inhibitor;BOCOCIZUMAB
+inhibitor;BOHEMINE
+agonist;BOLDENONE UNDECYLENATE
+agonist;BOMBESIN
+partial agonist;BOPINDOLOL
+inhibitor;BORTEZOMIB
+antagonist;BOSENTAN
+inhibitor;BOSUTINIB
+inhibitor;BOTULINUM TOXIN TYPE B
+inhibitor;BPI-9016
+allosteric modulator;BPN-14770
+antagonist;BQ-123
+agonist;BRADANICLINE
+agonist;BRADYKININ
+inhibitor;BRANEBRUTINIB
+agonist;BREMELANOTIDE
+antibody;BRENTUXIMAB
+inhibitor;BRENTUXIMAB VEDOTIN
+inhibitor;BREPOCITINIB
+inhibitor;BREQUINAR
+allosteric modulator;BRETAZENIL
+inhibitor;BRETYLIUM
+positive modulator;BREXANOLONE
+agonist;BREXPIPRAZOLE
+agonist,partial agonist;BREXPIPRAZOLE
+antagonist;BREXPIPRAZOLE
+partial agonist;BREXPIPRAZOLE
+inhibitor;BRIAKINUMAB
+inhibitor;BRICICLIB
+binder;BRIGATINIB
+inhibitor;BRIGATINIB
+antagonist;BRILANESTRANT
+inhibitor;BRIMAPITIDE
+agonist;BRIMONIDINE
+agonist;BRIMONIDINE TARTRATE
+inhibitor;BRINZOLAMIDE
+inhibitor;BRIVANIB
+inhibitor;BRIVANIB ALANINATE
+inhibitor;BRIVARACETAM
+modulator;BRIVARACETAM
+substrate;BRIVUDINE
+agonist;BRL-15,572
+antagonist;BRODALUMAB
+antibody;BRODALUMAB
+inhibitor;BROFAROMINE
+agonist;BROLAMFETAMINE
+inhibitor;BROLUCIZUMAB
+ligand;BROMAZEPAM
+positive modulator;BROMAZEPAM
+inhibitor;BROMFENAC
+inhibitor;BROMFENAC SODIUM
+agonist;BROMOCRIPTINE
+agonist,antagonist;BROMOCRIPTINE
+antagonist;BROMOCRIPTINE
+agonist;BROMOCRIPTINE MESYLATE
+antagonist;BROMODIPHENHYDRAMINE
+antagonist;BROMODIPHENHYDRAMINE HYDROCHLORIDE
+antagonist;BROMOPRIDE
+antagonist;BROMPHENIRAMINE
+antagonist;BROMPHENIRAMINE MALEATE
+ligand;BROTIZOLAM
+positive modulator;BROTIZOLAM
+allosteric modulator;BRUCINE
+inhibitor;BRYOSTATIN
+antagonist;BUCLIZINE
+antagonist,inhibitor;BUCLIZINE
+antagonist;BUCLIZINE HYDROCHLORIDE
+agonist;BUDESONIDE
+antagonist;BUDESONIDE
+substrate;BUDESONIDE
+inhibitor;BUFEXAMAC
+antagonist;BUFOTENINE
+antagonist;BUFURALOL
+agonist;BUMETANIDE
+antagonist;BUMETANIDE
+inhibitor;BUMETANIDE
+inhibitor;BUPARLISIB
+blocker;BUPIVACAINE
+inhibitor;BUPIVACAINE
+blocker;BUPIVACAINE HYDROCHLORIDE
+antagonist;BUPRANOLOL
+agonist;BUPRENORPHINE
+antagonist;BUPRENORPHINE
+partial agonist;BUPRENORPHINE
+agonist;BUPRENORPHINE HYDROCHLORIDE
+antagonist;BUPROPION
+inhibitor;BUPROPION
+negative modulator;BUPROPION
+inhibitor;BUPROPION HYDROBROMIDE
+inhibitor;BUPROPION HYDROCHLORIDE
+antagonist;BURAPITANT
+agonist;BURIMAMIDE
+antagonist;BURIMAMIDE
+antagonist;BURIXAFOR
+antagonist;BUROSUMAB
+inhibitor;BUROSUMAB
+agonist;BUSERELIN
+agonist;BUSPIRONE
+antagonist;BUSPIRONE
+partial agonist;BUSPIRONE
+partial agonist;BUSPIRONE HYDROCHLORIDE
+modulator;BUSULFAN
+antagonist;BUTABARBITAL
+inhibitor;BUTABARBITAL
+positive modulator;BUTABARBITAL
+positive modulator;BUTABARBITAL SODIUM
+antagonist;BUTALBITAL
+positive modulator;BUTALBITAL
+potentiator;BUTALBITAL
+antagonist;BUTAMBEN
+inhibitor;BUTAMBEN
+inhibitor;BUTENAFINE
+antagonist;BUTETHAL
+potentiator;BUTETHAL
+agonist;BUTORPHANOL
+partial antagonist;BUTORPHANOL
+partial agonist;BUTORPHANOL TARTRATE
+antagonist;BUTRIPTYLINE
+antagonist,inhibitor;BUTRIPTYLINE
+antagonist;BUTYLSCOPOLAMINE
+agonist;BVT.115959
+inhibitor;BX-795
+inhibitor;C-1311
+binder;CABAZITAXEL
+inhibitor;CABAZITAXEL
+agonist;CABERGOLINE
+antagonist;CABERGOLINE
+binder;CABERGOLINE
+antibody;CABIRALIZUMAB
+antagonist;CABOZANTINIB
+inhibitor;CABOZANTINIB
+inhibitor;CABOZANTINIB S-MALATE
+activator;CAFFEINE
+antagonist;CAFFEINE
+antagonist,multitarget;CAFFEINE
+inhibitor;CAFFEINE
+antagonist;CAFFEINE, CITRATED
+inhibitor;CAFUSERTIB
+inhibitor;CAL
+inhibitor;CAL-263
+agonist;CALCIFEDIOL
+agonist;CALCIPOTRIENE
+agonist;CALCIPOTRIOL
+antagonist;CALCIPOTRIOL
+agonist;CALCITONIN
+agonist;CALCITONIN HUMAN
+agonist;CALCITONIN SALMON RECOMBINANT
+agonist;CALCITRIOL
+antagonist;CALCITRIOL
+agonist;CALCIUM
+ligand;CALCIUM
+antagonist,inhibitor;CALCIUM CARBIMIDE
+agonist;CALCIUM CITRATE
+ligand;CALCIUM CITRATE
+agonist;CALCIUM PHOSPHATE, TRIBASIC
+ligand;CALCIUM PHOSPHATE, TRIBASIC
+allosteric modulator;CALINDOL
+ligand;CAMAZEPAM
+positive modulator;CAMAZEPAM
+inhibitor;CAMBINOL
+agonist;CAMICINAL
+inhibitor;CAMOSTAT
+activator;CAMPHOR
+agonist,activator;CAMPHOR
+inhibitor;CAMPHOR
+inhibitor;CANAGLIFLOZIN
+antibody;CANAKINUMAB
+binder;CANAKINUMAB
+inhibitor;CANAKINUMAB
+inhibitor;CANALINE
+antagonist;CANDESARTAN
+antagonist;CANDESARTAN CILEXETIL
+inhibitor;CANDOXATRIL
+inhibitor;CANDOXATRILAT
+inhibitor;CANERTINIB
+inhibitor;CANERTINIB DIHYDROCHLORIDE
+antagonist;CANGRELOR
+inhibitor;CANGRELOR
+antagonist;CANGRELOR TETRASODIUM
+activator;CANNABIDIOL
+agonist;CANNABIDIOL
+allosteric modulator;CANNABIDIOL
+antagonist;CANNABIDIOL
+blocker;CANNABIDIOL
+inhibitor;CANNABIDIOL
+inverse agonist;CANNABIDIOL
+modulator,antagonist;CANNABIDIOL
+potentiator;CANNABIDIOL
+stimulator;CANNABIDIOL
+agonist;CANNABIDIVARIN
+inhibitor;CANNABIDIVARIN
+agonist;CANNABINOL
+agonist;CANTHARIDIN
+partial agonist;CAPADENOSON
+inhibitor;CAPECITABINE
+negative modulator;CAPECITABINE
+agonist;CAPESEROD
+partial agonist;CAPESEROD
+inhibitor;CAPIVASERTIB
+inhibitor;CAPLACIZUMAB
+inhibitor;CAPMATINIB
+antibody;CAPROMAB
+activator;CAPSAICIN
+agonist;CAPSAICIN
+blocker;CAPSAZEPINE
+agonist;CAPTODIAME
+antagonist;CAPTODIAME
+inhibitor;CAPTOPRIL
+agonist;CARAZOLOL
+antagonist;CARAZOLOL
+agonist;CARBACHOL
+agonist;CARBACYCLIN
+activator;CARBAMAZEPINE
+allosteric modulator;CARBAMAZEPINE
+blocker;CARBAMAZEPINE
+inhibitor;CARBAMAZEPINE
+inhibitor;CARBENOXOLONE
+agonist;CARBETAPENTANE
+antagonist;CARBETAPENTANE
+inhibitor;CARBETAPENTANE
+agonist;CARBETOCIN
+inhibitor;CARBIDOPA
+inhibitor;CARBIMAZOLE
+antagonist;CARBINOXAMINE
+antagonist;CARBINOXAMINE MALEATE
+modulator;CARBOPLATIN
+agonist;CARBOPROST TROMETHAMINE
+binder;CARBOXYMETHYLCELLULOSE
+agonist;CARFENTANIL
+inhibitor;CARFILZOMIB
+positive modulator;CARGLUMIC ACID
+agonist;CARIPRAZINE
+agonist,partial agonist;CARIPRAZINE
+antagonist;CARIPRAZINE
+modulator;CARIPRAZINE HYDROCHLORIDE
+modulator;CARISOPRODOL
+modulator,activator;CARISOPRODOL
+inhibitor;CARLUMAB
+inhibitor;CARMEGLIPTIN
+agonist;CARMOTEROL
+inhibitor;CARMUSTINE
+antibody;CAROTUXIMAB
+inhibitor;CAROTUXIMAB
+antagonist;CARPHENAZINE
+antagonist;CARPHENAZINE MALEATE
+inhibitor;CARPROFEN
+antagonist;CARTEOLOL
+partial agonist;CARTEOLOL
+antagonist;CARTEOLOL HYDROCHLORIDE
+antagonist;CARVEDILOL
+antagonist,potentiator;CARVEDILOL
+inhibitor;CARVEDILOL
+modulator;CARVEDILOL
+antagonist;CARVEDILOL PHOSPHATE
+antagonist;CASOPITANT
+agonist;CATUMAXOMAB
+antibody;CATUMAXOMAB
+ligand;CATUMAXOMAB
+antagonist;CB-189625
+inhibitor;CC-115
+inhibitor;CC-223
+inhibitor;CC-401
+antagonist;CCX140
+antagonist;CCX354
+inhibitor;CDP840
+inhibitor;CDP-860
+antagonist;CE-224535
+inhibitor;CE-245677
+agonist;CE-326597
+agonist;CEBRANOPADOL
+inhibitor;CEDELIZUMAB
+inhibitor;CEDIRANIB
+inhibitor;CEFAZOLIN
+inhibitor;CEFDINIR
+inhibitor;CELECOXIB
+agonist;CELIPROLOL
+antagonist;CELIPROLOL
+binder;CELLULOSE SODIUM PHOSPHATE
+antibody;CEMIPLIMAB
+inhibitor;CEMIPLIMAB
+agonist;CENDERITIDE
+stimulator;CENEGERMIN
+agonist;CENERIMOD
+ligand;CENESTIN
+antagonist;CENICRIVIROC
+inhibitor;CENISERTIB
+allosteric modulator;CENOBAMATE
+inhibitor;CEP-11981
+inhibitor;CEP-1347
+inhibitor;CEP-2563
+inhibitor;CEP-32496
+inhibitor;CEP-37440
+inhibitor;CEP-5214
+inhibitor;CEP-7055
+inhibitor;CEPHALOTHIN
+inhibitor;CEPROTIN
+agonist;CER-002
+inhibitor;CERALASERTIB
+inhibitor;CERDULATINIB
+antagonist;CERITINIB
+inhibitor;CERITINIB
+inhibitor;CERIVASTATIN
+inhibitor;CERIVASTATIN SODIUM
+antagonist;CERLAPIRDINE
+ligand;CERLIPONASE ALFA
+inhibitor;CERTOLIZUMAB PEGOL
+inhibitor;CERULENIN
+inducer;CERULETIDE
+agonist;CERULETIDE DIETHYLAMINE
+antagonist;CETIRIZINE
+antagonist;CETIRIZINE HYDROCHLORIDE
+antagonist;CETRORELIX
+antagonist;CETRORELIX ACETATE
+antagonist;CETUXIMAB
+antibody;CETUXIMAB
+inhibitor;CETUXIMAB
+agonist;CEVIMELINE
+agonist;CEVIMELINE HYDROCHLORIDE
+inhibitor;CFI-400945
+inhibitor;CGS-27023A
+inhibitor;CHAETOCIN
+allosteric modulator;CHELERYTHRINE
+inhibitor;CHELERYTHRINE
+inhibitor;CHEMBL104264
+inhibitor;CHEMBL1077979
+allosteric modulator;CHEMBL1084513
+inhibitor;CHEMBL1086377
+antagonist;CHEMBL1093266
+antagonist;CHEMBL112816
+binder;CHEMBL1161866
+inhibitor;CHEMBL117225
+antagonist;CHEMBL117281
+inhibitor;CHEMBL119054
+inhibitor;CHEMBL1208085
+inhibitor;CHEMBL1213603
+ligand;CHEMBL1233973
+inhibitor;CHEMBL1236539
+agonist,allosteric modulator;CHEMBL1242950
+agonist;CHEMBL1256672
+agonist;CHEMBL1256797
+agonist;CHEMBL126506
+inhibitor;CHEMBL126506
+negative modulator;CHEMBL126506
+agonist;CHEMBL127421
+agonist;CHEMBL1289260
+activator;CHEMBL1290115
+agonist;CHEMBL1290251
+antagonist;CHEMBL129257
+antagonist;CHEMBL1334465
+agonist;CHEMBL1354658
+substrate;CHEMBL139908
+antagonist;CHEMBL140979
+ligand;CHEMBL146245
+positive modulator;CHEMBL146245
+inhibitor;CHEMBL1476646
+agonist;CHEMBL153057
+agonist;CHEMBL158578
+agonist;CHEMBL159332
+inhibitor;CHEMBL1604848
+inhibitor;CHEMBL1628669
+agonist;CHEMBL1628670
+allosteric modulator;CHEMBL1630057
+antagonist;CHEMBL1672105
+agonist;CHEMBL1672354
+agonist;CHEMBL1682258
+agonist;CHEMBL169046
+antagonist;CHEMBL173562
+inhibitor;CHEMBL1765740
+agonist;CHEMBL1767409
+activator;CHEMBL177991
+antagonist;CHEMBL178707
+agonist;CHEMBL1790415
+inhibitor;CHEMBL1794051
+antagonist;CHEMBL179691
+antagonist;CHEMBL181633
+activator;CHEMBL1818218
+agonist;CHEMBL1829173
+blocker;CHEMBL185515
+antagonist;CHEMBL185951
+inhibitor;CHEMBL188434
+inhibitor;CHEMBL188678
+antagonist;CHEMBL189753
+inhibitor;CHEMBL1908395
+inhibitor;CHEMBL1908396
+antagonist;CHEMBL190883
+inhibitor;CHEMBL1910970
+inhibitor;CHEMBL1917204
+agonist;CHEMBL192359
+agonist;CHEMBL193836
+inhibitor;CHEMBL1951415
+inhibitor;CHEMBL1956070
+agonist;CHEMBL196779
+agonist;CHEMBL201013
+antagonist;CHEMBL201013
+antagonist;CHEMBL2018969
+agonist;CHEMBL2023109
+inhibitor;CHEMBL202701
+inhibitor;CHEMBL2062804
+inhibitor;CHEMBL2069623
+antagonist;CHEMBL207004
+inhibitor;CHEMBL209148
+antagonist;CHEMBL210692
+antagonist;CHEMBL2110360
+antagonist;CHEMBL2110363
+antagonist;CHEMBL21283
+antagonist;CHEMBL214957
+antagonist;CHEMBL2151157
+inhibitor;CHEMBL2153434
+inhibitor;CHEMBL2159511
+agonist;CHEMBL216543
+binder;CHEMBL216543
+inhibitor;CHEMBL216543
+inhibitor;CHEMBL2171124
+allosteric modulator;CHEMBL2179319
+agonist;CHEMBL219182
+inhibitor;CHEMBL2203843
+inhibitor;CHEMBL228043
+substrate;CHEMBL228057
+inhibitor;CHEMBL2347958
+antagonist;CHEMBL234940
+agonist;CHEMBL2365680
+agonist,antagonist;CHEMBL2365712
+antagonist;CHEMBL2397415
+antagonist;CHEMBL2448578
+inhibitor;CHEMBL255088
+inhibitor;CHEMBL256892
+allosteric modulator;CHEMBL257591
+inhibitor;CHEMBL259026
+inhibitor;CHEMBL261454
+agonist;CHEMBL270960
+agonist;CHEMBL275628
+inhibitor;CHEMBL282093
+antagonist;CHEMBL282199
+agonist;CHEMBL285819
+negative modulator;CHEMBL287038
+inhibitor;CHEMBL290376
+inhibitor;CHEMBL291314
+antagonist;CHEMBL291536
+allosteric modulator;CHEMBL292065
+partial agonist;CHEMBL292821
+inhibitor;CHEMBL294192
+antagonist;CHEMBL295212
+antagonist;CHEMBL296908
+blocker;CHEMBL298475
+antagonist;CHEMBL302196
+antagonist;CHEMBL306645
+agonist;CHEMBL309760
+inhibitor;CHEMBL313113
+antagonist;CHEMBL317090
+inhibitor;CHEMBL3185220
+stimulator;CHEMBL3185220
+agonist;CHEMBL3188202
+inhibitor;CHEMBL322970
+agonist;CHEMBL327745
+antagonist;CHEMBL3306201
+agonist;CHEMBL335538
+agonist;CHEMBL336292
+antagonist;CHEMBL336292
+antagonist;CHEMBL339486
+agonist;CHEMBL339611
+inhibitor;CHEMBL3397300
+inhibitor;CHEMBL3426621
+ligand;CHEMBL345292
+antagonist;CHEMBL351231
+antagonist;CHEMBL359632
+antagonist;CHEMBL361355
+antagonist;CHEMBL362051
+agonist;CHEMBL371214
+ligand;CHEMBL371428
+inhibitor;CHEMBL374027
+antagonist;CHEMBL375270
+antagonist;CHEMBL375293
+inhibitor;CHEMBL378577
+inhibitor;CHEMBL379218
+allosteric modulator;CHEMBL381055
+antagonist;CHEMBL38288
+inhibitor;CHEMBL3924132
+agonist;CHEMBL392760
+inhibitor;CHEMBL395280
+inhibitor;CHEMBL398940
+inhibitor;CHEMBL401930
+inhibitor;CHEMBL406375
+antagonist;CHEMBL407848
+agonist;CHEMBL409969
+agonist;CHEMBL410478
+inhibitor;CHEMBL411274
+antagonist;CHEMBL41275
+binder;CHEMBL4173394
+antagonist;CHEMBL417572
+inhibitor;CHEMBL417844
+inhibitor;CHEMBL420311
+antagonist;CHEMBL422420
+agonist;CHEMBL428135
+inhibitor;CHEMBL431210
+agonist;CHEMBL434063
+agonist;CHEMBL435278
+agonist;CHEMBL435323
+agonist;CHEMBL442494
+agonist;CHEMBL442577
+agonist;CHEMBL445001
+antagonist;CHEMBL446325
+antagonist;CHEMBL455536
+allosteric modulator;CHEMBL466253
+inhibitor;CHEMBL469212
+agonist;CHEMBL472273
+antagonist;CHEMBL473186
+allosteric modulator;CHEMBL473806
+antagonist;CHEMBL474991
+allosteric modulator;CHEMBL477396
+inhibitor;CHEMBL481422
+antagonist;CHEMBL482436
+ligand;CHEMBL488994
+inhibitor;CHEMBL489100
+allosteric modulator;CHEMBL490153
+blocker;CHEMBL490153
+agonist;CHEMBL493076
+allosteric modulator;CHEMBL493241
+agonist;CHEMBL494303
+inhibitor;CHEMBL494897
+agonist;CHEMBL497392
+antagonist;CHEMBL497392
+antagonist;CHEMBL500272
+antagonist;CHEMBL504559
+agonist;CHEMBL506495
+agonist;CHEMBL520992
+antagonist;CHEMBL522758
+antagonist;CHEMBL522770
+allosteric modulator;CHEMBL523685
+inhibitor;CHEMBL525191
+blocker;CHEMBL52627
+agonist;CHEMBL526281
+agonist;CHEMBL53325
+inhibitor;CHEMBL54004
+agonist;CHEMBL561013
+inhibitor;CHEMBL561708
+antagonist;CHEMBL56331
+antagonist;CHEMBL565591
+inhibitor;CHEMBL569864
+agonist;CHEMBL571858
+inhibitor;CHEMBL573107
+inhibitor;CHEMBL574003
+agonist;CHEMBL59030
+antagonist;CHEMBL592652
+inhibitor;CHEMBL592893
+allosteric modulator;CHEMBL595759
+antagonist;CHEMBL597997
+allosteric modulator;CHEMBL605836
+inhibitor;CHEMBL608559
+agonist;CHEMBL609245
+antagonist;CHEMBL64716
+antagonist;CHEMBL71917
+inhibitor;CHEMBL77287
+antagonist;CHEMBL88272
+allosteric modulator;CHEMBL88553
+allosteric modulator;CHEMBL88612
+agonist;CHENODIOL
+modulator;CHF4227
+inhibitor;CHIAURANIB
+inhibitor;CHIR-99021
+antagonist;CHLOPHEDIANOL
+modulator;CHLORAMBUCIL
+antagonist;CHLORCYCLIZINE
+ligand;CHLORDIAZEPOXIDE
+positive modulator;CHLORDIAZEPOXIDE
+positive modulator;CHLORDIAZEPOXIDE HYDROCHLORIDE
+inducer;CHLORMERODRIN
+inhibitor;CHLORMERODRIN
+agonist;CHLORMEZANONE
+activator;CHLOROFORM
+blocker;CHLOROFORM
+inhibitor;CHLOROGUANIDE
+agonist;CHLOROPHENYLPIPERAZINE
+activator;CHLOROPICRIN
+inhibitor;CHLOROPROCAINE
+blocker;CHLOROPROCAINE HYDROCHLORIDE
+antagonist;CHLOROPYRAMINE
+agonist;CHLOROQUINE
+inhibitor;CHLOROQUINE
+modulator;CHLOROQUINE
+inhibitor;CHLOROTHIAZIDE
+inhibitor;CHLOROTHIAZIDE SODIUM
+agonist;CHLOROTRIANISENE
+modulator;CHLOROTRIANISENE
+antagonist;CHLORPHENIRAMINE
+inhibitor;CHLORPHENIRAMINE
+antagonist;CHLORPHENIRAMINE MALEATE
+antagonist;CHLORPHENIRAMINE POLISTIREX
+antagonist;CHLORPROMAZINE
+binder;CHLORPROMAZINE
+blocker;CHLORPROMAZINE
+inhibitor;CHLORPROMAZINE
+antagonist;CHLORPROMAZINE HYDROCHLORIDE
+blocker;CHLORPROPAMIDE
+inhibitor;CHLORPROPAMIDE
+antagonist;CHLORPROTHIXENE
+inhibitor;CHLORPROTHIXENE
+inhibitor;CHLORTHALIDONE
+activator;CHLORZOXAZONE
+agonist;CHOLECALCIFEROL
+agonist;CHOLESTEROL
+ligand;CHOLESTEROL
+binder;CHOLESTYRAMINE
+product of;CHOLINE
+agonist;CHOLINE FENOFIBRATE
+inhibitor;CHOLINE MAGNESIUM TRISALICYLATE
+product of;CHOLINE SALICYLATE
+agonist;CHORIOGONADOTROPIN ALFA
+activator;CHROMIC CHLORIDE
+inhibitor;CHRYSIN
+cleavage;CHYMOPAPAIN
+allosteric modulator;CI-1040
+inhibitor;CI-1040
+antagonist;CI-988
+agonist;CIBINETIDE
+agonist;CICAPROST
+agonist;CICLESONIDE
+binder;CICLOPIROX
+antagonist;CICLOPROLOL
+antagonist;CIFORADENANT
+agonist;CIGLITAZONE
+antagonist;CILANSETRON
+inhibitor;CILASTATIN
+inhibitor;CILASTATIN SODIUM
+inhibitor;CILAZAPRIL
+antagonist;CILENGITIDE
+inhibitor;CILENGITIDE
+antagonist;CILNIDIPINE
+blocker;CILOBRADINE
+agonist;CILOFEXOR
+inhibitor;CILOMILAST
+inhibitor;CILOSTAMIDE
+inhibitor;CILOSTAZOL
+antagonist;CIMETIDINE
+inhibitor;CIMETIDINE
+antagonist;CIMETIDINE HYDROCHLORIDE
+agonist;CINACALCET
+allosteric modulator;CINACALCET
+positive modulator;CINACALCET HYDROCHLORIDE
+antagonist;CINALUKAST
+ligand;CINAZEPAM
+positive modulator;CINAZEPAM
+agonist;CINITAPRIDE
+antagonist;CINITAPRIDE
+antagonist;CINNARIZINE
+binder;CINNARIZINE
+inhibitor;CINNARIZINE
+ligand;CINOLAZEPAM
+positive modulator;CINOLAZEPAM
+negative modulator;CINOXACIN
+inhibitor;CINPANEMAB
+inhibitor;CINROMIDE
+inhibitor;CIPEMASTAT
+agonist;CIPRALISANT
+agonist;CIPRALISANT MALEATE
+agonist;CIPROFIBRATE
+inhibitor;CIPROFLOXACIN
+antagonist;CIPROXIFAN
+agonist;CIRAZOLINE
+antagonist;CIRAZOLINE
+partial agonist;CIRAZOLINE
+agonist;CISAPRIDE
+blocker;CISAPRIDE
+inhibitor;CISAPRIDE
+antagonist;CISATRACURIUM
+antagonist;CISATRACURIUM BESYLATE
+modulator;CISPLATIN
+binder;CITALOPRAM
+inhibitor;CITALOPRAM
+inhibitor;CITALOPRAM HYDROBROMIDE
+inhibitor;CITARINOSTAT
+inhibitor;CITIBRASINE
+antagonist;CIXUTUMUMAB
+antibody;CIXUTUMUMAB
+inducer;CLADRIBINE
+inhibitor;CLADRIBINE
+antagonist;CLASCOTERONE
+inhibitor;CLAZAKIZUMAB
+antagonist;CLAZOSENTAN
+allosteric modulator;CLEMASTINE
+antagonist;CLEMASTINE
+antagonist;CLEMASTINE FUMARATE
+blocker;CLEMIZOLE
+agonist;CLENBUTEROL
+stimulator;CLENBUTEROL
+inhibitor;CLENOLIXIMAB
+blocker;CLEVIDIPINE
+antagonist;CLIDINIUM
+antagonist;CLIDINIUM BROMIDE
+ligand;CLOBAZAM
+positive modulator;CLOBAZAM
+agonist;CLOBENPROPIT
+antagonist;CLOBENPROPIT
+agonist;CLOBETASOL PROPIONATE
+agonist;CLOBETASONE
+agonist;CLOCORTOLONE
+agonist;CLOCORTOLONE PIVALATE
+inhibitor;CLOFARABINE
+antagonist;CLOFAZIMINE
+modulator;CLOFAZIMINE
+agonist;CLOFIBRATE
+blocker;CLOFILIUM
+agonist,antagonist;CLOMIPHENE
+antagonist;CLOMIPHENE
+modulator;CLOMIPHENE CITRATE
+antagonist;CLOMIPRAMINE
+inhibitor;CLOMIPRAMINE
+inhibitor;CLOMIPRAMINE HYDROCHLORIDE
+allosteric modulator;CLONAZEPAM
+ligand;CLONAZEPAM
+partial agonist;CLONAZEPAM
+positive modulator;CLONAZEPAM
+agonist;CLONIDINE
+inhibitor;CLONIDINE
+agonist;CLONIDINE HYDROCHLORIDE
+antagonist;CLOPIDOGREL
+antagonist;CLOPIDOGREL BISULFATE
+agonist;CLOPROSTENOL
+positive modulator;CLORAZEPATE DIPOTASSIUM
+inhibitor;CLORGILINE
+ligand;CLOTIAZEPAM
+positive modulator;CLOTIAZEPAM
+activator;CLOTRIMAZOLE
+agonist;CLOTRIMAZOLE
+antagonist;CLOTRIMAZOLE
+blocker;CLOTRIMAZOLE
+inhibitor;CLOTRIMAZOLE
+partial agonist;CLOTRIMAZOLE
+antagonist;CLOVE OIL
+ligand;CLOXAZOLAM
+positive modulator;CLOXAZOLAM
+agonist;CLOZAPINE
+allosteric modulator;CLOZAPINE
+antagonist;CLOZAPINE
+agonist;CLX-0921
+inhibitor;CM-082
+blocker;CNS-5161
+blocker;CNV2197944
+inhibitor;COBICISTAT
+allosteric modulator;COBIMETINIB
+inhibitor;COBIMETINIB
+inhibitor;COBIMETINIB FUMARATE
+activator;COBIPROSTONE
+agonist;COCAINE
+antagonist;COCAINE
+inhibitor;COCAINE
+binder;COCARBOXYLASE
+agonist;CODEINE
+agonist;CODEINE PHOSPHATE
+agonist;CODEINE POLISTIREX
+agonist;CODEINE SULFATE
+antibody;CODRITUZUMAB
+binder;COLCHICEINE
+antagonist;COLCHICINE
+binder,inhibitor;COLCHICINE
+inhibitor;COLCHICINE
+binder;COLESEVELAM
+binder;COLESTIPOL
+inhibitor;COLFORSIN
+inhibitor;COMETRIQ
+agonist;CONATUMUMAB
+antibody;CONATUMUMAB
+inhibitor;CONBERCEPT
+inhibitor;CONCANAMYCIN A
+antagonist;CONESSINE
+antagonist;CONIVAPTAN
+antagonist;CONIVAPTAN HYDROCHLORIDE
+inhibitor;COPANLISIB
+allosteric modulator;COPPER
+cofactor;COPPER
+inhibitor;COPPER
+blocker;CORREOLIDE
+antagonist;CORT 108297
+antagonist;CORT 125134
+agonist;CORTICOTROPIN
+agonist;CORTICOTROPIN RELEASING HORMONE
+agonist;CORTICOTROPIN ZINC HYDROXIDE
+agonist;CORTISONE ACETATE
+agonist;CORTISTATIN-14
+agonist;COSYNTROPIN
+antagonist;COSYNTROPIN
+agonist,antagonist;CP-195543
+antagonist;CP-195543
+inhibitor;CP-459632
+agonist;CP-601927
+partial agonist;CP-601927
+inhibitor;CP-724714
+agonist;CP-778875
+allosteric modulator;CPCCOET
+inhibitor;CPI-1205
+inhibitor;CPP-115
+agonist;CR 1447
+antagonist;CR-3465
+antagonist;CR-6086
+ligand;CREATINE
+product of;CREATINE
+inhibitor;CRENOLANIB
+inhibitor;CRISABOROLE
+antibody;CRIZANLIZUMAB
+inhibitor;CRIZANLIZUMAB
+inhibitor;CRIZOTINIB
+antagonist;CROFELEMER
+blocker;CROFELEMER
+inhibitor;CROFELEMER
+inhibitor;CROLIBULIN
+activator;CROMAKALIM
+antibody;CROTEDUMAB
+antagonist;CRYPTENAMINE
+potentiator,inhibitor;CRYPTENAMINE
+agonist;CS-8080
+inhibitor;CT-1578
+inhibitor;CT-7001
+antagonist;CTCE-9908
+inhibitor;CUDC-101
+inhibitor;CURCUMIN
+antisense oligonucleotide;CUSTIRSEN
+inhibitor;CUSTIRSEN SODIUM
+antagonist;CV-6209
+positive modulator;CX1739
+allosteric modulator;CX516
+antagonist;CYAMEMAZINE
+binder;CYANOCOBALAMIN
+cofactor;CYANOCOBALAMIN
+antagonist;CYANOPINDOLOL
+inhibitor;CYC-116
+inhibitor;CYCLANDELATE
+agonist;CYCLIC ADENOSINE MONOPHOSPHATE
+allosteric modulator;CYCLIC ADENOSINE MONOPHOSPHATE
+antagonist;CYCLIZINE
+inhibitor;CYCLIZINE
+antagonist;CYCLIZINE LACTATE
+antagonist;CYCLOBENZAPRINE
+inhibitor;CYCLOBENZAPRINE
+antagonist;CYCLOBENZAPRINE HYDROCHLORIDE
+antagonist;CYCLOPENTOLATE
+antagonist;CYCLOPENTOLATE HYDROCHLORIDE
+inhibitor;CYCLOPHOSPHAMIDE
+modulator;CYCLOPHOSPHAMIDE
+binder;CYCLOSPORINE
+binder,inhibitor;CYCLOSPORINE
+inhibitor;CYCLOSPORINE
+modulator;CYCLOSPORINE
+allosteric modulator;CYCLOTHIAZIDE
+inhibitor;CYCLOTHIAZIDE
+antagonist;CYCRIMINE
+antagonist;CYCRIMINE HYDROCHLORIDE
+antagonist;CYPROHEPTADINE
+antagonist;CYPROHEPTADINE HYDROCHLORIDE
+binder;CYSTEAMINE
+cleavage;CYSTEAMINE
+substrate;CYSTEINE
+inhibitor;CYTARABINE
+modulator;CYTARABINE
+agonist;CYTISINICLINE
+partial agonist;CYTISINICLINE
+agonist;D-3263
+inhibitor;DABIGATRAN
+inhibitor;DABIGATRAN ETEXILATE MESYLATE
+antagonist,inhibitor;DABRAFENIB
+inhibitor;DABRAFENIB
+inhibitor;DABRAFENIB MESYLATE
+agonist;DABUZALGRON
+partial agonist;DABUZALGRON
+inhibitor;DACARBAZINE
+modulator;DACARBAZINE
+inhibitor;DACETUZUMAB
+inhibitor;DACINOSTAT
+antibody;DACLIZUMAB
+inhibitor;DACLIZUMAB
+inhibitor;DACOMITINIB
+adduct;DACTINOMYCIN
+inhibitor;DACTINOMYCIN
+inhibitor;DACTOLISIB
+agonist;DADLE
+inhibitor;DAGLUTRIL
+agonist;DAGROCORAT
+modulator;DAGROCORAT
+activator;DAIDZEIN
+agonist;DAIDZEIN
+inhibitor;DALANTERCEPT
+inhibitor;DALCETRAPIB
+antagonist;DALFAMPRIDINE
+blocker;DALFAMPRIDINE
+antagonist;DALOTUZUMAB
+antibody;DALOTUZUMAB
+activator;DALTEPARIN
+inhibitor;DALTEPARIN
+potentiator;DALTEPARIN
+activator;DALTEPARIN SODIUM
+antagonist;DALTROBAN
+agonist;DAMGO
+activator;DANAPAROID
+positive modulator;DANAPAROID
+activator;DANAPAROID SODIUM
+agonist;DANAZOL
+inhibitor;DANAZOL
+negative modulator;DANAZOL
+antagonist;DANIRIXIN
+antagonist;DANTROLENE
+antagonist;DANTROLENE SODIUM
+inhibitor;DANUSERTIB
+antagonist,inhibitor;DAPAGLIFLOZIN
+inhibitor;DAPAGLIFLOZIN
+inhibitor;DAPAGLIFLOZIN PROPYLENE GLYCOL
+inhibitor;DAPANSUTRILE
+antagonist;DAPIPRAZOLE
+antagonist;DAPIPRAZOLE HYDROCHLORIDE
+inhibitor;DAPIROLIZUMAB PEGOL
+inhibitor;DAPOXETINE
+inhibitor;DAPRODUSTAT
+inhibitor;DARAPLADIB
+antibody;DARATUMUMAB
+inhibitor;DARATUMUMAB
+agonist;DARBEPOETIN ALFA
+agonist;DARGLITAZONE
+antagonist;DARIFENACIN
+antagonist;DARIFENACIN HYDROBROMIDE
+antagonist;DAROLUTAMIDE
+inhibitor;DAROLUTAMIDE
+antagonist;DAROTROPIUM BROMIDE
+antagonist;DARUSENTAN
+antagonist;DASATINIB
+inhibitor;DASATINIB
+multitarget;DASATINIB
+antagonist;DASOLAMPANEL
+inhibitor;DASOTRALINE
+inhibitor;DAUNORUBICIN
+negative modulator;DAUNORUBICIN
+inhibitor;DAUNORUBICIN CITRATE
+inhibitor;DAUNORUBICIN HYDROCHLORIDE
+agonist;DAVALINTIDE
+inhibitor;DAZOXIBEN
+agonist;DB959
+inhibitor;DE-104
+inhibitor;DEBIO-1347
+inducer;DEBRISOQUIN
+inhibitor;DECAMETHONIUM
+partial agonist;DECAMETHONIUM
+partial agonist;DECAMETHONIUM BROMIDE
+ligand;DECANOIC ACID
+inhibitor;DECERNOTINIB
+inhibitor;DECITABINE
+modulator;DECOGLURANT
+inhibitor;DEFACTINIB
+modulator;DEFERASIROX
+modulator;DEFEROXAMINE
+activator;DEFIBROTIDE SODIUM
+agonist;DEFLAZACORT
+antagonist;DEGARELIX
+antagonist;DEGARELIX ACETATE
+inhibitor;DELCASERTIB
+inhibitor;DELGOCITINIB
+ligand;DELORAZEPAM
+positive modulator;DELORAZEPAM
+antagonist;DELUCEMINE
+inhibitor;DEMCIZUMAB
+inhibitor;DEMECARIUM
+inhibitor;DEMECARIUM BROMIDE
+inhibitor;DEMECLOCYCLINE
+agonist;DEMEGESTONE
+agonist;DENILEUKIN DIFTITOX
+binder;DENILEUKIN DIFTITOX
+inhibitor;DENILEUKIN DIFTITOX
+agonist;DENOPAMINE
+antibody;DENOSUMAB
+inhibitor;DENOSUMAB
+agonist;DENUFOSOL
+agonist;DENUFOSOL TETRASODIUM
+inhibitor;DEPAKOTE
+antibody;DEPATUXIZUMAB
+antagonist,inhibitor;DEQUALINIUM
+blocker;DEQUALINIUM
+inhibitor;DEQUALINIUM
+antagonist;DERAMCICLANE
+inverse agonist;DERAMCICLANE
+inhibitor;DERAZANTINIB
+antagonist;DERENOFYLLINE
+inhibitor;DESERPIDINE
+agonist;DESFLURANE
+antagonist;DESFLURANE
+inducer;DESFLURANE
+inhibitor;DESFLURANE
+positive modulator;DESFLURANE
+antagonist;DESIPRAMINE
+binder;DESIPRAMINE
+inhibitor;DESIPRAMINE
+inhibitor;DESIPRAMINE HYDROCHLORIDE
+inhibitor;DESIRUDIN
+inhibitor;DESLANOSIDE
+antagonist;DESLORATADINE
+agonist;DESLORELIN
+inhibitor;DESMETHYLSERTRALINE
+agonist;DESMOPRESSIN
+agonist;DESMOPRESSIN ACETATE
+agonist;DESMOSTEROL
+activator;DESMOTEPLASE
+agonist;DESOGESTREL
+agonist;DESONIDE
+agonist;DESOXIMETASONE
+agonist;DESOXYCORTICOSTERONE ACETATE
+agonist;DESOXYCORTICOSTERONE PIVALATE
+inhibitor;DESVENLAFAXINE
+inhibitor;DESVENLAFAXINE SUCCINATE
+inhibitor;DEUTETRABENAZINE
+antagonist;DEVAZEPIDE
+agonist;DEXAMETHASONE
+negative modulator;DEXAMETHASONE
+stimulator;DEXAMETHASONE
+agonist;DEXAMETHASONE ACETATE
+agonist;DEXAMETHASONE SODIUM PHOSPHATE
+agonist;DEXANABINOL
+allosteric modulator;DEXANABINOL
+antagonist;DEXANABINOL
+antagonist;DEXBROMPHENIRAMINE
+antagonist;DEXBROMPHENIRAMINE MALEATE
+antagonist;DEXCHLORPHENIRAMINE MALEATE
+antagonist;DEXETIMIDE
+agonist;DEXFENFLURAMINE
+inhibitor;DEXFENFLURAMINE
+activator;DEXIBUPROFEN
+binder;DEXIBUPROFEN
+inhibitor;DEXIBUPROFEN
+modulator;DEXIBUPROFEN
+negative modulator;DEXIBUPROFEN
+antagonist;DEXKETOPROFEN
+inhibitor;DEXLANSOPRAZOLE
+antagonist;DEXLOXIGLUMIDE
+antagonist;DEXMECAMYLAMINE
+agonist;DEXMEDETOMIDINE
+agonist;DEXMEDETOMIDINE HYDROCHLORIDE
+inhibitor;DEXMETHYLPHENIDATE
+inhibitor;DEXMETHYLPHENIDATE HYDROCHLORIDE
+antagonist;DEXNIGULDIPINE
+inhibitor;DEXNIGULDIPINE
+inhibitor;DEXRAZOXANE
+agonist;DEXTROAMPHETAMINE
+antagonist;DEXTROAMPHETAMINE
+inducer;DEXTROAMPHETAMINE
+inhibitor;DEXTROAMPHETAMINE
+inhibitor,inducer;DEXTROAMPHETAMINE
+negative modulator;DEXTROAMPHETAMINE
+inhibitor;DEXTROAMPHETAMINE ADIPATE
+inhibitor;DEXTROAMPHETAMINE SULFATE
+agonist;DEXTROMETHORPHAN
+antagonist;DEXTROMETHORPHAN
+binder;DEXTROMETHORPHAN
+blocker;DEXTROMETHORPHAN
+inhibitor;DEXTROMETHORPHAN
+agonist;DEXTROMETHORPHAN HYDROBROMIDE
+antagonist;DEXTROMETHORPHAN HYDROBROMIDE
+agonist;DEXTROMETHORPHAN POLISTIREX
+antagonist;DEXTROMETHORPHAN POLISTIREX
+blocker;DEXTRORPHAN
+agonist;DEXTROTHYROXINE
+agonist;DEXTROTHYROXINE SODIUM
+inhibitor;DEXVERAPAMIL
+antibody;DEZAMIZUMAB
+inhibitor;DEZAPELISIB
+agonist;DEZOCINE
+antagonist;DEZOCINE
+partial agonist;DEZOCINE
+inhibitor;DIACEREIN
+agonist;DIACETYLMORPHINE HYDROCHLORIDE
+agonist;DIARYLPROPIONITRILE
+allosteric modulator;DIAZEPAM
+ligand;DIAZEPAM
+positive modulator;DIAZEPAM
+inducer;DIAZOXIDE
+inhibitor;DIAZOXIDE
+ligand;DIBOTERMIN ALFA
+inhibitor;DIBUCAINE
+blocker;DIBUCAINE HYDROCHLORIDE
+inhibitor;DICHLOROACETIC ACID
+antagonist;DICHLOROBENZYL ALCOHOL
+inhibitor;DICHLORPHENAMIDE
+antagonist;DICLOFENAC
+blocker;DICLOFENAC
+inhibitor;DICLOFENAC
+inhibitor;DICLOFENAC EPOLAMINE
+inhibitor;DICLOFENAC POTASSIUM
+inhibitor;DICLOFENAC SODIUM
+inhibitor;DICUMAROL
+antagonist;DICYCLOMINE
+antagonist;DICYCLOMINE HYDROCHLORIDE
+substrate;DIDANOSINE
+inhibitor;DIDESMETHYLROCAGLAMIDE
+agonist;DIENESTROL
+agonist;DIENOGEST
+antagonist;DIENOGEST
+inhibitor;DIETHYLCARBAMAZINE
+inhibitor;DIETHYLPROPION
+inhibitor;DIETHYLPROPION HYDROCHLORIDE
+agonist;DIETHYLSTILBESTROL
+antagonist;DIETHYLSTILBESTROL
+agonist;DIETHYLSTILBESTROL DIPHOSPHATE
+inhibitor;DIFAMILAST
+agonist;DIFELIKEFALIN
+agonist;DIFENOXIN HYDROCHLORIDE
+agonist;DIFLORASONE
+agonist;DIFLORASONE DIACETATE
+binder;DIFLUCORTOLONE
+inducer;DIFLUCORTOLONE
+inhibitor;DIFLUNISAL
+agonist;DIFLUPREDNATE
+inhibitor;DIGITOXIN
+inhibitor;DIGOXIN
+inhibitor;DIHOMO-GAMMA-LINOLENIC ACID
+agonist;DIHYDROCODEINE BITARTRATE
+agonist,antagonist;DIHYDROERGOCRISTINE
+antagonist;DIHYDROERGOCRISTINE
+agonist;DIHYDROERGOCRYPTINE
+partial agonist;DIHYDROERGOCRYPTINE
+agonist;DIHYDROERGOTAMINE
+antagonist;DIHYDROERGOTAMINE
+agonist;DIHYDROERGOTAMINE MESYLATE
+inhibitor;DIHYDROKAINATE
+agonist;DIHYDROMORPHINE
+agonist;DIHYDROTACHYSTEROL
+inhibitor;DILAZEP
+inhibitor;DILMAPIMOD
+blocker;DILTIAZEM
+blocker;DILTIAZEM HYDROCHLORIDE
+blocker;DILTIAZEM MALATE
+agonist;DIMAPRIT
+antagonist;DIMENHYDRINATE
+modulator;DIMERCAPROL
+antagonist;DIMETACRINE
+antagonist;DIMETHINDENE
+inhibitor;DIMETHYL FUMARATE
+inhibitor;DIMETHYLCURCUMIN
+agonist;DIMETHYLTHIAMBUTENE
+blocker;DIMINAZENE
+inhibitor;DINACICLIB
+agonist;DINOPROST
+agonist;DINOPROST TROMETHAMINE
+antagonist;DINOPROST TROMETHAMINE
+activator;DINOPROSTONE
+agonist;DINOPROSTONE
+antibody;DINUTUXIMAB
+inhibitor;DINUTUXIMAB
+antagonist;DIOSCIN
+agonist;DIOSMIN
+binder;DIOXYBENZONE
+antagonist;DIPHEMANIL
+antagonist;DIPHEMANIL METHYLSULFATE
+antagonist;DIPHENHYDRAMINE
+antagonist;DIPHENHYDRAMINE CITRATE
+antagonist;DIPHENHYDRAMINE HYDROCHLORIDE
+antagonist;DIPHENIDOL
+antagonist;DIPHENIDOL HYDROCHLORIDE
+agonist;DIPHENOXYLATE
+agonist;DIPHENOXYLATE HYDROCHLORIDE
+antagonist;DIPHENYLPYRALINE
+inhibitor;DIPHENYLPYRALINE
+antagonist;DIPHENYLPYRALINE HYDROCHLORIDE
+agonist;DIPIVEFRIN
+inhibitor;DIPIVEFRIN
+substrate;DIPIVEFRIN
+agonist;DIPIVEFRIN HYDROCHLORIDE
+allosteric modulator;DIPRAGLURANT
+modulator;DIPRAGLURANT
+agonist;DIPRENORPHINE
+antagonist;DIPRENORPHINE
+inhibitor;DIPYRIDAMOLE
+antagonist;DIPYRITHIONE
+agonist;DIQUAFOSOL
+agonist;DIROXIMEL FUMARATE
+antagonist;DISOPYRAMIDE
+blocker;DISOPYRAMIDE
+inhibitor;DISOPYRAMIDE
+blocker;DISOPYRAMIDE PHOSPHATE
+inhibitor;DISPROCYNIUM24
+inhibitor;DISULFIRAM
+inhibitor;DIVALPROEX SODIUM
+blocker;DIZOCILPINE
+antagonist;DNK333
+agonist;DOBUTAMINE
+agonist;DOBUTAMINE HYDROCHLORIDE
+binder;DOCETAXEL
+inhibitor;DOCETAXEL
+activator;DOCONEXENT
+inhibitor;DOCONEXENT
+ligand;DOCONEXENT
+inhibitor;DOFEQUIDAR
+blocker;DOFETILIDE
+inhibitor;DOFETILIDE
+antagonist;DOLASETRON
+antagonist;DOLASETRON MESYLATE
+agonist;DOLCANATIDE
+antagonist;DOMITROBAN
+antagonist;DOMPERIDONE
+inducer;DONEPEZIL
+inhibitor;DONEPEZIL
+inhibitor,inducer;DONEPEZIL
+negative modulator;DONEPEZIL
+inhibitor;DONEPEZIL HYDROCHLORIDE
+agonist;DONITRIPTAN
+antagonist;DONITRIPTAN
+agonist;DOPAMINE
+binder;DOPAMINE
+inducer;DOPAMINE
+inhibitor;DOPAMINE
+ligand;DOPAMINE
+agonist;DOPAMINE HYDROCHLORIDE
+inhibitor;DORAMAPIMOD
+inhibitor;DORSOMORPHIN
+inhibitor;DORZOLAMIDE
+inhibitor;DORZOLAMIDE HYDROCHLORIDE
+antagonist;DOTHIEPIN
+inhibitor;DOTHIEPIN
+inhibitor;DOVITINIB
+suppressor;DOVITINIB
+antagonist;DOXACURIUM
+antagonist;DOXACURIUM CHLORIDE
+inhibitor;DOXAPRAM
+blocker;DOXAPRAM HYDROCHLORIDE
+antagonist;DOXAZOSIN
+inhibitor;DOXAZOSIN
+antagonist;DOXAZOSIN MESYLATE
+ligand;DOXEFAZEPAM
+positive modulator;DOXEFAZEPAM
+antagonist;DOXEPIN
+binder;DOXEPIN
+inhibitor;DOXEPIN
+inhibitor;DOXEPIN HYDROCHLORIDE
+agonist;DOXERCALCIFEROL
+suppressor;DOXERCALCIFEROL
+agonist;DOXOFYLLINE
+antagonist;DOXOFYLLINE
+inhibitor;DOXOFYLLINE
+inhibitor;DOXORUBICIN
+negative modulator;DOXORUBICIN
+inhibitor;DOXORUBICIN HYDROCHLORIDE
+inhibitor;DOXYCYCLINE
+inhibitor;DOXYCYCLINE CALCIUM
+inhibitor;DOXYCYCLINE HYCLATE
+antagonist;DOXYLAMINE
+antagonist;DOXYLAMINE SUCCINATE
+agonist;DP001
+agonist;DPDPE
+inhibitor;DPDPE
+agonist;D-PHENYLALANINE
+inhibitor;DRAFLAZINE
+agonist;DRF-10945
+antagonist;DRINABANT
+modulator;DROLOXIFENE
+agonist;DROMOSTANOLONE PROPIONATE
+agonist;DRONABINOL
+antagonist;DRONEDARONE
+inhibitor;DRONEDARONE
+blocker;DRONEDARONE HYDROCHLORIDE
+antagonist;DROPERIDOL
+agonist;DROSPIRENONE
+antagonist;DROSPIRENONE
+binder;DROSPIRENONE
+inhibitor;DROTAVERINE
+inhibitor;DROTRECOGIN ALFA (ACTIVATED)
+inhibitor;DROXICAM
+agonist;DROXIDOPA
+inhibitor;DROXIDOPA
+agonist;DROZITUMAB
+antibody;DROZITUMAB
+inhibitor;DS-3078A
+inhibitor;DS-7423
+blocker;DSP-2230
+agonist;D-TRYPTOPHAN
+inhibitor;DUBERMATINIB
+agonist;DULAGLUTIDE
+agonist;DULANERMIN
+antibody;DULANERMIN
+antibody;DULIGOTUZUMAB
+antagonist;DULOXETINE
+inhibitor;DULOXETINE
+inhibitor;DULOXETINE HYDROCHLORIDE
+antagonist;DUPILUMAB
+antibody;DUPILUMAB
+antibody,inhibitor;DURVALUMAB
+inhibitor;DURVALUMAB
+inhibitor;DUSIGITUMAB
+inhibitor;DUTASTERIDE
+inhibitor;DUVELISIB
+antagonist;DWP05195
+inhibitor;DYCLONINE
+blocker;DYCLONINE HYDROCHLORIDE
+agonist;DYDROGESTERONE
+antagonist;DYPHYLLINE
+inhibitor;DYPHYLLINE
+agonist;DYSIHERBAINE
+inhibitor;E-6201
+inhibitor;EBSELEN
+antagonist;ECABET
+inhibitor;ECALLANTIDE
+agonist;ECHINACOSIDE
+inhibitor;ECHOTHIOPHATE
+inhibitor;ECHOTHIOPHATE IODIDE
+blocker;ECONAZOLE
+partial agonist;ECONAZOLE
+antagonist;ECOPIPAM
+antibody;ECULIZUMAB
+inhibitor;ECULIZUMAB
+agonist;EDAGLITAZONE
+modulator;EDETATE CALCIUM DISODIUM
+modulator;EDETATE DISODIUM
+inhibitor;EDICOTINIB
+inhibitor;EDIVOXETINE
+agonist;EDOTREOTIDE
+inhibitor;EDOXABAN
+inhibitor;EDOXABAN TOSYLATE
+inhibitor;EDROPHONIUM
+inhibitor;EDROPHONIUM CHLORIDE
+antibody;EFALIZUMAB
+inhibitor;EFALIZUMAB
+negative modulator;EFAPROXIRAL
+agonist;EFATUTAZONE
+agonist;EFATUTAZONE HYDROCHLORIDE
+antagonist,blocker;EFLORNITHINE
+inhibitor;EFLORNITHINE
+inhibitor;EFLORNITHINE HYDROCHLORIDE
+binder;EFMOROCTOCOG ALFA
+antagonist;EFONIDIPINE
+agonist;EGLUMEGAD
+inhibitor;EHNA
+antagonist;ELAGOLIX
+ligand;ELAIDIC ACID
+modulator;ELAPEGADEMASE
+inhibitor;ELECLAZINE
+agonist;ELEDOISIN
+inhibitor;ELENBECESTAT
+agonist;ELETRIPTAN
+agonist;ELETRIPTAN HYDROBROMIDE
+modulator;ELEXACAFTOR
+antibody;ELEZANUMAB
+antibody;ELGEMTUMAB
+antagonist;ELIGLUSTAT
+antagonist;ELINOGREL
+antagonist;ELISMETREP
+inhibitor;ELLAGIC ACID
+inhibitor;ELOBIXIBAT
+agonist;ELOCALCITOL
+antibody;ELOTUZUMAB
+inhibitor;ELOTUZUMAB
+modulator;ELOTUZUMAB
+blocker;ELPETRIGINE
+agonist;ELSIGLUTIDE
+inhibitor;ELSILIMOMAB
+inhibitor;ELTANEXOR
+agonist;ELTROMBOPAG
+agonist;ELTROMBOPAG OLAMINE
+antagonist;ELUBRIXIN
+agonist;ELUXADOLINE
+antagonist;ELUXADOLINE
+antibody;EMACTUZUMAB
+modulator;EMAPALUMAB
+inhibitor;EMD-1204831
+antagonist;EMEDASTINE
+antagonist;EMEDASTINE DIFUMARATE
+vaccine;EMEPEPIMUT-S
+antibody;EMIBETUZUMAB
+antagonist;EMICERFONT
+activator;EMICIZUMAB
+antibody;EMICIZUMAB
+cofactor;EMICIZUMAB
+inhibitor;EMIXUSTAT
+inhibitor;EMIXUSTAT HYDROCHLORIDE
+agonist;EMODIN
+inhibitor;EMOPAMIL
+inhibitor;EMPAGLIFLOZIN
+inhibitor;EMRICASAN
+agonist;ENADOLINE
+inhibitor;ENALAPRIL
+inhibitor;ENALAPRIL MALEATE
+inhibitor;ENALAPRILAT
+inhibitor;ENALKIREN
+inhibitor;ENASIDENIB
+agonist;ENAVATUZUMAB
+inhibitor;ENCAINIDE
+allosteric modulator;ENCALERET
+agonist;ENCENICLINE
+partial agonist;ENCENICLINE
+inhibitor;ENCORAFENIB
+agonist;ENDOMORPHIN-1
+inhibitor;ENDOXIFEN
+antagonist;ENFLURANE
+inhibitor;ENFLURANE
+inhibitor,activator;ENFLURANE
+potentiator;ENFLURANE
+stimulator,inhibitor;ENFLURANE
+antibody;ENFORTUMAB VEDOTIN
+inhibitor;ENILURACIL
+ligand;ENJUVIA
+antagonist;ENLIMOMAB PEGOL
+inhibitor;ENMD-2076
+inhibitor;ENMD-981693
+antibody;ENOBLITUZUMAB
+modulator;ENOBOSARM
+inhibitor;ENOKIZUMAB
+inhibitor;ENOXACIN
+activator;ENOXAPARIN
+inhibitor;ENOXAPARIN
+potentiator;ENOXAPARIN
+activator;ENOXAPARIN SODIUM
+inhibitor;ENOXIMONE
+antagonist;ENPROFYLLINE
+inhibitor;ENPROFYLLINE
+agonist;ENPROSTIL
+antagonist;ENRASENTAN
+inhibitor;ENSARTINIB
+inhibitor;ENTACAPONE
+inhibitor;ENTINOSTAT
+agonist;ENTOLIMOD
+inhibitor;ENTOSPLETINIB
+inhibitor;ENTRECTINIB
+antagonist;ENZACAMENE
+antagonist;ENZALUTAMIDE
+inhibitor;ENZALUTAMIDE
+inhibitor;ENZASTAURIN
+inhibitor;EPACADOSTAT
+antagonist;EPELSIBAN
+agonist;EPHEDRA
+inhibitor;EPHEDRA
+negative modulator;EPHEDRA
+agonist;EPHEDRINE
+inverse agonist;EPHEDRINE
+agonist;EPIBATIDINE
+agonist;EPICRIPTINE
+inhibitor;EPIGALOCATECHIN GALLATE
+antagonist;EPINASTINE
+antagonist;EPINASTINE HYDROCHLORIDE
+agonist;EPINEPHRINE
+agonist,antagonist;EPINEPHRINE
+antagonist;EPINEPHRINE
+agonist;EPINEPHRINE BITARTRATE
+inhibitor;EPIRUBICIN
+negative modulator;EPIRUBICIN
+inhibitor;EPITINIB
+antagonist;EPLERENONE
+antagonist;EPLIVANSERIN
+agonist;EPOETIN ALFA
+agonist;EPOETIN BETA
+agonist;EPOPROSTENOL
+inducer;EPOPROSTENOL
+agonist;EPOPROSTENOL SODIUM
+antagonist;EPROSARTAN
+antagonist;EPROSARTAN MESYLATE
+agonist;EPROTIROME
+inhibitor;EPTIFIBATIDE
+antibody;EPTINEZUMAB
+inhibitor;EPTINEZUMAB
+inhibitor;ERDAFITINIB
+substrate;ERDAFITINIB
+antagonist;ERENUMAB
+agonist;ERGOCALCIFEROL
+inducer;ERGOCALCIFEROL
+agonist;ERGOLOID MESYLATES
+antagonist;ERGOLOID MESYLATES
+agonist;ERGONOVINE
+agonist;ERGOTAMINE
+antagonist;ERGOTAMINE
+partial agonist;ERGOTAMINE
+inhibitor;ERIBAXABAN
+inhibitor;ERIBULIN
+inhibitor;ERIBULIN MESYLATE
+antagonist;ERITORAN TETRASODIUM
+negative modulator;ERLIZUMAB
+blocker;ERLOSAMIDE
+agonist;ERLOTINIB
+antagonist;ERLOTINIB
+inhibitor;ERLOTINIB
+inhibitor;ERLOTINIB HYDROCHLORIDE
+agonist;ERTEBEREL
+antagonist;ERTUGLIFLOZIN
+inhibitor;ERTUGLIFLOZIN
+agonist;ERYTHRITYL TETRANITRATE
+agonist;ERYTHROMYCIN
+inhibitor;ERYTHROMYCIN
+inhibitor;ESCITALOPRAM
+inhibitor;ESCITALOPRAM OXALATE
+agonist;ESCULIN
+inhibitor;ESFLURBIPROFEN
+agonist;ESKETAMINE
+antagonist;ESKETAMINE
+inhibitor;ESKETAMINE
+blocker;ESLICARBAZEPINE
+blocker;ESLICARBAZEPINE ACETATE
+antagonist;ESMIRTAZAPINE
+inverse agonist;ESMIRTAZAPINE
+antagonist;ESMIRTAZAPINE MALEATE
+antagonist;ESMOLOL
+antagonist;ESMOLOL HYDROCHLORIDE
+inhibitor;ESOMEPRAZOLE
+inhibitor;ESOMEPRAZOLE MAGNESIUM
+inhibitor;ESOMEPRAZOLE SODIUM
+inhibitor;ESOMEPRAZOLE STRONTIUM
+inhibitor;ESREBOXETINE
+ligand;ESTAZOLAM
+positive modulator;ESTAZOLAM
+agonist;ESTRADIOL
+binder;ESTRADIOL
+inhibitor;ESTRADIOL
+agonist;ESTRADIOL ACETATE
+agonist;ESTRADIOL BENZOATE
+ligand;ESTRADIOL BENZOATE
+agonist;ESTRADIOL CYPIONATE
+agonist;ESTRADIOL VALERATE
+agonist;ESTRAMUSTINE
+antagonist;ESTRAMUSTINE
+modulator;ESTRAMUSTINE PHOSPHATE SODIUM
+agonist;ESTRIOL
+agonist;ESTROGENS, CONJUGATED
+agonist;ESTROGENS, CONJUGATED SYNTHETIC A
+agonist;ESTROGENS, ESTERIFIED
+agonist;ESTRONE
+agonist;ESTROPIPATE
+agonist;ESUBERAPROST
+agonist;ESZOPICLONE
+positive modulator;ESZOPICLONE
+potentiator;ESZOPICLONE
+agonist;ETAFEDRINE
+agonist;ETALOCIB
+antagonist;ETALOCIB
+antibody;ETANERCEPT
+inhibitor;ETANERCEPT
+ligand;ETANERCEPT
+antagonist;ETARACIZUMAB
+antibody;ETARACIZUMAB
+allosteric modulator;ETAZOLATE
+positive modulator;ETAZOLATE
+binder;ETEPLIRSEN
+inhibitor;ETHACRYNATE SODIUM
+inhibitor;ETHACRYNIC ACID
+positive modulator;ETHCHLORVYNOL
+inhibitor;ETHINAMATE
+agonist;ETHINYL ESTRADIOL
+antagonist;ETHOPROPAZINE
+antagonist;ETHOPROPAZINE HYDROCHLORIDE
+blocker;ETHOSUXIMIDE
+inhibitor;ETHOSUXIMIDE
+activator;ETHOTOIN
+blocker;ETHOTOIN
+inhibitor;ETHOTOIN
+inhibitor;ETHOXZOLAMIDE
+ligand;ETHYL LOFLAZEPATE
+positive modulator;ETHYL LOFLAZEPATE
+agonist;ETHYLESTRENOL
+agonist;ETHYLKETOCYCLAZOCINE
+agonist;ETHYLMORPHINE
+agonist;ETHYNODIOL DIACETATE
+antagonist;ETICLOPRIDE
+blocker;ETIDOCAINE HYDROCHLORIDE
+antagonist;ETIDRONIC ACID
+inhibitor;ETIDRONIC ACID
+agonist;ETILEVODOPA
+inhibitor;ETIRINOTECAN PEGOL
+antagonist;ETIZOLAM
+ligand;ETIZOLAM
+positive modulator;ETIZOLAM
+inhibitor;ETODOLAC
+agonist;ETOMIDATE
+positive modulator;ETOMIDATE
+agonist;ETONITAZENE
+agonist;ETONOGESTREL
+agonist;ETOPERIDONE
+antagonist;ETOPERIDONE
+inhibitor;ETOPOSIDE
+inhibitor;ETOPOSIDE PHOSPHATE
+inhibitor;ETORICOXIB
+agonist;ETORPHINE
+agonist;ETRASIMOD
+agonist;ETRETINATE
+antagonist;ETROLIZUMAB
+antagonist;EUGENOL
+inhibitor;EVACETRAPIB
+antagonist;EVATANEPAG
+blocker;EVENAMIDE
+inhibitor;EVEROLIMUS
+inhibitor;EVOBRUTINIB
+agonist;EVOCALCET
+agonist;EVODENOSON
+inhibitor;EVOLOCUMAB
+antagonist;EVT-101
+antagonist;EVT401
+agonist;EXAMORELIN
+inhibitor;EXEMESTANE
+agonist;EXENATIDE
+inhibitor;EXISULIND
+inhibitor;EZATIOSTAT HYDROCHLORIDE
+antagonist;EZETIMIBE
+inhibitor;EZETIMIBE
+antagonist;EZLOPITANT
+activator;EZOGABINE
+blocker;EZOGABINE
+agonist;FADOLMIDINE HYDROCHLORIDE
+inhibitor;FADROZOLE
+inhibitor;FALNIDAMOL
+inhibitor;FAMITINIB
+antagonist;FAMOTIDINE
+inhibitor;FANCHININ
+positive modulator;FARAMPATOR
+agonist;FARGLITAZAR
+antibody;FARLETUZUMAB
+inhibitor;FARLETUZUMAB
+agonist;FARNESOL
+inhibitor;FARNESOL
+inhibitor;FASCAPLYSIN
+inhibitor;FASIDOTRIL
+inhibitor;FASIDOTRILAT
+agonist;FASIGLIFAM
+positive modulator;FASIGLIFAM
+inhibitor;FASINUMAB
+antagonist;FASITIBANT CHLORIDE
+inhibitor;FASUDIL
+agonist;FAXELADOL
+inhibitor;FAXELADOL
+agonist;FE 202767
+inhibitor;FEBUXOSTAT
+inhibitor;FEDRATINIB
+antagonist;FELBAMATE
+activator;FELODIPINE
+antagonist;FELODIPINE
+blocker;FELODIPINE
+inhibitor;FELODIPINE
+agonist;FELYPRESSIN
+inhibitor;FENCAMFAMIN
+inhibitor;FENCLONINE
+inhibitor;FENEBRUTINIB
+agonist;FENFLURAMINE
+inhibitor;FENFLURAMINE
+allosteric modulator;FENOBAM
+agonist;FENOFIBRATE
+inhibitor;FENOFIBRATE
+partial agonist;FENOFIBRATE
+agonist;FENOFIBRIC ACID
+agonist;FENOLDOPAM
+antagonist;FENOLDOPAM
+inhibitor;FENOLDOPAM
+agonist;FENOLDOPAM MESYLATE
+activator;FENOPROFEN
+inhibitor;FENOPROFEN
+inhibitor;FENOPROFEN CALCIUM
+agonist;FENOTEROL
+agonist;FENTANYL
+agonist;FENTANYL CITRATE
+agonist;FENTANYL HYDROCHLORIDE
+binder;FERROUS SULFATE
+substrate;FERROUS SULFATE
+agonist;FERTIRELIN
+antagonist;FESOTERODINE
+antagonist;FESOTERODINE FUMARATE
+antagonist;FEVIPIPRANT
+agonist;FEXARAMINE
+antagonist;FEXOFENADINE
+antagonist;FEXOFENADINE HYDROCHLORIDE
+inhibitor;FEZAKINUMAB
+inhibitor;FGF401
+inhibitor;FIBOFLAPON
+inhibitor;FIBOFLAPON SODIUM
+inhibitor;FIBRINOLYSIN, HUMAN
+antibody;FICLATUZUMAB
+inhibitor;FICLATUZUMAB
+inhibitor;FIDARESTAT
+antagonist;FIGITUMUMAB
+antibody;FIGITUMUMAB
+antagonist;FIGOPITANT
+inhibitor;FILAMINAST
+inhibitor;FILANESIB
+inhibitor;FILGOTINIB
+agonist;FILGRASTIM
+stimulator;FILGRASTIM
+antagonist;FILOREXANT
+antagonist;FIMASARTAN
+inhibitor;FIMEPINOSTAT
+inhibitor;FINAFLOXACIN
+inhibitor;FINASTERIDE
+antagonist;FINERENONE
+agonist;FINGOLIMOD
+inhibitor;FINGOLIMOD
+modulator;FINGOLIMOD
+agonist;FINGOLIMOD HYDROCHLORIDE
+antagonist;FIRATEGRAST
+allosteric modulator;FIRSOCOSTAT
+agonist;FISH OIL TRIGLYCERIDES
+agonist,inhibitor;FISH OIL TRIGLYCERIDES
+inhibitor;FISH OIL TRIGLYCERIDES
+modulator;FISH OIL TRIGLYCERIDES
+modulator;FISPEMIFENE
+antagonist;FK453
+antagonist;FLAVANONE
+cofactor;FLAVIN ADENIN DINUCLEOTIDE
+agonist;FLAVONE
+antagonist;FLAVONE
+antagonist;FLAVOXATE
+inhibitor;FLAVOXATE HYDROCHLORIDE
+blocker;FLECAINIDE
+inhibitor;FLECAINIDE
+blocker;FLECAINIDE ACETATE
+inhibitor;FLEROXACIN
+agonist;FLESINOXAN
+agonist;FLIBANSERIN
+agonist,antagonist;FLIBANSERIN
+antagonist;FLIBANSERIN
+activator;FLINDOKALNER
+binder;FLORTAUCIPIR F 18
+inhibitor;FLOXURIDINE
+modulator;FLUCYTOSINE
+agonist;FLUDARABINE
+inhibitor;FLUDARABINE
+negative modulator;FLUDARABINE
+inhibitor;FLUDARABINE PHOSPHATE
+potentiator;FLUDIAZEPAM
+agonist;FLUDROCORTISONE
+agonist;FLUDROCORTISONE ACETATE
+activator;FLUFENAMIC ACID
+agonist;FLUFENAMIC ACID
+inhibitor;FLUMATINIB
+allosteric modulator;FLUMAZENIL
+antagonist;FLUMAZENIL
+positive modulator;FLUMAZENIL
+agonist;FLUMETHASONE
+agonist;FLUMETHASONE PIVALATE
+antagonist;FLUNARIZINE
+inhibitor;FLUNARIZINE
+agonist;FLUNISOLIDE
+allosteric modulator;FLUNITRAZEPAM
+ligand;FLUNITRAZEPAM
+positive modulator;FLUNITRAZEPAM
+agonist;FLUOCINOLONE ACETONIDE
+agonist;FLUOCINONIDE
+agonist;FLUOROMETHOLONE
+agonist;FLUOROMETHOLONE ACETATE
+inhibitor;FLUOROURACIL
+negative modulator;FLUOROURACIL
+antagonist;FLUOXETINE
+blocker;FLUOXETINE
+inhibitor;FLUOXETINE
+inhibitor;FLUOXETINE HYDROCHLORIDE
+agonist;FLUOXYMESTERONE
+antagonist;FLUOXYMESTERONE
+inhibitor;FLUOXYMESTERONE
+agonist;FLUPAROXAN
+antagonist;FLUPENTIXOL
+antagonist;FLUPERLAPINE
+antagonist;FLUPHENAZINE
+inhibitor;FLUPHENAZINE
+antagonist;FLUPHENAZINE DECANOATE
+antagonist;FLUPHENAZINE ENANTHATE
+antagonist;FLUPHENAZINE HYDROCHLORIDE
+activator;FLUPIRTINE
+agonist;FLUPREDNISOLONE
+agonist;FLUPROSTENOL
+agonist;FLURANDRENOLIDE
+ligand;FLURAZEPAM
+positive modulator;FLURAZEPAM
+inhibitor;FLURBIPROFEN
+inhibitor;FLURBIPROFEN SODIUM
+antagonist;FLUSPIRILENE
+inhibitor;FLUSPIRILENE
+agonist;FLUTAMIDE
+antagonist;FLUTAMIDE
+agonist;FLUTICASONE
+antagonist;FLUTICASONE
+inhibitor;FLUTICASONE
+agonist;FLUTICASONE FUROATE
+agonist;FLUTICASONE PROPIONATE
+inhibitor;FLUVASTATIN
+inhibitor;FLUVASTATIN SODIUM
+antagonist;FLUVOXAMINE
+inhibitor;FLUVOXAMINE
+inhibitor;FLUVOXAMINE MALEATE
+binder;FOLIC ACID
+allosteric modulator;FOLIGLURAX
+agonist;FOLLITROPIN
+agonist;FOLLITROPIN ALFA
+inhibitor;FOMEPIZOLE
+activator;FONDAPARINUX
+inhibitor;FONDAPARINUX
+potentiator;FONDAPARINUX
+activator;FONDAPARINUX SODIUM
+inhibitor;FONTOLIZUMAB
+inhibitor;FORALUMAB
+antagonist;FORASARTAN
+inhibitor;FORETINIB
+inhibitor;FORMEBOLONE
+agonist;FORMOTEROL
+inhibitor;FORODESINE
+inhibitor;FORODESINE HYDROCHLORIDE
+antagonist;FOROPAFANT
+antagonist;FOSAPREPITANT
+antagonist;FOSAPREPITANT DIMEGLUMINE
+inhibitor;FOSBRETABULIN DISODIUM
+agonist;FOSDAGROCORAT
+modulator;FOSDAGROCORAT
+ligand;FOSFOCREATINE
+product of;FOSFOCREATINE
+inhibitor;FOSINOPRIL
+inhibitor;FOSINOPRIL SODIUM
+antagonist;FOSNETUPITANT
+inhibitor;FOSPHENYTOIN
+blocker;FOSPHENYTOIN SODIUM
+potentiator;FOSPROPOFOL
+antagonist;FOSTAMATINIB
+inhibitor;FOSTAMATINIB
+suppressor;FP-1039
+agonist;FRAKEFAMIDE
+antagonist;FRAMYCETIN
+antibody;FREMANEZUMAB
+inhibitor;FRESELESTAT
+antibody;FRESOLIMUMAB
+inhibitor;FRESOLIMUMAB
+agonist;FROVATRIPTAN
+agonist;FROVATRIPTAN SUCCINATE
+inhibitor;FRUQUINTINIB
+inhibitor;FULRANUMAB
+agonist;FULVESTRANT
+antagonist;FULVESTRANT
+inhibitor;FULVESTRANT
+ligand;FUMAGILLIN
+modulator;FURAZOLIDONE
+agonist;FUROSEMIDE
+inhibitor;FUROSEMIDE
+agonist;FURTRETHONIUM
+inhibitor;FUTIBATINIB
+inhibitor;FX-005
+inhibitor;G1T28-1
+activator;GABAPENTIN
+agonist;GABAPENTIN
+inhibitor;GABAPENTIN
+modulator;GABAPENTIN
+modulator;GABAPENTIN ENACARBIL
+antagonist;GABAZINE
+inhibitor;GABEXATE
+agonist;GABOXADOL
+antagonist;GABOXADOL
+inhibitor;GADOPENTETATE DIMEGLUMINE
+antagonist;GALANGIN
+blocker;GALANGIN
+agonist;GALANIN
+allosteric modulator;GALANTAMINE
+inhibitor;GALANTAMINE
+inhibitor;GALANTAMINE HYDROBROMIDE
+antibody;GALCANEZUMAB
+antagonist;GALETERONE
+inhibitor;GALETERONE
+antibody;GALIXIMAB
+inhibitor;GALIXIMAB
+allosteric modulator;GALLAMINE
+blocker;GALLAMINE
+antagonist;GALLAMINE TRIETHIODIDE
+inhibitor;GALLAMINE TRIETHIODIDE
+antagonist;GALLIUM NITRATE
+inhibitor;GALLIUM NITRATE
+modulator;GALLIUM NITRATE
+agonist;GALMIC
+agonist;GALNON
+inhibitor;GALUNISERTIB
+negative modulator;GANCICLOVIR
+inhibitor;GANCOTAMAB
+inhibitor;GANDOTINIB
+inhibitor;GANETESPIB
+antagonist;GANIRELIX ACETATE
+antagonist;GANITUMAB
+antibody;GANITUMAB
+antagonist;GANTACURIUM
+inhibitor;GARCINOL
+antisense oligonucleotide;GATAPARSEN
+antagonist;GAVESTINEL
+inhibitor;GDC-0077
+antagonist;GDC-0152
+inhibitor;GEDATOLISIB
+antagonist;GEFAPIXANT
+antagonist;GEFITINIB
+inhibitor;GEFITINIB
+inhibitor;GELDANAMYCIN
+inhibitor;GEMCITABINE
+modulator;GEMCITABINE
+inhibitor;GEMCITABINE HYDROCHLORIDE
+agonist;GEMEPROST
+agonist;GEMFIBROZIL
+inhibitor;GEMFIBROZIL
+activator;GENISTEIN
+agonist;GENISTEIN
+binder,activator;GESTODENE
+agonist,antagonist;GESTRINONE
+antagonist;GESTRINONE
+agonist;GHRELIN
+inhibitor;GILTERITINIB
+inhibitor;GIMERACIL
+agonist;GINSENG
+antagonist;GINSENG
+inhibitor;GINSENG
+inhibitor;GINSENOSIDE RB1
+inhibitor;GISADENAFIL
+inhibitor;GIVINOSTAT
+cleavage;GIVOSIRAN
+antagonist;GLASDEGIB
+inhibitor;GLASDEGIB
+antagonist;GLEMANSERIN
+binder;GLEMBATUMUMAB VEDOTIN
+inhibitor;GLESATINIB
+binder;GLICLAZIDE
+blocker;GLIMEPIRIDE
+inducer;GLIMEPIRIDE
+inhibitor;GLIMEPIRIDE
+agonist;GLIPIZIDE
+blocker;GLIPIZIDE
+inhibitor;GLIPIZIDE
+inhibitor;GLIQUIDONE
+inhibitor;GLISOXEPIDE
+inhibitor;GLPG-0259
+modulator;GLPG0492
+inhibitor;GLPG-0555
+antagonist;GLPG-0974
+antagonist;GLPG-1205
+agonist;GLUCAGON
+agonist;GLUCAGON HYDROCHLORIDE
+agonist;GLUCAGON HYDROCHLORIDE RECOMBINANT
+modulator;GLUCARPIDASE
+antagonist;GLUCOSAMINE
+product of;GLUTAMIC ACID
+product of,substrate;GLUTAMIC ACID
+substrate;GLUTAMIC ACID
+agonist;GLUTAMINE
+antagonist,substrate;GLUTAMINE
+product of;GLUTAMINE
+substrate;GLUTAMINE
+cofactor;GLUTATHIONE
+agonist;GLUTETHIMIDE
+positive modulator;GLUTETHIMIDE
+antagonist;GLYBURIDE
+blocker;GLYBURIDE
+inhibitor;GLYBURIDE
+modulator;GLYBURIDE
+agonist;GLYCERIN
+agonist;GLYCINE
+antagonist;GLYCINE
+ligand;GLYCINE
+product of;GLYCINE
+substrate;GLYCINE
+inhibitor;GLYCOLIC ACID
+antagonist;GLYCOPYRROLATE
+antagonist;GLYCOPYRRONIUM
+binder;GLYCOPYRRONIUM
+antagonist;GLYCYRRHIZIN
+inducer;GLYCYRRHIZIN
+inhibitor;GLYCYRRHIZIN
+inducer;GLYMIDINE
+antibody;GOLIMUMAB
+inhibitor;GOLIMUMAB
+inducer;GOLODIRSEN
+inhibitor;GOLVATINIB
+agonist;GONADORELIN
+agonist;GONADORELIN ACETATE
+agonist;GONADORELIN HYDROCHLORIDE
+agonist;GONADOTROPIN, CHORIONIC
+agonist;GOSERELIN
+agonist;GOSERELIN ACETATE
+inhibitor;GOSOGLIPTIN
+antagonist;GR-55562
+antagonist;GRANISETRON
+antagonist;GRANISETRON HYDROCHLORIDE
+antagonist;GRAPIPRANT
+antagonist;GRC-15300
+antagonist;GRC-17536
+antagonist;GRC-6211
+antagonist;GS 6201
+partial agonist;GS-9667
+inhibitor;GSK-1059615
+inhibitor;GSK-1070916
+antagonist,allosteric modulator;GSK1482160
+antagonist;GSK-1521498
+agonist;GSK159802
+antagonist;GSK163090
+antagonist;GSK189254
+agonist;GSK-2245035
+inhibitor;GSK-2256098
+inhibitor;GSK-2269557
+antagonist;GSK239512
+inhibitor;GSK-249320
+inhibitor;GSK-2636771
+antagonist;GSK2798745
+modulator;GSK2849466
+modulator;GSK2881078
+agonist;GSK-4112
+inhibitor;GSK-461364
+inhibitor;GSK-579289A
+inhibitor;GSK-610677
+inhibitor;GSK-690693
+agonist;GSK-9578
+agonist;GTX-758
+antagonist;GUAIFENESIN
+agonist;GUANABENZ
+binder;GUANABENZ
+agonist;GUANABENZ ACETATE
+partial agonist;GUANADREL
+inducer;GUANETHIDINE
+agonist;GUANFACINE
+binder;GUANFACINE
+agonist;GUANFACINE HYDROCHLORIDE
+inhibitor;GUANIDINE
+blocker;GUANIDINE HYDROCHLORIDE
+inhibitor;GUANINE
+antagonist;GUGGULSTERONE
+blocker;GUSELKUMAB
+inhibitor;GUSELKUMAB
+inhibitor;GUVACINE
+inhibitor;GW-274150
+inhibitor;GW-406381
+antagonist;GW468816
+agonist;GW493838
+agonist;GW501516
+agonist;GW590735
+agonist;GW7647
+agonist;GW7845
+agonist;GW842166X
+agonist;GW9508
+ligand;HALAZEPAM
+positive modulator;HALAZEPAM
+agonist;HALCINONIDE
+agonist,activator;HALCINONIDE
+inhibitor;HALICIN
+agonist;HALOBETASOL
+agonist;HALOBETASOL PROPIONATE
+blocker;HALOFANTRINE
+inhibitor;HALOFANTRINE
+antagonist;HALOPERIDOL
+blocker;HALOPERIDOL
+inverse agonist;HALOPERIDOL
+antagonist;HALOPERIDOL DECANOATE
+inverse agonist;HALOPERIDOL DECANOATE
+antagonist;HALOPERIDOL LACTATE
+inverse agonist;HALOPERIDOL LACTATE
+activator;HALOTHANE
+allosteric modulator;HALOTHANE
+antagonist;HALOTHANE
+binder;HALOTHANE
+inhibitor;HALOTHANE
+positive modulator;HALOTHANE
+inhibitor;HARMALINE
+inhibitor;HARMINE
+modulator;HE3235
+inhibitor;HEMAY-022
+inhibitor;HEMICHOLINIUM-3
+inhibitor;HENATINIB
+activator;HEPARIN
+inhibitor;HEPARIN
+potentiator;HEPARIN
+activator;HEPARIN CALCIUM
+activator;HEPARIN SODIUM
+antagonist;HEPTABARBITAL
+potentiator;HEPTABARBITAL
+inhibitor;HESPERADIN
+antagonist;HESPERETIN
+inhibitor;HESPERETIN
+inhibitor;HEXACHLOROPHENE
+inhibitor;HEXAFLUORENIUM BROMIDE
+inhibitor;HEXAFLURONIUM
+antagonist;HEXAMETHONIUM
+blocker;HEXAMETHONIUM
+negative modulator;HEXAMETHYL PARAROSANILINE
+antagonist;HEXESTROL
+antagonist;HEXOBARBITAL
+potentiator;HEXOBARBITAL
+antagonist;HEXOCYCLIUM
+antagonist;HEXOCYCLIUM METHYLSULFATE
+inhibitor;HEXYLCAINE
+blocker;HEXYLCAINE HYDROCHLORIDE
+inhibitor;HEXYLRESORCINOL
+antagonist;HIMBACINE
+activator;HISTAMINE
+agonist;HISTAMINE
+agonist;HISTAMINE PHOSPHATE
+activator;HISTIDINE
+agonist;HISTRELIN
+agonist;HISTRELIN ACETATE
+inhibitor;HM-71224
+inhibitor;HMN-214
+inhibitor;HMPL-523
+antagonist;HOMATROPINE
+antagonist;HOMOSALATE
+binder;HUMAN GROWTH HORMONE
+inhibitor;HUMAX-IL8
+binder;HYALURONATE SODIUM
+inhibitor;HYALURONIDASE
+inhibitor;HYCANTHONE
+inducer;HYDRALAZINE
+inhibitor;HYDRALAZINE
+inhibitor;HYDROCHLOROTHIAZIDE
+agonist;HYDROCODONE
+ligand;HYDROCODONE
+agonist;HYDROCODONE BITARTRATE
+agonist;HYDROCODONE POLISTIREX
+agonist;HYDROCORTAMATE
+agonist;HYDROCORTAMATE HYDROCHLORIDE
+agonist;HYDROCORTISONE
+agonist;HYDROCORTISONE ACETATE
+agonist;HYDROCORTISONE BUTYRATE
+agonist;HYDROCORTISONE CYPIONATE
+agonist;HYDROCORTISONE PROBUTATE
+agonist;HYDROCORTISONE SODIUM PHOSPHATE
+agonist;HYDROCORTISONE SODIUM SUCCINATE
+agonist;HYDROCORTISONE VALERATE
+inducer;HYDROFLUMETHIAZIDE
+inhibitor;HYDROFLUMETHIAZIDE
+agonist;HYDROMORPHONE
+partial agonist;HYDROMORPHONE
+agonist;HYDROMORPHONE HYDROCHLORIDE
+inhibitor;HYDROQUINONE
+cofactor;HYDROXOCOBALAMIN
+agonist;HYDROXYAMPHETAMINE HYDROBROMIDE
+antagonist;HYDROXYCHLOROQUINE
+inhibitor;HYDROXYCHLOROQUINE
+modulator;HYDROXYCHLOROQUINE
+antagonist;HYDROXYCHLOROQUINE SULFATE
+inhibitor;HYDROXYFASUDIL
+antagonist;HYDROXYFLUTAMIDE
+agonist;HYDROXYPROGESTERONE CAPROATE
+inhibitor;HYDROXYUREA
+antagonist;HYDROXYZINE
+inhibitor;HYDROXYZINE
+inverse agonist;HYDROXYZINE
+antagonist;HYDROXYZINE HYDROCHLORIDE
+antagonist;HYDROXYZINE PAMOATE
+inhibitor;HYMENIALDISINE
+agonist;HYODEOXYCHOLIC_ACID
+antagonist;HYOSCYAMINE
+activator;HYPERFORIN
+agonist;HYPERFORIN
+inhibitor;HYPERFORIN
+inhibitor;HYQVIA
+antagonist;IBALIZUMAB
+antibody;IBALIZUMAB
+inhibitor;IBALIZUMAB
+inhibitor;IBANDRONATE SODIUM
+antagonist;IBANDRONIC ACID
+inhibitor;IBANDRONIC ACID
+antagonist;IBIPINABANT
+agonist;IB-MECA
+antagonist;IBODUTANT
+inhibitor;IBRUTINIB
+inhibitor;IBUDILAST
+activator;IBUPROFEN
+binder;IBUPROFEN
+blocker;IBUPROFEN
+inducer;IBUPROFEN
+inhibitor;IBUPROFEN
+modulator;IBUPROFEN
+inhibitor;IBUPROFEN LYSINE
+inhibitor;IBUPROFEN SODIUM
+agonist;IBUTAMOREN
+activator;IBUTILIDE
+blocker;IBUTILIDE
+inhibitor;IBUTILIDE
+inhibitor;IC14
+inhibitor;IC261
+antagonist;ICATIBANT
+inhibitor;ICATIBANT
+antagonist;ICATIBANT ACETATE
+inhibitor;ICLAPRIM
+inhibitor;ICM3
+agonist;ICOSAPENT
+inducer;ICOSAPENT
+inhibitor;ICOSAPENT
+antagonist;ICOTINIB
+inhibitor;ICOTINIB
+antagonist;ICRUCUMAB
+antagonist;IDALOPIRDINE
+inhibitor;IDARUBICIN
+negative modulator;IDARUBICIN
+inhibitor;IDARUBICIN HYDROCHLORIDE
+inhibitor;IDELALISIB
+modulator;IDOXIFENE
+inhibitor;IDRAPARINUX SODIUM
+antagonist;IFENPRODIL
+antagonist;IFERANSERIN
+antagonist;IFETROBAN
+inhibitor;ILOMASTAT
+antagonist;ILOPERIDONE
+activator;ILOPROST
+agonist;ILOPROST
+inducer;ILOPROST
+inhibitor;ILORASERTIB
+agonist;ILX23-7553
+modulator;IMAGABALIN
+antagonist;IMATINIB
+antagonist,multitarget;IMATINIB
+inhibitor;IMATINIB
+inhibitor;IMATINIB MESYLATE
+agonist;IMBUTAMINE
+inhibitor;IMD-0354
+inhibitor;IMD-1041
+inhibitor;IMD-2560
+inhibitor;IMETELSTAT
+inhibitor;IMETELSTAT SODIUM
+agonist;IMETIT
+antibody;IMGATUZUMAB
+antagonist;IMIDAFENACIN
+inhibitor;IMIDAPRIL
+inhibitor;IMIDAPRILAT
+agonist;IMIGLITAZAR
+activator;IMIPRAMINE
+antagonist;IMIPRAMINE
+antagonist,binder;IMIPRAMINE
+binder;IMIPRAMINE
+blocker;IMIPRAMINE
+inhibitor;IMIPRAMINE
+inhibitor;IMIPRAMINE HYDROCHLORIDE
+agonist;IMIQUIMOD
+agonist;IMMEPIP
+agonist;IMMETHRIDINE
+agonist,antagonist;IMPENTAMINE
+agonist;IMPROGAN
+agonist;IMPROMIDINE
+antagonist;IMPROMIDINE
+inhibitor;INAMRINONE
+inhibitor;INAMRINONE LACTATE
+activator;INCADRONIC ACID
+inhibitor;INCADRONIC ACID
+inhibitor;INCB-047986
+inhibitor;INCB-40093
+antagonist;INCB-9471
+inhibitor;INCLACUMAB
+inhibitor;INCOBOTULINUMTOXINA
+agonist;INDACATEROL
+agonist;INDACATEROL MALEATE
+antagonist;INDANTADOL
+inhibitor;INDANTADOL
+inhibitor;INDAPAMIDE
+inhibitor;INDECAINIDE
+blocker;INDECAINIDE HYDROCHLORIDE
+agonist;INDEGLITAZAR
+inhibitor;INDIBULIN
+agonist;INDIGOTINDISULFONATE
+allosteric modulator;INDIPLON
+positive modulator;INDIPLON
+agonist;INDIRUBIN
+substrate;INDIRUBIN
+inhibitor;INDISULAM
+activator;INDOMETHACIN
+agonist;INDOMETHACIN
+inhibitor;INDOMETHACIN
+antagonist;INDORAMIN
+antibody;INEBILIZUMAB
+binder;INEBILIZUMAB
+agonist;INECALCITOL
+inhibitor;INFIGRATINIB
+inhibitor;INFLIXIMAB
+inhibitor;INIPARIB
+inhibitor;INK-1117
+antagonist;INOLIMOMAB
+agonist;INOSITOL NIACINATE
+inhibitor;INOTERSEN
+antibody;INOTUZUMAB OZOGAMICIN
+inhibitor;INSM-18
+agonist;INSULIN
+agonist;INSULIN ASPART
+agonist;INSULIN ASPART PROTAMINE RECOMBINANT
+agonist;INSULIN DEGLUDEC
+agonist;INSULIN DETEMIR
+agonist;INSULIN GLARGINE
+agonist;INSULIN GLULISINE
+agonist;INSULIN LISPRO
+agonist;INSULIN LISPRO PROTAMINE RECOMBINANT
+agonist;INSULIN PEGLISPRO
+agonist;INSULIN PORK
+agonist;INSULIN PURIFIED BEEF
+agonist;INSULIN PURIFIED PORK
+agonist;INSULIN SUSP ISOPHANE BEEF
+agonist;INSULIN SUSP ISOPHANE BEEF/PORK
+agonist;INSULIN SUSP ISOPHANE PURIFIED BEEF
+agonist;INSULIN SUSP ISOPHANE PURIFIED PORK
+agonist;INSULIN SUSP ISOPHANE RECOMBINANT HUMAN
+agonist;INSULIN SUSP ISOPHANE SEMISYNTHETIC PURIFIED HUMAN
+agonist;INSULIN SUSP PROTAMINE ZINC BEEF/PORK
+agonist;INSULIN SUSP PROTAMINE ZINC PURIFIED BEEF
+agonist;INSULIN SUSP PROTAMINE ZINC PURIFIED PORK
+agonist;INSULIN ZINC SUSP BEEF
+agonist;INSULIN ZINC SUSP EXTENDED BEEF
+agonist;INSULIN ZINC SUSP EXTENDED PURIFIED BEEF
+agonist;INSULIN ZINC SUSP EXTENDED RECOMBINANT HUMAN
+agonist;INSULIN ZINC SUSP PROMPT BEEF
+agonist;INSULIN ZINC SUSP PROMPT PURIFIED PORK
+agonist;INSULIN ZINC SUSP PURIFIED BEEF
+agonist;INSULIN ZINC SUSP PURIFIED BEEF/PORK
+agonist;INSULIN ZINC SUSP PURIFIED PORK
+agonist;INSULIN ZINC SUSP RECOMBINANT HUMAN
+agonist;INSULIN ZINC SUSP SEMISYNTHETIC PURIFIED HUMAN
+modulator;INT131
+partial agonist;INT131
+antagonist;INTEPIRDINE
+agonist;INTERFERON ALFA-2A
+agonist;INTERFERON ALFA-2B
+agonist;INTERFERON ALFACON-1
+agonist;INTERFERON ALFA-N3
+agonist;INTERFERON BETA-1A
+agonist;INTERFERON BETA-1B
+agonist;INTERFERON GAMMA-1B
+binder;INTERFERON GAMMA-1B
+agonist;INTERLEUKIN 15, RECOMBINANT NON-GLYCOSYLATED
+agonist;INTERLEUKIN-10
+antagonist;INTETUMUMAB
+substrate;IODINE
+antagonist;IODOPHENPROPIT
+agonist;IODOPROXYFAN
+antagonist;IPAFRICEPT
+inhibitor;IPATASERTIB
+inhibitor;IPH-2101
+antibody;IPILIMUMAB
+inhibitor;IPILIMUMAB
+inhibitor;IPRAGLIFLOZIN
+antagonist;IPRATROPIUM
+antagonist;IPRATROPIUM BROMIDE
+agonist;IPSAPIRONE
+antagonist;IRALUKAST
+antagonist;IRAMPANEL
+blocker;IRAMPANEL
+antagonist;IRBESARTAN
+inhibitor;IRBESARTAN
+antagonist;IRDABISANT
+inhibitor;IRINOTECAN
+inhibitor;IRINOTECAN HYDROCHLORIDE HYDRATE
+inhibitor;IRINOTECAN SUCROSOFATE
+inhibitor;IROSUSTAT
+agonist;IRX-4204
+antagonist;IRX4310
+antibody;ISATUXIMAB
+inhibitor;ISATUXIMAB
+inhibitor;ISAVUCONAZOLE
+antibody;ISCALIMAB
+inhibitor;ISCHEMIN
+antagonist;ISOBUTYLMETHYLXANTHINE
+inhibitor;ISOCARBOXAZID
+agonist;ISOETHARINE
+agonist;ISOETHARINE HYDROCHLORIDE
+agonist;ISOETHARINE MESYLATE
+agonist;ISOFLAVONE
+activator;ISOFLURANE
+agonist;ISOFLURANE
+antagonist;ISOFLURANE
+inducer;ISOFLURANE
+inhibitor;ISOFLURANE
+positive modulator;ISOFLURANE
+inhibitor;ISOFLUROPHATE
+inhibitor;ISOGRANULATIMIDE
+agonist;ISOGUVACINE
+agonist;ISOMETHEPTENE
+inhibitor;ISOMETHEPTENE
+antagonist;ISOPROPAMIDE
+antagonist;ISOPROPAMIDE IODIDE
+agonist;ISOPROTERENOL
+inducer;ISOPROTERENOL
+agonist;ISOPROTERENOL HYDROCHLORIDE
+blocker;ISOSAKUTANETIN
+activator;ISOSORBIDE DINITRATE
+activator;ISOSORBIDE MONONITRATE
+antagonist;ISOTHIPENDYL
+agonist;ISOTRETINOIN
+activator;ISOVELLERAL
+inhibitor;ISPINESIB
+partial agonist;ISPRONICLINE
+blocker;ISRADIPINE
+inhibitor;ISRADIPINE
+antagonist;ISRAPAFANT
+antibody;ISTIRATUMAB
+antagonist;ISTRADEFYLLINE
+inhibitor;ITACITINIB
+antibody;ITOLIZUMAB
+inhibitor;ITOPRIDE
+inhibitor;ITRACONAZOLE
+antagonist;ITRIGLUMIDE
+antagonist;ITURELIX
+blocker;IVABRADINE
+inhibitor;IVABRADINE
+blocker;IVABRADINE HYDROCHLORIDE
+activator;IVACAFTOR
+potentiator;IVACAFTOR
+agonist;IVERMECTIN
+allosteric modulator;IVERMECTIN
+inhibitor;IVOSIDENIB
+inhibitor;IXABEPILONE
+inhibitor;IXAZOMIB
+inhibitor;IXAZOMIB CITRATE
+antibody;IXEKIZUMAB
+inhibitor;IXEKIZUMAB
+antagonist;J-113,397
+inhibitor;JI-101
+antagonist;JNJ-17216498
+antagonist;JNJ-18038683
+inhibitor;JNJ-26483327
+antagonist;JNJ-37822681
+inhibitor;JNJ-38877605
+positive modulator;JNJ-39393406
+allosteric modulator;JNJ-40411813
+inhibitor;JNJ-42165279
+antagonist;JNJ-5207852
+antibody;JNJ-61186372
+inhibitor;JNJ-7706621
+antagonist;JTE-151
+antagonist;JTS-653
+allosteric modulator;K-252A
+agonist;K-877
+agonist;KASSININ
+inhibitor;KC-706
+agonist;KD3010
+negative modulator;KELIXIMAB
+inhibitor;KENPAULLONE
+agonist;KETAMINE
+agonist,partial agonist;KETAMINE
+antagonist;KETAMINE
+binder;KETAMINE
+blocker;KETAMINE
+inhibitor;KETAMINE
+potentiator;KETAMINE
+antagonist;KETANSERIN
+inhibitor;KETANSERIN
+inverse agonist;KETANSERIN
+ligand;KETAZOLAM
+positive modulator;KETAZOLAM
+agonist;KETOBEMIDONE
+antagonist;KETOBEMIDONE
+antagonist;KETOCONAZOLE
+binder;KETOCONAZOLE
+blocker;KETOCONAZOLE
+inhibitor;KETOCONAZOLE
+inhibitor;KETOPROFEN
+inhibitor;KETOROLAC
+inhibitor;KETOROLAC TROMETHAMINE
+antagonist;KETOTIFEN
+inhibitor;KETOTIFEN
+antagonist;KETOTIFEN FUMARATE
+agonist;KISSPEPTIN-10
+inhibitor;KRN-633
+agonist;KRP203
+inhibitor;KU-55933
+inhibitor;KW-2449
+inhibitor;KW-2450
+inhibitor;KX2-361
+inhibitor;KX2-391
+inhibitor;KZR-616
+agonist;L-165461
+inhibitor;L-21649
+antagonist;L-365260
+antagonist;L-740093
+antagonist;L-765314
+agonist;L-796449
+antagonist;LABETALOL
+antagonist;LABETALOL HYDROCHLORIDE
+antibody;LABETUZUMAB
+inhibitor;LABETUZUMAB
+agonist;LABRADIMIL
+antagonist;LACIDIPINE
+modulator;LADARIXIN
+agonist;L-ALANINE
+adduct;LAMIVUDINE
+agonist,inhibitor;LAMOTRIGINE
+antagonist;LAMOTRIGINE
+antagonist,inducer;LAMOTRIGINE
+blocker;LAMOTRIGINE
+inhibitor;LAMOTRIGINE
+antibody;LAMPALIZUMAB
+inhibitor;LANABECESTAT
+antibody;LANADELUMAB
+inhibitor;LANADELUMAB
+inhibitor;LANDOGROZUMAB
+antagonist;LANEPITANT
+blocker;LANICEMINE
+inhibitor;LANRAPLENIB
+agonist;LANREOTIDE
+agonist;LANREOTIDE ACETATE
+inhibitor;LANSOPRAZOLE
+inhibitor;LAPAQUISTAT ACETATE
+antagonist;LAPATINIB
+inhibitor;LAPATINIB
+inhibitor;LAPATINIB DITOSYLATE
+partial agonist;LARAZOTIDE ACETATE
+antagonist;LAROPIPRANT
+inhibitor;LAROTRECTINIB
+antagonist;LAS101057
+agonist;LAS190792
+antagonist;LAS190792
+agonist;LASMIDITAN
+agonist;LASOFOXIFENE
+inverse agonist;LASOFOXIFENE
+negative modulator,agonist,antagonist;LASOFOXIFENE
+agonist;LATANOPROST
+agonist;LATANOPROSTENE BUNOD
+inhibitor;LATRUNCULIN A
+inhibitor;LAZABEMIDE
+agonist;L-CITRULLINE
+product of;L-CITRULLINE
+antagonist;LCL-161
+inhibitor;LCL-161
+inhibitor;LEBRIKIZUMAB
+antagonist;LECOZOTAN HYDROCHLORIDE
+agonist;LEFLUNOMIDE
+antagonist;LEFLUNOMIDE
+inhibitor;LEFLUNOMIDE
+antagonist;LEMBOREXANT
+agonist;LENABASUM
+antagonist;LENALIDOMIDE
+inhibitor;LENALIDOMIDE
+negative modulator;LENALIDOMIDE
+inhibitor;LENERCEPT
+inhibitor;LENIOLISIB
+agonist;LENOGRASTIM
+inhibitor;LENVATINIB
+inhibitor;LENVATINIB MESYLATE
+inhibitor;LENZILUMAB
+inhibitor;LEO-15520
+inhibitor;LEPIRUDIN
+antagonist;LEQ506
+inhibitor;LERCANIDIPINE
+inhibitor;LERDELIMUMAB
+inhibitor;LEROCICLIB
+antagonist;LERONLIMAB
+antibody;LERONLIMAB
+inhibitor;LESINURAD
+agonist;LESOGABERAN
+inhibitor;LESTAURTINIB
+inhibitor;LETAXABAN
+antagonist;LETROZOLE
+inhibitor;LETROZOLE
+activator;LEUKOTRIENE_B4
+agonist;LEUPROLIDE
+agonist;LEUPROLIDE ACETATE
+agonist;LEVALBUTEROL HYDROCHLORIDE
+antagonist;LEVALLORPHAN
+partial agonist;LEVALLORPHAN
+antagonist;LEVALLORPHAN TARTRATE
+partial agonist;LEVALLORPHAN TARTRATE
+agonist;LEVAMISOLE
+inhibitor;LEVAMISOLE
+agonist;LEVAMLODIPINE
+antagonist;LEVAMLODIPINE
+agonist;LEVETIRACETAM
+blocker;LEVETIRACETAM
+inhibitor;LEVETIRACETAM
+modulator;LEVETIRACETAM
+antagonist;LEVOBETAXOLOL
+antagonist;LEVOBETAXOLOL HYDROCHLORIDE
+antagonist;LEVOBUNOLOL
+antagonist;LEVOBUNOLOL HYDROCHLORIDE
+inhibitor;LEVOBUPIVACAINE
+blocker;LEVOBUPIVACAINE HYDROCHLORIDE
+agonist;LEVOCABASTINE
+antagonist;LEVOCABASTINE
+partial antagonist;LEVOCABASTINE
+antagonist;LEVOCABASTINE HYDROCHLORIDE
+activator;LEVOCARNITINE
+antagonist,inhibitor;LEVOCETIRIZINE
+antagonist;LEVOCETIRIZINE DIHYDROCHLORIDE
+agonist;LEVODOPA
+agonist;LEVOMENTHOL
+antagonist;LEVOMENTHOL
+inducer;LEVOMENTHOL
+antagonist;LEVOMEPROMAZINE
+agonist;LEVOMETHADYL ACETATE
+antagonist;LEVOMETHADYL ACETATE
+agonist;LEVOMETHADYL ACETATE HYDROCHLORIDE
+inhibitor;LEVOMILNACIPRAN
+inhibitor;LEVOMILNACIPRAN HYDROCHLORIDE
+agonist;LEVONORDEFRIN
+agonist;LEVONORGESTREL
+binder;LEVONORGESTREL
+binder,inhibitor;LEVONORGESTREL
+inhibitor;LEVONORGESTREL
+modulator;LEVONORGESTREL
+agonist;LEVORPHANOL
+blocker;LEVORPHANOL
+agonist;LEVORPHANOL TARTRATE
+agonist;LEVOSALBUTAMOL
+inducer;LEVOSIMENDAN
+inhibitor;LEVOSIMENDAN
+potentiator;LEVOSIMENDAN
+agonist;LEVOTHYROXINE
+agonist;LEVOTHYROXINE SODIUM
+agonist;LEXACALCITOL
+antibody;LEXATUMUMAB
+inhibitor;LEXIBULIN
+modulator;LGD-2941
+inhibitor;LGH-447
+inhibitor;LGX-806
+agonist;LH (MENOTROPINS)
+inhibitor;LIAFENSINE
+inhibitor;LICOGLIFLOZIN
+antagonist;LIDOCAINE
+blocker;LIDOCAINE
+inhibitor;LIDOCAINE
+blocker;LIDOCAINE HYDROCHLORIDE
+inhibitor;LIDORESTAT
+inhibitor;LIFIRAFENIB
+antagonist;LIFITEGRAST
+antibody;LIGELIZUMAB
+inhibitor;LIGELIZUMAB
+agonist;LIMAPROST
+agonist;LINACLOTIDE
+inhibitor;LINAGLIPTIN
+antagonist;LINDANE
+inhibitor;LINEZOLID
+inhibitor;LINIFANIB
+agonist;LINOLENIC ACID
+inhibitor;LINOLENIC ACID
+ligand;LINOLENIC ACID
+substrate;LINOLENIC ACID
+inhibitor;LINOPIRDINE
+inhibitor;LINRODOSTAT
+inhibitor;LINSITINIB
+antagonist;LINTITRIPT
+antibody;LINTUZUMAB
+antagonist;LINZAGOLIX
+agonist;LIOTHYRONINE
+antagonist;LIOTHYRONINE
+agonist;LIOTHYRONINE SODIUM
+agonist;LIOTRIX
+agonist;LIPEGFILGRASTIM
+agonist;LIQUIRTIGENIN
+blocker;LIQUIRTIGENIN
+agonist;LIRAGLUTIDE
+inhibitor;LIRILUMAB
+agonist;LISDEXAMFETAMINE
+inhibitor;LISDEXAMFETAMINE DIMESYLATE
+inhibitor;LISINOPRIL
+inhibitor;LISINOPRIL HYDRATE
+agonist;LISURIDE
+antagonist;LISURIDE
+inhibitor;LITHIUM CARBONATE
+inhibitor;LITHIUM CITRATE
+inhibitor;LITHIUM ION
+potentiator;LITHIUM ION
+inhibitor;LITRONESIB
+agonist;LIXISENATIDE
+antagonist;LIXIVAPTAN
+activator;LOBEGLITAZONE
+agonist;LODOXAMIDE
+inhibitor;LOFEPRAMINE
+agonist;LOFEXIDINE
+inhibitor;LOMEFLOXACIN
+inhibitor;LOMERIZINE
+antagonist;LOMITAPIDE
+inhibitor;LOMITAPIDE MESYLATE
+antagonist;LOMUSTINE
+modulator;LOMUSTINE
+inhibitor;LONAFARNIB
+antagonist;LONAPRISAN
+agonist;LOPERAMIDE
+inhibitor;LOPERAMIDE
+modulator;LOPERAMIDE
+agonist;LOPERAMIDE HYDROCHLORIDE
+ligand;LOPRAZOLAM
+positive modulator;LOPRAZOLAM
+antagonist;LORATADINE
+inhibitor;LORATADINE
+allosteric modulator;LORAZEPAM
+ligand;LORAZEPAM
+positive modulator;LORAZEPAM
+agonist;LORCASERIN
+agonist;LORCASERIN HYDROCHLORIDE
+inhibitor;LORECIVIVINT
+positive modulator;LOREDIPLON
+antagonist;LORGLUMIDE
+inhibitor;LORLATINIB
+ligand;LORMETAZEPAM
+positive modulator;LORMETAZEPAM
+inhibitor;LORNOXICAM
+antagonist;LORPIPRAZOLE
+antagonist;LOSARTAN
+antagonist;LOSARTAN POTASSIUM
+inhibitor;LOSMAPIMOD
+agonist;LOTEPREDNOL ETABONATE
+agonist;LOVASTATIN
+inhibitor;LOVASTATIN
+inhibitory allosteric modulator;LOVASTATIN
+activator;LOXAPINE
+antagonist;LOXAPINE
+binder;LOXAPINE
+antagonist;LOXAPINE HYDROCHLORIDE
+antagonist;LOXAPINE SUCCINATE
+antagonist;LOXOPROFEN
+agonist;LOXORIBINE
+inhibitor;LS-104
+activator;LUBIPROSTONE
+inducer;LUBIPROSTONE
+inhibitor;LUCANTHONE
+negative modulator;LUCANTHONE
+inhibitor;LUCITANIB
+modulator;LUMACAFTOR
+antagonist;LUMATEPERONE
+inhibitor;LUMATEPERONE
+partial agonist;LUMATEPERONE
+antagonist;LUMILIXIMAB
+inhibitor;LUMINESPIB
+inhibitor;LUMIRACOXIB
+agonist;LUNACALCIPOL
+antagonist;LURASIDONE
+antagonist;LURASIDONE HYDROCHLORIDE
+adduct;LURBINECTEDIN
+agonist;LUSUTROMBOPAG
+agonist;LUTETIUM DOTATATE LU-177
+agonist;LUTROPIN ALFA
+antagonist;LUZINDOLE
+inhibitor;LX-2931
+agonist;LXR-623
+inhibitor;LY-2090314
+modulator;LY2245461
+inhibitor;LY-2382770
+modulator;LY2452473
+inhibitor;LY-2584702
+antagonist;LY2590443
+inhibitor;LY-2606368
+antagonist;LY2623091
+antagonist;LY2624803
+inhibitor;LY-2780301
+inhibitor;LY-2811376
+agonist;LY2828360
+inhibitor;LY-2874455
+agonist;LY2881835
+inhibitor;LY-2886721
+antagonist;LY2940094
+agonist;LY2969822
+agonist;LY2979165
+inhibitor;LY-3007113
+inhibitor;LY-3009120
+agonist;LY377604
+antagonist;LY377604
+agonist;LY404039
+agonist;LY-510929
+agonist;LY-518674
+antagonist;LY545694
+agonist;LYPRESSIN
+agonist;LYSERGIDE
+agonist;LYSINE
+activator;LYSOPHOSPHATIDYLCHOLINE
+inhibitor;MAB-425
+agonist;MACIMORELIN
+antagonist;MACITENTAN
+antagonist;MAFENIDE
+ligand;MAGNESIUM ACETATE TETRAHYDRATE
+inhibitor;MAGNESIUM SALICYLATE
+inhibitor;MALATHION
+blocker;MANIDIPINE 6300
+agonist;MAPATUMUMAB
+antibody;MAPATUMUMAB
+agonist;MAPRACORAT
+antagonist;MAPROTILINE
+binder;MAPROTILINE
+blocker;MAPROTILINE
+inhibitor;MAPROTILINE
+inhibitor;MAPROTILINE HYDROCHLORIDE
+antagonist;MARAVIROC
+inhibitor;MARDEPODECT
+antibody;MARGETUXIMAB
+inhibitor;MARGETUXIMAB
+antagonist;MARIMASTAT
+inhibitor;MARIMASTAT
+inhibitor;MARIZOMIB
+inhibitor;MASITINIB
+inhibitor;MASOPROCOL
+inhibitor;MATUZUMAB
+antagonist;MAVATREP
+inhibitor;MAVELERTINIB
+antagonist;MAVOGLURANT
+antagonist;MAVORIXAFOR
+antibody;MAVRILIMUMAB
+inhibitor;MAZINDOL
+agonist;MB07811
+modulator;MBX-2044
+agonist;MBX-2982
+agonist;MBX-8025
+inhibitor;ME-344
+inhibitor;ME-401
+inhibitor;MEBENDAZOLE
+antagonist;MECAMYLAMINE
+blocker;MECAMYLAMINE
+agonist;MECASERMIN
+agonist;MECASERMIN RINFABATE
+negative modulator;MECHLORETHAMINE
+antagonist;MECLIZINE
+inverse agonist;MECLIZINE
+antagonist;MECLIZINE HYDROCHLORIDE
+inhibitor;MECLOFENAMATE SODIUM
+inhibitor;MECLOFENAMIC ACID
+cofactor;MECOBALAMIN
+ligand;MEDAZEPAM
+positive modulator;MEDAZEPAM
+antagonist;MEDI-500
+ligand;MEDROGESTONE
+agonist;MEDROXYPROGESTERONE ACETATE
+agonist;MEDRYSONE
+inhibitor;MEFENAMIC ACID
+antagonist;MEFLOQUINE
+agonist;MEGESTROL ACETATE
+inhibitor;MEKINIST
+inhibitor;MELAGATRAN
+agonist;MELATONIN
+antagonist;MELATONIN
+inhibitor;MELATONIN
+inhibitor;MELOXICAM
+antagonist;MELPERONE
+modulator;MELPHALAN
+agonist,antagonist;MEMANTINE
+antagonist;MEMANTINE
+binder;MEMANTINE
+inhibitor;MEMANTINE
+agonist;MENADIOL SODIUM DIPHOSPHATE
+activator;MENADIONE
+agonist;MENADIONE
+cofactor;MENADIONE
+agonist;MENOTROPINS
+binder;MENOTROPINS
+inhibitor;MEPAZINE
+antagonist;MEPENZOLATE
+antagonist;MEPENZOLATE BROMIDE
+agonist;MEPERIDINE
+antagonist;MEPERIDINE
+binder;MEPERIDINE
+inhibitor;MEPERIDINE
+agonist;MEPERIDINE HYDROCHLORIDE
+agonist;MEPHENTERMINE
+agonist;MEPHENTERMINE SULFATE
+activator;MEPHENYTOIN
+blocker;MEPHENYTOIN
+inhibitor;MEPHENYTOIN
+activator;MEPHOBARBITAL
+antagonist;MEPHOBARBITAL
+potentiator;MEPHOBARBITAL
+inhibitor;MEPIVACAINE
+blocker;MEPIVACAINE HYDROCHLORIDE
+antagonist;MEPOLIZUMAB
+inhibitor;MEPOLIZUMAB
+agonist;MEPREDNISONE
+agonist;MEPROBAMATE
+positive modulator;MEPROBAMATE
+inhibitor;MEQUINOL
+antagonist;MEQUITAZINE
+inhibitor;MERCAPTOPURINE
+inhibitor;MERESTINIB
+blocker;MERETHOXYLLINE PROCAINE
+inhibitor;MERIMEPODIB
+antagonist;MERSALYL
+agonist;MESALAMINE
+inhibitor;MESALAMINE
+antagonist;MESORIDAZINE
+antagonist;MESORIDAZINE BESYLATE
+agonist;MESTRANOL
+antagonist;MESULERGINE
+agonist;METAPROTERENOL
+agonist;METAPROTERENOL SULFATE
+agonist;METARAMINOL
+agonist;METARAMINOL BITARTRATE
+inhibitor;METELIMUMAB
+agonist;METENKEFALIN
+antagonist;METERGOLINE
+inhibitor;METERGOLINE
+activator,inducer;METFORMIN
+inhibitor;METFORMIN
+inhibitor;METFORMIN HYDROCHLORIDE
+agonist;METHACHOLINE
+agonist;METHACHOLINE CHLORIDE
+agonist;METHADONE
+antagonist;METHADONE
+agonist;METHADONE HYDROCHLORIDE
+agonist;METHADYL ACETATE
+agonist;METHAMPHETAMINE
+inhibitor;METHAMPHETAMINE
+negative modulator;METHAMPHETAMINE
+inhibitor;METHAMPHETAMINE HYDROCHLORIDE
+antagonist;METHANTHELINE
+antagonist;METHANTHELINE BROMIDE
+antagonist;METHARBITAL
+positive modulator;METHARBITAL
+potentiator;METHARBITAL
+inhibitor;METHAZOLAMIDE
+antagonist;METHDILAZINE
+antagonist;METHDILAZINE HYDROCHLORIDE
+inhibitor;METHIMAZOLE
+inhibitor,substrate;METHIMAZOLE
+agonist;METHIMEPIP
+product of;METHIONINE
+antagonist;METHIXENE
+antagonist;METHIXENE HYDROCHLORIDE
+inhibitor;METHOCARBAMOL
+antagonist;METHOCTRAMINE
+antagonist;METHOHEXITAL
+positive modulator;METHOHEXITAL SODIUM
+inhibitor;METHOTREXATE
+inhibitor;METHOTREXATE SODIUM
+agonist;METHOXAMINE
+binder;METHOXAMINE
+agonist;METHOXAMINE HYDROCHLORIDE
+negative modulator;METHOXSALEN
+agonist;METHOXYFLURANE
+antagonist;METHOXYFLURANE
+inducer;METHOXYFLURANE
+inhibitor;METHOXYFLURANE
+positive modulator;METHOXYFLURANE
+antagonist;METHSCOPOLAMINE BROMIDE
+blocker;METHSUXIMIDE
+inhibitor;METHSUXIMIDE
+inhibitor;METHYCLOTHIAZIDE
+agonist;METHYLDOPA
+cofactor;METHYLDOPA
+inhibitor;METHYLDOPA
+substrate;METHYLDOPA
+agonist;METHYLDOPATE HYDROCHLORIDE
+agonist;METHYLERGONOVINE
+antagonist;METHYLERGONOVINE
+antagonist;METHYLERGONOVINE MALEATE
+partial agonist;METHYLERGONOVINE MALEATE
+activator;METHYLGLYOXAL
+antagonist;METHYLLYCACONITINE
+antagonist;METHYLNALTREXONE
+antagonist;METHYLNALTREXONE BROMIDE
+inhibitor;METHYLPHENIDATE
+inhibitor;METHYLPHENIDATE HYDROCHLORIDE
+activator;METHYLPREDNISOLONE
+agonist;METHYLPREDNISOLONE
+agonist;METHYLPREDNISOLONE ACETATE
+agonist;METHYLPREDNISOLONE SODIUM SUCCINATE
+antagonist;METHYLPROMAZINE
+antagonist;METHYLSAMIDORPHAN
+agonist;METHYLTESTOSTERONE
+agonist;METHYPRYLON
+positive modulator;METHYPRYLON
+agonist;METHYSERGIDE
+antagonist;METHYSERGIDE
+binder;METHYSERGIDE
+antagonist;METIAMIDE
+antagonist;METIPRANOLOL
+antagonist;METIPRANOLOL HYDROCHLORIDE
+antagonist;METITEPINE
+agonist;METOCLOPRAMIDE
+antagonist;METOCLOPRAMIDE
+agonist;METOCLOPRAMIDE HYDROCHLORIDE
+antagonist;METOCLOPRAMIDE HYDROCHLORIDE
+antagonist;METOCURINE
+antagonist;METOCURINE IODIDE
+inhibitor;METOLAZONE
+antagonist;METOPROLOL
+antagonist;METOPROLOL SUCCINATE
+agonist;METRELEPTIN
+agonist;METRIBOLONE
+agonist;METRIFUDIL
+inhibitor;METYRAPONE
+binder;METYROSINE
+inhibitor;METYROSINE
+inhibitor;MEVASTATIN
+ligand;MEXAZOLAM
+positive modulator;MEXAZOLAM
+agonist;MEXILETINE
+blocker;MEXILETINE
+inhibitor;MEXILETINE
+blocker;MEXILETINE HYDROCHLORIDE
+agonist;MF101
+inhibitor;MGCD-265
+agonist;MIANSERIN
+antagonist;MIANSERIN
+binder;MIANSERIN
+blocker;MIANSERIN
+inhibitor;MIANSERIN
+positive modulator;MIBAMPATOR
+blocker;MIBEFRADIL
+inhibitor;MIBEFRADIL
+blocker;MIBEFRADIL DIHYDROCHLORIDE
+agonist;MIBOLERONE
+blocker;MICONAZOLE
+inhibitor;MICONAZOLE
+partial agonist;MICONAZOLE
+ligand;MIDAZOLAM
+positive modulator;MIDAZOLAM
+positive modulator;MIDAZOLAM HYDROCHLORIDE
+agonist;MIDODRINE
+agonist;MIDODRINE HYDROCHLORIDE
+agonist;MIDOMAFETAMINE
+inhibitor;MIDOMAFETAMINE
+negative modulator;MIDOMAFETAMINE
+antagonist,inhibitor;MIDOSTAURIN
+inhibitor;MIDOSTAURIN
+ligand;MIFAMURTIDE
+agonist;MIFEPRISTONE
+agonist,antagonist;MIFEPRISTONE
+antagonist;MIFEPRISTONE
+inhibitor;MIGALASTAT
+antagonist;MIGLITOL
+antagonist,inhibitor;MIGLITOL
+inhibitor;MIGLITOL
+inhibitor;MIGLUSTAT
+agonist;MILAMELINE
+antagonist;MILATUZUMAB
+antibody;MILATUZUMAB
+inhibitor;MILCICLIB
+inhibitor;MILNACIPRAN
+inhibitor;MILRINONE
+inhibitor;MILRINONE LACTATE
+agonist;MILVETEROL
+inhibitor;MIMOSINE
+agonist;MINAPRINE
+antagonist;MINAPRINE
+inhibitor;MINAPRINE
+inhibitor;MINOCYCLINE
+modulator;MINOCYCLINE
+negative modulator;MINOCYCLINE
+inhibitor;MINODRONIC ACID
+antagonist;MINOPAFANT
+activator;MINOXIDIL
+inducer;MINOXIDIL
+binder;MIPOMERSEN
+agonist;MIRABEGRON
+allosteric modulator;MIRANSERTIB
+inhibitor;MIRANSERTIB
+antagonist;MIRICORILANT
+inhibitor;MIRIDESAP
+modulator;MIROGABALIN BESYLATE
+agonist;MIRTAZAPINE
+antagonist;MIRTAZAPINE
+agonist;MISOPROSTOL
+allosteric modulator;MITAPIVAT
+agonist;MITIGLINIDE
+inhibitor;MITIGLINIDE
+modulator;MITOMYCIN
+antagonist;MITOTANE
+inducer;MITOTANE
+inhibitor;MITOTANE
+inhibitor;MITOXANTRONE
+negative modulator;MITOXANTRONE
+inhibitor;MITOXANTRONE HYDROCHLORIDE
+antagonist;MIVACURIUM
+antagonist,partial agonist;MIVACURIUM
+antagonist;MIVACURIUM CHLORIDE
+inhibitor;MIVEBRESIB
+antagonist;MIZOLASTINE
+agonist,antagonist;MK-0249
+antagonist;MK-0249
+inverse agonist;MK-0249
+modulator;MK-0533
+antagonist;MK0686
+agonist;MK-0767
+modulator;MK-0773
+allosteric modulator;MK-0777
+inhibitor;MK-0873
+allosteric modulator;MK-0893
+antagonist;MK-0893
+antagonist;MK-1029
+antagonist;MK-1064
+inhibitor;MK-1496
+agonist;MK-212
+inhibitor;MK-2201
+allosteric modulator;MK-2206
+inhibitor;MK-2206
+inhibitory allosteric modulator;MK-2206
+inhibitor;MK-2461
+antagonist;MK3207
+inhibitor;MK-5108
+antagonist;MK-571
+inhibitor;MK-6592
+agonist;MK-6913
+blocker;MK-7145
+antagonist;MK-7246
+allosteric modulator;MK-7622
+inhibitor;MK-8033
+inhibitor;MK-8353
+positive modulator;MK-8777
+inhibitor;MLN-0415
+inhibitor;MLN-2480
+antagonist;MLN3126
+inhibitor;MLN-8054
+inhibitor;MLNM-2201
+antibody;MM-111
+antagonist;MM-121
+antibody;MM-121
+inhibitor;MOCETINOSTAT
+antagonist;MOCLOBEMIDE
+antagonist,inhibitor;MOCLOBEMIDE
+inhibitor;MOCLOBEMIDE
+inhibitor;MODAFINIL
+partial agonist;MODAFINIL
+agonist;MODIMELANOTIDE
+inhibitor;MOEXIPRIL
+inhibitor;MOEXIPRIL HYDROCHLORIDE
+modulator;MOFAROTENE
+inhibitor;MOFEGILINE
+antagonist;MOGAMULIZUMAB
+antibody;MOGAMULIZUMAB
+inhibitor;MOLIBRESIB
+antagonist;MOLINDONE
+antagonist;MOLINDONE HYDROCHLORIDE
+agonist;MOLSIDOMINE
+inhibitor;MOMELOTINIB
+agonist;MOMETASONE
+agonist;MOMETASONE FUROATE
+antibody;MONALIZUMAB
+inhibitor;MONOBENZONE
+antagonist;MONTELUKAST
+antagonist;MONTELUKAST SODIUM
+inhibitor;MORICIZINE
+blocker;MORICIZINE HYDROCHLORIDE
+antagonist;MORIN
+antagonist;MORNIFLUMATE
+activator;MOROCTOCOG ALFA
+antagonist;MOROCTOCOG ALFA
+binder;MOROCTOCOG ALFA
+chaperone;MOROCTOCOG ALFA
+cofactor;MOROCTOCOG ALFA
+modulator;MOROCTOCOG ALFA
+activator;MORPHANTHRIDINE
+activator;MORPHINE
+agonist;MORPHINE
+agonist;MORPHINE SULFATE
+agonist;MOSAPRIDE
+inhibitor;MOTESANIB
+agonist;MOTILIN
+agonist;MOTOLIMOD
+binder;MOXETUMOMAB PASUDOTOX
+inhibitor;MOXETUMOMAB PASUDOTOX
+inhibitor;MOXIFLOXACIN
+antagonist;MOXISYLYTE
+agonist;MOXONIDINE
+antagonist;MOZAVAPTAN
+inhibitor;MP-412
+antagonist;MR-1817
+inhibitor;MSC-2363318A
+inhibitor;MSC-2364447
+antagonist;MSX-122
+antagonist;MT-3995
+inhibitor;MUBRITINIB
+inhibitor;MUPARFOSTAT
+agonist;MURAGLITAZAR
+antibody;MUROMONAB-CD3
+binder;MUROMONAB-CD3
+inhibitor;MUROMONAB-CD3
+antagonist;MUSCARINE
+agonist;MUSCIMOL
+inhibitor;MYCOPHENOLATE MOFETIL
+inhibitor;MYCOPHENOLATE MOFETIL HYDROCHLORIDE
+inhibitor;MYCOPHENOLIC ACID
+inhibitor;MYRIOCIN
+agonist;MYRRH
+antagonist;MYRRH
+partial agonist;MYRRH
+agonist;N6-CYCLOPENTYLADENOSINE
+agonist;NABILONE
+partial agonist;NABILONE
+inhibitor;NABIXIMOLS
+inhibitor,inducer;NABIXIMOLS
+inhibitor,substrate;NABIXIMOLS
+inverse agonist;NABIXIMOLS
+stimulator;NABIXIMOLS
+inhibitor;NABUMETONE
+activator;N-ACETYLGLUCOSAMINE 
+activator;NADIDE
+agonist;NADIDE
+antagonist;NADOLOL
+inhibitor;NADROPARIN
+potentiator;NADROPARIN
+agonist;NAFADOTRIDE
+antagonist;NAFADOTRIDE
+blocker;NAFAMOSTAT
+inhibitor;NAFAMOSTAT
+agonist;NAFARELIN
+agonist;NAFARELIN ACETATE
+inhibitor;NAFTIFINE
+agonist;NALBUPHINE
+antagonist;NALBUPHINE
+agonist;NALBUPHINE HYDROCHLORIDE
+antagonist;NALDEMEDINE
+antagonist;NALDEMEDINE TOSYLATE
+agonist;NALFURAFINE
+agonist;NALFURAFINE HYDROCHLORIDE
+agonist;NALMEFENE
+antagonist;NALMEFENE
+partial agonist;NALMEFENE
+antagonist;NALMEFENE HYDROCHLORIDE
+agonist;NALORPHINE
+antagonist;NALORPHINE
+antagonist;NALOXEGOL
+antagonist;NALOXEGOL OXALATE
+antagonist;NALOXONE
+inhibitor;NALOXONE
+antagonist;NALOXONE HYDROCHLORIDE
+partial agonist;NALTALIMIDE
+antagonist;NALTREXONE
+antagonist;NALTREXONE HYDROCHLORIDE
+activator;NALTRIBEN
+antagonist;NALTRIBEN
+antagonist;NALTRINDOLE
+agonist;NALUZOTAN
+inhibitor;NAMILUMAB
+agonist;NAMODENOSON
+inhibitor;NANATINOSTAT
+agonist;NANDROLONE
+agonist;NANDROLONE DECANOATE
+agonist;NANDROLONE PHENPROPIONATE
+agonist;NAPHAZOLINE
+agonist;NAPHAZOLINE HYDROCHLORIDE
+inhibitor;NAPROXCINOD
+inhibitor;NAPROXEN
+inhibitor;NAPROXEN ETEMESIL
+inhibitor;NAPROXEN SODIUM
+inhibitor;NAQUOTINIB
+agonist;NARATRIPTAN
+agonist;NARATRIPTAN HYDROCHLORIDE
+antagonist;NARINGENIN
+blocker;NARINGENIN
+inhibitor;NARINGENIN
+partial agonist;NARINGENIN
+inhibitor;NARINGIN
+agonist;NARONAPRIDE
+antagonist;NASTORAZEPIDE CALCIUM
+antibody;NATALIZUMAB
+inhibitor;NATALIZUMAB
+agonist;NATEGLINIDE
+blocker;NATEGLINIDE
+inhibitor;NATEGLINIDE
+antagonist;NAVARIXIN
+agonist;NAVEGLITAZAR
+antagonist;NAVITOCLAX
+inhibitor;NAVITOCLAX
+inhibitor;NAVOXIMOD
+antagonist;NAXIFYLLINE
+inhibitor;NAZARTINIB
+antagonist;NBQX
+inhibitor;NCX-4016
+agonist;ND0801
+allosteric modulator;N-DESMETHYLCLOZAPINE
+antagonist;NEBENTAN
+agonist;NEBIVOLOL
+antagonist;NEBIVOLOL
+antagonist;NEBIVOLOL HYDROCHLORIDE
+positive modulator;NEBOGLAMINE
+agonist;NECA
+antagonist;NECITUMUMAB
+antibody;NECITUMUMAB
+inhibitor;NECITUMUMAB
+inhibitor;NECROSTATIN
+ligand;NEDAPLATIN
+antagonist;NEDOCROMIL
+suppressor;NEDOCROMIL
+antagonist;NEFAZODONE
+inhibitor;NEFAZODONE
+antagonist;NEFAZODONE HYDROCHLORIDE
+inhibitor;NEFAZODONE HYDROCHLORIDE
+inhibitor;NEFLAMAPIMOD
+inhibitor;NELARABINE
+negative modulator;NELARABINE
+inhibitor;NELFINAVIR
+antagonist;NELIVAPTAN
+inverse agonist;NELOTANSERIN
+inhibitor;NEMIRALISIB
+antibody;NEMOLIZUMAB
+antagonist;NEMONAPRIDE
+inhibitor;NEOSTIGMINE
+inhibitor;NEOSTIGMINE METHYLSULFATE
+antagonist;NEPADUTANT
+inhibitor;NEPAFENAC
+inhibitor;NEPICASTAT
+antagonist;NERAMEXANE MESYLATE
+inhibitor;NERATINIB
+inhibitor;NERELIMOMAB
+blocker;NERISPIRDINE
+agonist;NESIRITIDE
+binder;NESIRITIDE
+inhibitor;NESVACUMAB
+inhibitor;NETARSUDIL
+antagonist;NETAZEPIDE
+agonist;NETOGLITAZONE
+modulator;NETOGLITAZONE
+antagonist;NETUPITANT
+agonist;NEUROTENSIN
+antagonist;NGD-8243
+inhibitor;NI-0801
+agonist;NIACIN
+binder;NIACIN
+binder;NIACINAMIDE
+product of;NIACINAMIDE
+antagonist;NICARDIPINE
+inhibitor;NICARDIPINE
+blocker;NICARDIPINE HYDROCHLORIDE
+antagonist;NICERGOLINE
+activator;NICLOSAMIDE
+allosteric modulator;NICLOSAMIDE
+antagonist;NICLOSAMIDE
+activator;NICORANDIL
+activator;NICOTINE
+agonist;NICOTINE
+antagonist;NICOTINE
+inhibitor;NICOTINE
+agonist;NICOTINE POLACRILEX
+agonist;NIDUFEXOR
+activator;NIFEDIPINE
+agonist;NIFEDIPINE
+antagonist;NIFEDIPINE
+blocker;NIFEDIPINE
+inhibitor;NIFEDIPINE
+inducer;NIFLUMIC ACID
+inhibitor;NIFLUMIC ACID
+antagonist;NIGULDIPINE
+antagonist;NILOTINIB
+inhibitor;NILOTINIB
+inhibitor;NILOTINIB HYDROCHLORIDE MONOHYDRATE
+antagonist;NILUTAMIDE
+inhibitor;NILVADIPINE
+inhibitor;NIMESULIDE
+activator;NIMODIPINE
+agonist;NIMODIPINE
+antagonist;NIMODIPINE
+blocker;NIMODIPINE
+inhibitor;NIMODIPINE
+antibody;NIMOTUZUMAB
+inhibitor;NINTEDANIB
+inhibitor;NINTEDANIB ESYLATE
+antagonist;NIRAPARIB
+inhibitor;NIRAPARIB
+inhibitor;NIROGACESTAT
+blocker;NISOLDIPINE
+inhibitor;NISOLDIPINE
+inhibitor;NISOXETINE
+inhibitor;NITISINONE
+ligand;NITRAZEPAM
+positive modulator;NITRAZEPAM
+blocker;NITRENDIPINE
+inhibitor;NITRENDIPINE
+activator;NITRIC OXIDE
+activator;NITROGLYCERIN
+agonist;NITROGLYCERIN
+inhibitor;NITROGLYCERIN
+agonist;NITROPRUSSIDE
+inhibitor;NITROXOLINE
+modulator;NITROXOLINE
+inhibitor;NIVOCASAN
+antibody;NIVOLUMAB
+inhibitor;NIVOLUMAB
+antagonist;NIZATIDINE
+blocker;NKTR-171
+agonist;N-METHYL SCOPOLAMINE
+agonist;N-METHYL-D-ASPARTIC ACID (NMDA)
+agonist;N-METHYLHISTAMINE
+inhibitor;NMS-1116354
+inhibitor;NMS-1286937
+antagonist;NOLPITANTIUM
+inhibitor;NOMIFENSINE
+agonist;NONABINE
+agonist;NONIVAMIDE
+antagonist;NORBINALTORPHIMINE
+ligand;NORDAZEPAM
+positive modulator;NORDAZEPAM
+agonist;NORELGESTROMIN
+partial agonist;NORELGESTROMIN
+agonist;NOREPINEPHRINE
+binder;NOREPINEPHRINE
+inhibitor;NOREPINEPHRINE
+agonist;NOREPINEPHRINE BITARTRATE
+agonist;NORETHINDRONE
+agonist;NORETHINDRONE ACETATE
+agonist;NORETHYNODREL
+inhibitor;NORFLOXACIN
+antagonist;NORFLUOXETINE
+inhibitor;NORFLUOXETINE
+agonist;NORGESTIMATE
+blocker;NORGESTIMATE
+partial agonist;NORGESTIMATE
+agonist;NORGESTREL
+binder;NORGESTREL
+inhibitor;NORGESTREL
+inhibitor;NORHARMANE
+agonist;NORMORPHINE
+antagonist;NORTRIPTYLINE
+binder;NORTRIPTYLINE
+blocker;NORTRIPTYLINE
+inhibitor;NORTRIPTYLINE
+negative modulator,antagonist;NORTRIPTYLINE
+inhibitor;NORTRIPTYLINE HYDROCHLORIDE
+agonist;NRX195183
+inhibitor;NS-018
+inhibitor;NS-398
+agonist;NS-49
+antisense oligonucleotide;NUSINERSEN
+inhibitor;NV-128
+agonist;NYLIDRIN
+agonist,antagonist;NYLIDRIN
+inhibitor;OBATOCLAX
+inhibitor;OBATOCLAX MESYLATE
+agonist;OBETICHOLIC ACID
+antibody;OBINUTUZUMAB
+inhibitor;OBINUTUZUMAB
+antisense oligonucleotide;OBLIMERSEN
+antagonist;OC000459
+agonist;OCAPERIDONE
+antagonist;OCAPERIDONE
+allosteric modulator;OCINAPLON
+inhibitor;OCLACITINIB
+antagonist,antibody;OCRELIZUMAB
+antibody;OCRELIZUMAB
+cleavage;OCRIPLASMIN
+ligand;OCRIPLASMIN
+inhibitor;OCTANOL
+agonist;OCTOPAMINE
+agonist;OCTREOTIDE
+agonist;OCTREOTIDE ACETATE
+inhibitor;ODANACATIB
+antagonist;ODELEPRAN
+inhibitor;ODULIMOMAB
+antibody;OFATUMUMAB
+inhibitor;OFATUMUMAB
+inhibitor;OFLOXACIN
+agonist;OLANZAPINE
+antagonist;OLANZAPINE
+inhibitor;OLANZAPINE
+antagonist;OLANZAPINE PAMOATE
+inhibitor;OLAPARIB
+antagonist;OLARATUMAB
+antibody;OLARATUMAB
+antagonist;OLCEGEPANT
+allosteric modulator;OLEAMIDE
+antibody;OLECLUMAB
+agonist;OLEOYL DOPAMINE
+agonist;OLICERIDINE
+antagonist;OLMESARTAN
+antagonist;OLMESARTAN MEDOXOMIL
+inhibitor;OLMUTINIB
+inhibitor;OLOCROLIMUS
+antagonist;OLODANRIGAN
+agonist;OLODATEROL
+agonist;OLODATEROL HYDROCHLORIDE
+inhibitor;OLOKIZUMAB
+binder;OLOMOUCINE
+inhibitor;OLOMOUCINE
+antagonist;OLOPATADINE
+antagonist;OLOPATADINE HYDROCHLORIDE
+agonist;OLORINAB
+inhibitor;OLSALAZINE
+agonist;OLSALAZINE SODIUM
+inhibitor;OLSALAZINE SODIUM
+inhibitor;OLUTASIDENIB
+activator;OLVANIL
+agonist;OLVANIL
+inhibitor;OMACETAXINE MEPESUCCINATE
+antibody;OMALIZUMAB
+inhibitor;OMALIZUMAB
+inhibitor;OMARIGLIPTIN
+activator;OMECAMTIV MECARBIL
+antagonist;OMEGA-3-CARBOXYLIC ACIDS
+potentiator;OMEGA-3-CARBOXYLIC ACIDS
+stimulator;OMEGA-3-CARBOXYLIC ACIDS
+activator;OMEPRAZOLE
+agonist;OMEPRAZOLE
+inhibitor;OMEPRAZOLE
+inhibitor;OMEPRAZOLE MAGNESIUM
+agonist;OMIDENEPAG
+inhibitor;OMIPALISIB
+agonist;OMS405
+inhibitor;ONABOTULINUMTOXINA
+inhibitor;ONALESPIB
+antagonist;ONAPRISTONE
+antagonist;ONARTUZUMAB
+antibody;ONARTUZUMAB
+inhibitor;ONARTUZUMAB
+agonist;ONDANSETRON
+antagonist;ONDANSETRON
+antagonist;ONDANSETRON HYDROCHLORIDE
+inhibitor;ONERCEPT
+antagonist;ONO-2333MS
+antagonist;ONO-3708
+inhibitor;ONTAMALIMAB
+inhibitor;ONTUXIZUMAB
+inhibitor;ONVANSERTIB
+antagonist;OPICAPONE
+inhibitor;OPICAPONE
+antibody;OPICINUMAB
+inhibitor;OPICINUMAB
+agonist;OPIUM
+agonist;OPRELVEKIN
+inhibitor;OPROZOMIB
+inhibitor;ORANTINIB
+modulator;ORDOPIDINE
+inhibitor;ORE-1001
+agonist;OREXIN B
+antagonist;ORG-34517
+inhibitor;ORLISTAT
+agonist;ORNITHINE
+antagonist;ORPHENADRINE
+inhibitor;ORPHENADRINE
+antagonist;ORPHENADRINE CITRATE
+blocker;ORPHENADRINE CITRATE
+inhibitor;ORPHENADRINE CITRATE
+antagonist;ORPHENADRINE HYDROCHLORIDE
+blocker;ORPHENADRINE HYDROCHLORIDE
+inhibitor;ORPHENADRINE HYDROCHLORIDE
+inhibitor;ORTERONEL
+antagonist;ORVEPITANT
+antagonist;OSANETANT
+inhibitor;OSELTAMIVIR
+agonist;OSEMOZOTAN
+inhibitor;OSI-027
+inhibitor;OSI-632
+inhibitor;OSI-930
+inhibitor;OSILODROSTAT
+inhibitor;OSIMERTINIB
+inhibitor;OSIMERTINIB MESYLATE
+agonist,antagonist;OSPEMIFENE
+modulator;OSPEMIFENE
+blocker;OSTHOLE
+inhibitor;OTAMIXABAN
+antibody;OTELIXIZUMAB
+antagonist;OTENABANT
+antagonist;OTENZEPAD
+inhibitor;OTILIMAB
+antibody;OTLERTUZUMAB
+inhibitor;OUABAIN
+modulator;OXALIPLATIN
+agonist;OXANDROLONE
+inhibitor;OXAPROZIN
+inhibitor;OXAPROZIN POTASSIUM
+ligand;OXAZEPAM
+positive modulator;OXAZEPAM
+blocker;OXCARBAZEPINE
+inhibitor;OXCARBAZEPINE
+inhibitor;OXELUMAB
+inhibitor;OXETHAZAINE
+partial agonist;OXICONAZOLE
+activator;OXIGLUTATIONE
+inhibitor;OXIGLUTATIONE
+substrate;OXIGLUTATIONE
+inhibitor;OXITRIPTAN
+agonist;OXOTREMORINE
+antagonist;OXPRENOLOL
+antagonist;OXPRENOLOL HYDROCHLORIDE
+activator;OXTRIPHYLLINE
+antagonist;OXTRIPHYLLINE
+inhibitor;OXTRIPHYLLINE
+agonist;OXYBATE
+antagonist;OXYBENZONE
+antagonist;OXYBUTYNIN
+antagonist;OXYBUTYNIN CHLORIDE
+agonist;OXYCODEGOL
+agonist;OXYCODONE
+agonist;OXYCODONE HYDROCHLORIDE
+agonist,activator;OXYGEN
+agonist;OXYMETAZOLINE
+agonist,partial agonist;OXYMETAZOLINE
+binder;OXYMETAZOLINE
+agonist;OXYMETAZOLINE HYDROCHLORIDE
+agonist;OXYMETHOLONE
+agonist,activator;OXYMETHOLONE
+agonist;OXYMORPHONE
+antagonist;OXYMORPHONE
+agonist;OXYMORPHONE HYDROCHLORIDE
+inhibitor;OXYPHENBUTAZONE
+antagonist;OXYPHENCYCLIMINE
+antagonist;OXYPHENCYCLIMINE HYDROCHLORIDE
+antagonist;OXYPHENONIUM
+antagonist;OXYPHENONIUM BROMIDE
+agonist;OXYTOCIN
+binder;OXYTOCIN
+inhibitor;OZAGREL
+antibody;OZANEZUMAB
+inhibitor;OZANEZUMAB
+agonist;OZANIMOD
+antagonist;OZARELIX
+inhibitor;OZORALIZUMAB
+blocker;P-1037
+inhibitor;PA-799
+antagonist;PAC-14028
+agonist;PACLITAXEL
+inducer;PACLITAXEL
+inhibitor;PACLITAXEL
+inhibitor;PACRITINIB
+inhibitor;PALBOCICLIB
+agonist;PALIFERMIN
+binder;PALIFERMIN
+agonist;PALIPERIDONE
+antagonist;PALIPERIDONE
+inhibitor;PALOMID-529
+antagonist;PALONOSETRON
+antagonist;PALONOSETRON HYDROCHLORIDE
+antagonist;PALOSURAN
+agonist;PALOVAROTENE
+inhibitor;PAMAPIMOD
+inhibitor;PAMIDRONATE DISODIUM
+inhibitor;PAMREVLUMAB
+cleavage;PANCRELIPASE
+antagonist;PANCURONIUM
+antagonist;PANCURONIUM BROMIDE
+antibody;PANITUMUMAB
+inhibitor;PANITUMUMAB
+suppressor;PANITUMUMAB
+inhibitor;PANOBINOSTAT
+inhibitor;PANOBINOSTAT LACTATE
+inhibitor;PANTOPRAZOLE
+inhibitor;PANTOPRAZOLE SODIUM
+inhibitor;PANULISIB
+activator;PAPAIN
+inhibitor;PAPAVERINE
+blocker;PARAMETHADIONE
+suppressor;PARAMETHADIONE
+agonist;PARAMETHASONE
+agonist;PARAMETHASONE ACETATE
+agonist;PARA-METHOXYAMPHETAMINE
+inhibitor;PARA-METHOXYAMPHETAMINE
+agonist;PARATHYROID HORMONE
+agonist;PARDOPRUNOX
+partial agonist;PARDOPRUNOX
+inhibitor;PARECOXIB
+inhibitor;PARGYLINE
+inhibitor;PARGYLINE HYDROCHLORIDE
+agonist;PARICALCITOL
+agonist;PAROXETINE
+antagonist;PAROXETINE
+binder;PAROXETINE
+inhibitor;PAROXETINE
+inhibitor;PAROXETINE HYDROCHLORIDE
+inhibitor;PAROXETINE MESYLATE
+inhibitor;PARSACLISIB
+antibody;PARSATUZUMAB
+inhibitor;PARSATUZUMAB
+inhibitor;PASCOLIZUMAB
+agonist;PASIREOTIDE
+inhibitor;PASIREOTIDE
+agonist;PASIREOTIDE DIASPARTATE
+agonist;PASIREOTIDE PAMOATE
+inhibitor;PATECLIZUMAB
+antagonist;PATIDEGIB
+inhibitor;PATIDEGIB
+binder;PATIROMER
+suppressor;PATISIRAN
+inhibitor;PATRITUMAB
+antagonist;PAVINETANT
+agonist;PAXILLINE
+inhibitor;PAZOPANIB
+inhibitor;PAZOPANIB HYDROCHLORIDE
+antagonist;PBF-509
+antagonist;PBF-680
+antagonist;PBF-999
+inhibitor;PBF-999
+inhibitor;PD-0166285
+inhibitor;PD-0325901
+antagonist;PD-156707
+agonist;PEFCALCITOL
+inhibitor;PEFICITINIB
+inhibitor;PEFLOXACIN
+binder;PEGADEMASE
+modulator;PEGADEMASE
+antagonist;PEGAPTANIB SODIUM
+inhibitor;PEGCANTRATINIB
+inhibitor;PEGDINETANIB
+agonist;PEGFILGRASTIM
+agonist;PEGINESATIDE
+stimulator;PEGINESATIDE
+agonist;PEGINESATIDE ACETATE
+agonist;PEGINTERFERON ALFA-2A
+agonist;PEGINTERFERON ALFA-2B
+agonist;PEGINTERFERON BETA-1A
+agonist;PEGINTERFERON LAMBDA-1A
+modulator;PEGLOTICASE
+inhibitor;PEGNIVACOGIN
+inhibitor;PEGPLERANIB SODIUM
+inhibitor;PEGSUNERCEPT
+antagonist;PEGVISOMANT
+inhibitor;PELAREOREP
+inhibitor;PELITINIB
+antagonist,antibody;PEMBROLIZUMAB
+antibody;PEMBROLIZUMAB
+inhibitor;PEMBROLIZUMAB
+inhibitor;PEMETREXED
+activator;PEMIGATINIB
+inhibitor;PEMIGATINIB
+antagonist;PENBUTOLOL
+antagonist,partial agonist;PENBUTOLOL
+antagonist;PENBUTOLOL SULFATE
+modulator;PENICILLAMINE
+agonist;PENTAERYTHRITOL TETRANITRATE
+antagonist;PENTAERYTHRITOL TETRANITRATE
+agonist;PENTAGASTRIN
+negative modulator;PENTAMIDINE
+agonist;PENTAZOCINE
+antagonist;PENTAZOCINE
+modulator;PENTAZOCINE LACTATE
+modulator;PENTETIC ACID
+activator;PENTOBARBITAL
+antagonist;PENTOBARBITAL
+positive modulator;PENTOBARBITAL
+potentiator;PENTOBARBITAL
+positive modulator;PENTOBARBITAL SODIUM
+antagonist;PENTOLINIUM
+antagonist;PENTOLINIUM TARTRATE
+inhibitor;PENTOSTATIN
+antagonist;PENTOXIFYLLINE
+inhibitor;PENTOXIFYLLINE
+antibody;PEPINEMAB
+antagonist;PERAMPANEL
+agonist;PERGOLIDE
+agonist;PERGOLIDE MESYLATE
+inhibitor;PERHEXILINE
+antagonist;PERICIAZINE
+inhibitor;PERIFOSINE
+inhibitor;PERINDOPRIL
+inhibitor;PERINDOPRIL ARGININE
+inhibitor;PERINDOPRIL ERBUMINE
+inhibitor;PERINDOPRILAT
+inhibitor;PERMETHRIN
+antagonist;PEROSPIRONE
+inverse agonist;PEROSPIRONE
+partial agonist;PEROSPIRONE
+antagonist;PERPHENAZINE
+inhibitor;PERPHENAZINE
+antibody;PERTUZUMAB
+inhibitor;PERTUZUMAB
+inhibitor;PETESICATIB
+inhibitor;PEVONEDISTAT
+antagonist;PEXACERFONT
+inhibitor;PEXELIZUMAB
+inhibitor;PEXIDARTINIB
+inhibitor;PEXMETINIB
+inhibitor;PF-00337210
+agonist;PF-00446687
+inhibitor;PF-00477736
+inhibitor;PF-00489791
+inhibitor;PF-00562271
+inhibitor;PF-03463275
+antagonist;PF-03654746
+antagonist;PF-03654764
+inhibitor;PF-03715455
+inhibitor;PF-03758309
+inhibitor;PF-03814735
+antagonist;PF-03882845
+antagonist;PF-03893787
+inhibitor;PF-04217903
+inhibitor;PF-04236921
+antagonist;PF-04418948
+inhibitor;PF-04457845
+blocker;PF-04531083
+antibody;PF-04605412
+inhibitor;PF-04620110
+antagonist;PF-04634817
+inhibitor;PF-04691502
+positive modulator;PF-04958242
+agonist;PF-04995274
+antagonist;PF-05019702
+blocker;PF-05089771
+blocker;PF-05105679
+antagonist;PF-05212377
+inhibitor;PF-06282999
+antagonist;PF-06291874
+agonist;PF-06372865
+allosteric modulator;PF-06372865
+inhibitor;PF-06650833
+inhibitor;PF-06751979
+inhibitor;PF-06821497
+inhibitor;PF-06840003
+inhibitor;PF-114
+inhibitor;PF-4191834
+antagonist;PF-5190457
+inhibitor;PG-102
+inhibitor;PG-760564
+inhibitor;PH-797804
+agonist;PHA-543613
+inhibitor;PHA-665752
+inhibitor;PHA-793887
+antagonist;PHE377
+blocker;PHENACEMIDE
+inhibitor;PHENACEMIDE
+blocker;PHENAMIL
+inhibitor;PHENAZOPYRIDINE
+blocker;PHENAZOPYRIDINE HYDROCHLORIDE
+antagonist;PHENCYCLIDINE
+blocker;PHENCYCLIDINE
+agonist;PHENDIMETRAZINE
+negative modulator;PHENDIMETRAZINE
+inhibitor;PHENDIMETRAZINE TARTRATE
+antagonist;PHENELZINE
+inhibitor;PHENELZINE
+inhibitor;PHENELZINE SULFATE
+activator;PHENFORMIN
+inhibitor;PHENFORMIN
+antagonist;PHENINDAMINE
+inhibitor;PHENINDIONE
+inverse agonist;PHENIRAMINE
+antagonist;PHENIRAMINE MALEATE
+inhibitor;PHENMETRAZINE
+inhibitor;PHENMETRAZINE HYDROCHLORIDE
+activator;PHENOBARBITAL
+agonist;PHENOBARBITAL
+antagonist;PHENOBARBITAL
+potentiator;PHENOBARBITAL
+agonist;PHENOLPHTHALEIN
+antagonist;PHENOXYBENZAMINE
+inhibitor;PHENOXYBENZAMINE
+antagonist;PHENOXYBENZAMINE HYDROCHLORIDE
+inhibitor;PHENPROCOUMON
+inhibitor;PHENSERINE
+blocker;PHENSUXIMIDE
+antagonist;PHENTERMINE
+inhibitor;PHENTERMINE
+antagonist;PHENTOLAMINE
+antagonist;PHENTOLAMINE MESYLATE
+antagonist;PHENYL SALICYLATE
+agonist;PHENYLALANINE
+binder;PHENYLALANINE
+inhibitor;PHENYLBUTAZONE
+agonist;PHENYLEPHRINE
+agonist;PHENYLEPHRINE BITARTRATE
+agonist;PHENYLEPHRINE HYDROCHLORIDE
+agonist;PHENYLPROPANOLAMINE
+partial agonist;PHENYLPROPANOLAMINE
+agonist;PHENYLPROPANOLAMINE HYDROCHLORIDE
+agonist;PHENYLPROPANOLAMINE POLISTIREX
+blocker;PHENYTOIN
+inhibitor;PHENYTOIN
+blocker;PHENYTOIN SODIUM
+blocker;PHLORETIN
+inhibitor;PHLORETIN
+inhibitor;PHLORIZIN
+antagonist;PHOLCODINE
+agonist;PHOSPHATIDYL SERINE
+substrate;PHOSPHATIDYLETHANOLAMINE
+inhibitor;PHOSPHORAMIDON
+agonist;PHYSALAEMIN
+inhibitor;PHYSOSTIGMINE
+agonist;PHYTONADIONE
+inducer;PHYTONADIONE
+inhibitor;PI-103
+antagonist;PIBOSEROD
+agonist;PICLIDENOSON
+agonist;PICLOZOTAN
+blocker;PICROTIN
+antagonist;PICROTOXIN
+blocker;PICROTOXIN
+blocker;PICROTOXININ
+inhibitor;PICTILISIB
+antibody;PIDILIZUMAB
+inhibitor;PILARALISIB
+agonist;PILOCARPINE
+partial agonist;PILOCARPINE
+agonist;PILOCARPINE HYDROCHLORIDE
+inhibitor;PIMAGEDINE
+inhibitor;PIMASERTIB
+inhibitor;PIMASERTIB HYDROCHLORIDE
+antagonist;PIMAVANSERIN
+inverse agonist;PIMAVANSERIN
+inverse agonist;PIMAVANSERIN TARTRATE
+inhibitor;PIMECROLIMUS
+potentiator;PIMECROLIMUS
+antagonist;PIMOZIDE
+blocker;PIMOZIDE
+inhibitor;PIMOZIDE
+antagonist,inhibitor;PINAVERIUM
+ligand;PINAZEPAM
+positive modulator;PINAZEPAM
+agonist;PINDOLOL
+agonist,antagonist;PINDOLOL
+antagonist;PINDOLOL
+partial agonist;PINDOLOL
+inhibitor;PINOMETOSTAT
+agonist;PIOGLITAZONE
+blocker;PIOGLITAZONE
+inhibitor;PIOGLITAZONE
+agonist;PIOGLITAZONE HYDROCHLORIDE
+agonist;PIPAMPERONE
+antagonist;PIPAMPERONE
+antagonist;PIPECURONIUM
+antagonist;PIPECURONIUM BROMIDE
+agonist;PIPERAZINE
+activator;PIPERINE
+modulator;PIPOBROMAN
+antagonist;PIPOTIAZINE
+agonist;PIPRADROL
+allosteric modulator;PIRACETAM
+agonist;PIRBUTEROL
+agonist;PIRBUTEROL ACETATE
+antagonist;PIRENPERONE
+antagonist;PIRENZEPINE
+inhibitor;PIRETANIDE
+agonist;PIRIBEDIL
+antagonist;PIRIBEDIL
+antagonist;PIRLINDOLE
+inhibitor;PIRLINDOLE
+inhibitor;PIROXICAM
+inhibitor;PITAVASTATIN
+inhibitor;PITAVASTATIN CALCIUM
+antagonist;PITOLISANT
+antagonist,inverse agonist;PITOLISANT
+blocker;PITOLISANT
+inverse agonist;PITOLISANT
+antagonist;PIZOTYLINE
+inhibitor;PKI-166
+inhibitor;PKI-179
+inhibitor;PL-225B
+agonist;PL-3994
+inhibitor;PLACULUMAB
+agonist;PLECANATIDE
+agonist;PLERIXAFOR
+antagonist;PLERIXAFOR
+partial agonist;PLERIXAFOR
+antagonist;PLICAMYCIN
+inhibitor;PLICAMYCIN
+inhibitor;PLINABULIN
+modulator;PLOVAMER ACETATE
+antagonist;PLOZALIZUMAB
+antibody;PLOZALIZUMAB
+inhibitor;PLUMBAGIN
+inhibitor;PLX-4720
+inhibitor;PLX-5622
+inhibitor;PLX-7486
+inhibitor;PLX8394
+inhibitor;PLX-8394
+agonist;PNU-282987
+antagonist;POBILUKAST
+inhibitor;PODOFILOX
+antagonist;POL6326
+agonist;POLAPREZINC
+inhibitor;POLAPREZINC
+inhibitor;POLMACOXIB
+agonist;POLYESTRADIOL PHOSPHATE
+activator;POLYGODIAL
+inhibitor;POLYTHIAZIDE
+agonist;POMAGLUMETAD METHIONIL
+inhibitor;POMALIDOMIDE
+inhibitor;PONATINIB
+inhibitor;PONATINIB HYDROCHLORIDE
+agonist;PONESIMOD
+inhibitor;POSELTINIB
+modulator;POTASSIUM
+agonist;POTASSIUM NITRATE
+inhibitor;POTASSIUM PERCHLORATE
+partial agonist;POZANICLINE
+inhibitor;POZIOTINIB
+inhibitor;PRACINOSTAT
+antagonist;PRACTOLOL
+inhibitor;PRADIGASTAT
+inhibitor;PRALATREXATE
+activator;PRALIDOXIME
+inhibitor;PRALIDOXIME
+activator;PRALIDOXIME CHLORIDE
+inhibitor;PRALNACASAN
+inhibitor;PRALSETINIB
+agonist;PRAMIPEXOLE
+agonist;PRAMIPEXOLE DIHYDROCHLORIDE
+agonist;PRAMLINTIDE
+agonist;PRAMLINTIDE ACETATE
+blocker;PRAMOXINE
+antagonist;PRANLUKAST
+activator;PRASTERONE
+agonist;PRASTERONE
+antagonist;PRASTERONE
+binder;PRASTERONE
+antagonist;PRASUGREL
+antagonist;PRASUGREL HYDROCHLORIDE
+antagonist;PRATOSARTAN
+inhibitor;PRATOSARTAN
+inhibitor;PRAVASTATIN
+inhibitor;PRAVASTATIN SODIUM
+ligand;PRAZEPAM
+positive modulator;PRAZEPAM
+antagonist;PRAZOSIN
+binder;PRAZOSIN
+inhibitor;PRAZOSIN
+antagonist;PRAZOSIN HYDROCHLORIDE
+agonist;PREDNICARBATE
+agonist;PREDNISOLONE
+agonist;PREDNISOLONE ACETATE
+agonist;PREDNISOLONE SODIUM PHOSPHATE
+agonist;PREDNISOLONE TEBUTATE
+agonist;PREDNISONE
+modulator;PREGABALIN
+antagonist;PRELADENANT
+agonist;PRENALTEROL
+inhibitor;PRENYLAMINE
+inhibitor;PREXASERTIB
+modulator;PRIDOPIDINE
+negative modulator;PRILIXIMAB
+blocker;PRILOCAINE
+inhibitor;PRILOCAINE
+blocker;PRILOCAINE HYDROCHLORIDE
+inhibitor;PRIMAQUINE
+antagonist;PRIMIDONE
+blocker;PRIMIDONE
+positive modulator;PRIMIDONE
+potentiator;PRIMIDONE
+agonist;PRINABEREL
+inhibitor;PRINOMASTAT
+vaccine;PRINOMASTAT
+antagonist;PROBENECID
+inhibitor;PROBENECID
+inhibitor;PROBUCOL
+inhibitor;PROCAINAMIDE
+blocker;PROCAINAMIDE HYDROCHLORIDE
+antagonist;PROCAINE
+blocker;PROCAINE
+inhibitor;PROCAINE
+blocker;PROCAINE HYDROCHLORIDE
+inhibitor;PROCARBAZINE
+modulator;PROCARBAZINE
+agonist;PROCATEROL
+antagonist;PROCHLORPERAZINE
+antagonist;PROCHLORPERAZINE EDISYLATE
+antagonist;PROCHLORPERAZINE MALEATE
+antagonist;PROCYCLIDINE
+antagonist;PROCYCLIDINE HYDROCHLORIDE
+negative modulator;PROFLAVINE
+agonist;PROGABIDE
+activator;PROGESTERONE
+agonist;PROGESTERONE
+agonist,antagonist;PROGESTERONE
+agonist,potentiator;PROGESTERONE
+antagonist;PROGESTERONE
+binder;PROGESTERONE
+blocker;PROGESTERONE
+inhibitor,substrate;PROGESTERONE
+negative modulator,agonist;PROGESTERONE
+negative modulator,agonist,inhibitor;PROGESTERONE
+partial agonist;PROGESTERONE
+potentiator,activator;PROGESTERONE
+potentiator,binder;PROGESTERONE
+binder;PROLINE
+antagonist;PROMAZINE
+antagonist;PROMAZINE HYDROCHLORIDE
+agonist;PROMEGESTONE
+antagonist;PROMETHAZINE
+inhibitor;PROMETHAZINE
+antagonist;PROMETHAZINE HYDROCHLORIDE
+antagonist;PROPACETAMOL
+antagonist;PROPAFENONE
+blocker;PROPAFENONE
+inhibitor;PROPAFENONE
+antagonist;PROPAFENONE HYDROCHLORIDE
+blocker;PROPAFENONE HYDROCHLORIDE
+antagonist;PROPANTHELINE
+antagonist;PROPANTHELINE BROMIDE
+inhibitor;PROPARACAINE
+blocker;PROPARACAINE HYDROCHLORIDE
+adduct;PROPIOLACTONE
+antagonist;PROPIOMAZINE
+antagonist;PROPIOMAZINE HYDROCHLORIDE
+antagonist;PROPIVERINE
+inhibitor;PROPOFOL
+positive modulator;PROPOFOL
+potentiator;PROPOFOL
+blocker;PROPOXYCAINE
+blocker;PROPOXYCAINE HYDROCHLORIDE
+agonist;PROPOXYPHENE
+antagonist;PROPOXYPHENE
+agonist;PROPOXYPHENE HYDROCHLORIDE
+antagonist;PROPRANOLOL
+antagonist;PROPRANOLOL HYDROCHLORIDE
+agonist;PROPYLHEXEDRINE
+agonist;PROPYLPYRAZOLETRIOL
+inhibitor;PROPYLTHIOURACIL
+agonist;PROTIRELIN
+ligand;PROTIRELIN
+agonist;PROTOKYLOL
+agonist;PROTOKYLOL HYDROCHLORIDE
+inhibitor;PROTRIPTYLINE
+inhibitor;PROTRIPTYLINE HYDROCHLORIDE
+agonist,antagonist;PROXYFAN
+agonist;PRS-211375
+inhibitor;PRT-2607
+agonist;PRUCALOPRIDE
+inhibitor;PRUNETIN
+antagonist;PRUVANSERIN
+antagonist;PRX-08066
+inhibitor;PS-516895
+agonist;PSEUDOEPHEDRINE
+agonist,partial agonist;PSEUDOEPHEDRINE
+inhibitor;PSEUDOEPHEDRINE
+partial agonist;PSEUDOEPHEDRINE
+inhibitor;PUQUITINIB
+agonist;PURMORPHAMINE
+inhibitor;PURVALANOL B
+blocker;PUTRESCINE
+inhibitor;PWT-33579
+inhibitor;PWT-33587
+agonist;PX-102
+inhibitor;PX-478
+agonist,antagonist;PYRANTEL
+antagonist;PYRIDOSTIGMINE
+antagonist,inhibitor;PYRIDOSTIGMINE
+inhibitor;PYRIDOSTIGMINE
+inhibitor;PYRIDOSTIGMINE BROMIDE
+activator;PYRIDOXAL PHOSPHATE
+binder;PYRIDOXAL PHOSPHATE
+cofactor;PYRIDOXAL PHOSPHATE
+inhibitor;PYRIDOXAL PHOSPHATE
+ligand;PYRIDOXINE
+antagonist;PYRILAMINE
+antagonist;PYRILAMINE MALEATE
+inhibitor;PYRIMETHAMINE
+inhibitor;PYROTINIB
+inhibitor;PYRUVATE
+agonist;PZM21
+antagonist;QAF805
+antagonist;QAV680
+inhibitor;QAX-576
+activator;QBW251
+antagonist;QUADAZOCINE
+ligand;QUAZEPAM
+positive modulator;QUAZEPAM
+activator;QUERCETIN
+inhibitor;QUERCETIN
+agonist;QUETIAPINE
+agonist,antagonist;QUETIAPINE
+antagonist;QUETIAPINE
+antagonist,partial agonist;QUETIAPINE
+inhibitor;QUETIAPINE
+ligand;QUETIAPINE
+antagonist;QUETIAPINE FUMARATE
+antibody;QUILIZUMAB
+inhibitor;QUILIZUMAB
+inhibitor;QUINACRINE
+negative modulator;QUINACRINE
+agonist;QUINAGOLIDE
+inhibitor;QUINAPRIL
+inhibitor;QUINAPRIL HYDROCHLORIDE
+inhibitor;QUINAPRILAT
+agonist;QUINELORANE
+agonist;QUINESTROL
+agonist,modulator;QUINESTROL
+inhibitor;QUINETHAZONE
+antagonist;QUINIDINE
+blocker;QUINIDINE
+inhibitor;QUINIDINE
+blocker;QUINIDINE GLUCONATE
+blocker;QUINIDINE POLYGALACTURONATE
+blocker;QUINIDINE SULFATE
+blocker;QUININE
+inhibitor;QUININE
+agonist;QUINPIROLE
+agonist;QUIPAZINE
+inhibitor;QUISINOSTAT
+inhibitor;QUISQUALATE
+inhibitor;QUIZARTINIB
+inhibitor;R-112
+inhibitor;R-1487
+inhibitor;R-333
+inhibitor;R-343
+inhibitor;R-348
+inhibitor;R-406
+inhibitor;R428
+inhibitor;RABEPRAZOLE
+inhibitor;RABEPRAZOLE SODIUM
+inhibitor;RABUSERTIB
+agonist;RACEPINEPHRINE
+antagonist;RACEPINEPHRINE
+antagonist;RACLOPRIDE
+agonist;RACTOPAMINE
+antagonist;RADIPRODIL
+antagonist;RADOTINIB
+inhibitor;RAF-265
+agonist;RAFABEGRON
+agonist;RAGAGLITAZAR
+antagonist;RALFINAMIDE
+blocker;RALFINAMIDE
+inhibitor;RALFINAMIDE
+inhibitor;RALIMETINIB
+agonist;RALINEPAG
+agonist;RALOXIFENE
+agonist,antagonist;RALOXIFENE
+antagonist;RALOXIFENE
+modulator;RALOXIFENE HYDROCHLORIDE
+antagonist;RALTITREXED
+inhibitor;RALTITREXED
+antagonist;RAMATROBAN
+agonist;RAMELTEON
+multitarget;RAMELTEON
+inhibitor;RAMIPRIL
+inhibitor;RAMIPRILAT
+antagonist;RAMOSETRON
+antagonist;RAMUCIRUMAB
+antibody;RAMUCIRUMAB
+inhibitor;RAMUCIRUMAB
+inhibitor;RANIBIZUMAB
+antagonist;RANITIDINE
+inhibitor;RANITIDINE
+antagonist;RANITIDINE BISMUTH CITRATE
+antagonist;RANITIDINE HYDROCHLORIDE
+antagonist;RANOLAZINE
+blocker;RANOLAZINE
+inhibitor;RANOLAZINE
+antagonist;RAPACURONIUM
+antagonist;RAPACURONIUM BROMIDE
+partial agonist;RAPASTINEL
+activator;RASAGILINE
+inhibitor;RASAGILINE
+inhibitor;RASAGILINE MESYLATE
+modulator;RASBURICASE
+modulator;RASEGLURANT
+antagonist;RAUWOLFIA SERPENTINA
+antagonist;RAUWOLSCINE
+agonist;RAVIDASVIR
+inhibitor;RAVOXERTINIB
+inhibitor;RAVULIZUMAB
+inhibitor;REBASTINIB
+inhibitor;REBOXETINE
+inhibitor;RECILISIB
+allosteric modulator;REFAMETINIB
+inhibitor;REFAMETINIB
+agonist;REGADENOSON
+agonist;REGLITAZAR
+inhibitor;REGORAFENIB
+agonist;REGRAMOSTIM
+antagonist;REGRELOR
+antagonist;REGRELOR DISODIUM
+inhibitor;RELACATIB
+antibody;RELATLIMAB
+agonist;RELAXIN
+antagonist;RELCOVAPTAN
+agonist;RELENOPRIDE
+antagonist;RELUGOLIX
+agonist;REMIFENTANIL
+agonist;REMIFENTANIL HYDROCHLORIDE
+inhibitor;REMIKIREN
+agonist;REMINERTANT
+antagonist;REMINERTANT
+inhibitor;REMOGLIFLOZIN
+inhibitor;REMOGLIFLOZIN ETABONATE
+antagonist;REMOXIPRIDE
+blocker;RENACIDIN
+agonist;RENZAPRIDE
+agonist;REPAGLINIDE
+blocker;REPAGLINIDE
+inhibitor;REPAGLINIDE
+allosteric modulator;REPARIXIN
+modulator;REPARIXIN
+antagonist;REPINOTAN
+inhibitor;REPOTRECTINIB
+antagonist;RESATORVID
+inhibitor;RESCINNAMINE
+inverse agonist;RESEQUINIL
+inhibitor;RESERPINE
+activator;RESINIFERATOXIN
+blocker;RESINIFERATOXIN
+agonist;RESIQUIMOD
+antagonist;RESLIZUMAB
+inhibitor;RESLIZUMAB
+agonist;RESMETIROM
+inhibitor;RESMINOSTAT
+antagonist;RESVERATROL
+inhibitor;RESVERATROL
+inhibitor;RETASPIMYCIN
+inhibitor;RETASPIMYCIN HYDROCHLORIDE
+activator;RETEPLASE
+agonist;RETINOL
+antagonist;RETOSIBAN
+inhibitor;REVAMILAST
+antagonist;REVEFENACIN
+inhibitor;REVERSIN 121
+agonist;REVEXEPRIDE
+inhibitor;RG-1512
+inhibitor;RG-1530
+antagonist;RG3487
+partial agonist;RG3487
+inhibitor;RG-4733
+inhibitor;RG-547
+blocker;RG6029
+antagonist;RG-7160
+inhibitor;RG-7167
+antagonist;RG7185
+inhibitor;RG-7256
+inhibitor;RG-7304
+modulator;RG7342
+inhibitor;RG-7376
+inhibitor;RG-7420
+inhibitor;RG-7602
+inhibitor;RG-7603
+inhibitor;RG-7652
+inhibitor;RG-7666
+inhibitor;RG-7741
+blocker;RG7893
+inhibitor;RGB-286638
+inhibitor;RHEIN
+inhibitor;RHODAMINE123
+inhibitor;RIBAVIRIN
+antagonist,inhibitor;RIBOCICLIB
+inhibitor;RIBOCICLIB
+inhibitor;RIBOCICLIB SUCCINATE
+ligand;RIBOFLAVIN
+product of;RIBOFLAVIN
+inhibitor;RICOLINOSTAT
+inhibitor;RIDAFOROLIMUS
+antagonist;RIDOGREL
+inhibitor;RIDOGREL
+agonist;RIFAMPIN
+inhibitor;RIFAMPIN
+agonist;RIFAXIMIN
+inhibitor;RIGOSERTIB
+inhibitor;RIGOSERTIB SODIUM
+inhibitor;RILAPLADIB
+binder;RILONACEPT
+inhibitor;RILONACEPT
+antibody;RILOTUMUMAB
+inhibitor;RILOTUMUMAB
+agonist;RILPIVIRINE
+activator;RILUZOLE
+blocker;RILUZOLE
+inducer;RILUZOLE
+inhibitor;RILUZOLE
+antagonist;RIMEGEPANT
+agonist;RIMEXOLONE
+ligand;RIMIDUCID
+antagonist;RIMONABANT
+agonist;RINTATOLIMOD
+agonist,stimulator;RIOCIGUAT
+positive modulator;RIOCIGUAT
+inhibitor;RIPRETINIB
+inhibitor;RISANKIZUMAB
+inhibitor;RISEDRONATE SODIUM
+inhibitor;RISEDRONIC ACID
+antagonist;RISLENEMDAZ
+antagonist;RISPERIDONE
+antagonist;RITANSERIN
+inverse agonist;RITANSERIN
+agonist;RITOBEGRON
+agonist;RITODRINE
+agonist;RITODRINE HYDROCHLORIDE
+activator;RITONAVIR
+inhibitor;RITONAVIR
+antibody;RITUXIMAB
+inhibitor;RITUXIMAB
+agonist;RIVANICLINE
+antagonist;RIVANICLINE
+antagonist;RIVAROXABAN
+inhibitor;RIVAROXABAN
+inhibitor;RIVASTIGMINE
+inhibitor;RIVASTIGMINE TARTRATE
+agonist;RIVENPROST
+inhibitor;RIVICICLIB
+antagonist;RIVIPANSEL
+inhibitor;RIVIPANSEL
+inhibitor;RIVOCERANIB
+agonist;RIVOGLITAZONE
+agonist;RIZATRIPTAN
+agonist;RIZATRIPTAN BENZOATE
+inhibitor;RO-3201195
+inhibitor;RO-4987655
+antagonist;RO-5028442
+inhibitor;RO-5045337
+antagonist;ROBALZOTAN
+antagonist;ROBATUMUMAB
+antibody;ROBATUMUMAB
+inhibitor;ROCAGLAMIDE
+inhibitor;ROCILETINIB
+antagonist;ROCIVERINE
+antagonist;ROCURONIUM
+antagonist;ROCURONIUM BROMIDE
+inhibitor;RODATRISTAT
+inhibitor;ROFECOXIB
+inhibitor;ROFLUMILAST
+inhibitor;ROGARATINIB
+antagonist;ROLAPITANT
+antagonist;ROLAPITANT HYDROCHLORIDE
+inhibitor;ROLEDUMAB
+inhibitor;ROLIPRAM
+antagonist;ROLOFYLLINE
+antagonist,inhibitor;ROMIDEPSIN
+inhibitor;ROMIDEPSIN
+agonist;ROMIPLOSTIM
+inhibitor;ROMOSOZUMAB
+allosteric modulator;RONACALERET
+antagonist;RONACALERET
+inhibitor;RONICICLIB
+agonist;ROPINIROLE
+antagonist;ROPINIROLE
+agonist;ROPINIROLE HYDROCHLORIDE
+blocker;ROPIVACAINE
+inhibitor;ROPIVACAINE
+blocker;ROPIVACAINE HYDROCHLORIDE
+activator;ROSIGLITAZONE
+agonist;ROSIGLITAZONE
+blocker;ROSIGLITAZONE
+inhibitor;ROSIGLITAZONE
+agonist;ROSIGLITAZONE MALEATE
+activator;ROSIPTOR
+inhibitor;ROSUVASTATIN
+inhibitory allosteric modulator;ROSUVASTATIN
+inhibitor;ROSUVASTATIN CALCIUM
+agonist;ROTIGOTINE
+antagonist;ROTIGOTINE
+activator;ROTTLERIN
+inhibitor;ROTTLERIN
+agonist;ROVAZOLAC
+antagonist;ROVELIZUMAB
+antibody;ROVELIZUMAB
+inhibitor;ROXADUSTAT
+antagonist;ROXATIDINE ACETATE
+agonist;ROXINDOLE
+agonist,antagonist;ROXINDOLE
+antagonist;ROXINDOLE
+agonist;ROXITHROMYCIN
+antibody;ROZANOLIXIZUMAB
+inhibitor;ROZROLIMUPAB
+inhibitor;RP-6530
+agonist;RPR749
+antagonist;RS-102,221
+inhibitor;RUBOXISTAURIN
+antagonist;RUCAPARIB
+inhibitor;RUCAPARIB
+inhibitor;RUCAPARIB CAMSYLATE
+blocker;RUFINAMIDE
+inhibitor;RUFINAMIDE
+modulator;RUFINAMIDE
+antagonist;RUPATADINE
+inhibitor;RUPLIZUMAB
+inhibitor;RUXOLITINIB
+inhibitor;RUXOLITINIB PHOSPHATE
+inhibitor;RWJ-67657
+inhibitor;RXDX-103
+activator;RYANODINE
+blocker,activator;RYANODINE
+inhibitor;S-222611
+antagonist;S-237648
+vaccine;S-3304
+agonist;SABCOMELINE
+inhibitor;SACCHARIN
+antagonist,inhibitor;SACUBITRIL
+inhibitor;SACUBITRIL
+agonist;SAD448
+inhibitor;SAF312
+antagonist;SAFINAMIDE
+inhibitor;SAFINAMIDE
+inhibitor;SAFINAMIDE MESYLATE
+antagonist;SAFOTIBANT
+antagonist;SAKURANETIN
+activator;SALIRASIB
+agonist;SALMETEROL
+inverse agonist;SALMETEROL
+agonist;SALMETEROL XINAFOATE
+inhibitor;SALSALATE
+inhibitor;SAMALIZUMAB
+antagonist;SAMIDORPHAN
+inhibitor;SAMOTOLISIB
+inhibitor;SAPANISERTIB
+inhibitor;SAPITINIB
+antagonist;SAPRISARTAN
+activator;SAPROPTERIN
+cofactor;SAPROPTERIN
+activator;SAPROPTERIN DIHYDROCHLORIDE
+inhibitor;SAR-113945
+inhibitor;SAR-125844
+inhibitor;SAR-260301
+inhibitor;SAR-407899
+agonist;SAR425899
+inhibitor;SARACATINIB
+antagonist;SARALASIN ACETATE
+antagonist;SAREDUTANT
+agonist;SARGRAMOSTIM
+antagonist;SARILUMAB
+antagonist,antibody;SARILUMAB
+antibody;SARILUMAB
+ligand;SARIZOTAN
+partial agonist;SARIZOTAN
+agonist;SARIZOTAN HYDROCHLORIDE
+partial agonist;SARIZOTAN HYDROCHLORIDE
+antagonist;SARPOGRELATE
+inverse agonist;SARPOGRELATE
+antagonist;SATAVAPTAN
+antagonist;SATRALIZUMAB
+agonist;SAUVAGINE
+inhibitor;SAVOLITINIB
+inhibitor;SAXAGLIPTIN
+inhibitor;SAXAGLIPTIN HYDROCHLORIDE
+blocker;SAXITOXIN
+inhibitor;SB-431542
+inhibitor;SB590885
+antagonist;SB611812
+antagonist;SB-649868
+antagonist;SB-705498
+inhibitor;SB-743921
+antagonist;SB-773812
+inhibitor;SB-85635
+antagonist;SC-41390
+inhibitor;SC-560
+inhibitor;SC-80036
+antagonist;SCH-23390
+blocker;SCH-23390
+inhibitor;SCH-23390
+agonist;SCH-486757
+inhibitor;SCH-708980
+inhibitor;SCH-900776
+inhibitor;SCIO-323
+antagonist;SCOPOLAMINE
+inhibitor;SCOPOLAMINE
+inhibitor;SCRIPTAID
+inhibitor;SCYLLITOL
+inhibitor;SD-0006
+modulator;SDX-101
+antagonist;SECOBARBITAL
+potentiator;SECOBARBITAL
+positive modulator;SECOBARBITAL SODIUM
+agonist;SECRETIN
+agonist;SECRETIN SYNTHETIC HUMAN
+agonist;SECRETIN SYNTHETIC PORCINE
+antagonist;SECUKINUMAB
+inhibitor;SECUKINUMAB
+agonist;SEGESTERONE ACETATE
+agonist,activator;SEGESTERONE ACETATE
+agonist;SEGLITIDE
+inhibitor;SELEGILINE
+inhibitor;SELEGILINE HYDROCHLORIDE
+agonist;SELEPRESSIN
+inhibitor;SELETALISIB
+binder;SELETRACETAM
+blocker;SELETRACETAM
+modulator;SELETRACETAM
+agonist;SELEXIPAG
+antagonist;SELFOTEL
+agonist;SELGANTOLIMOD
+inhibitor;SELICICLIB
+inhibitor;SELINEXOR
+inhibitor;SELITRECTINIB
+agonist;SELODENOSON
+inhibitor;SELONSERTIB
+antagonist;SELTOREXANT
+allosteric modulator;SELUMETINIB
+inhibitor;SELUMETINIB
+antagonist;SELURAMPANEL
+inhibitor;SEMAGACESTAT
+agonist;SEMAGLUTIDE
+inhibitor;SEMAPIMOD
+inhibitor;SEMAXANIB
+inhibitor;SEMULOPARIN SODIUM
+blocker;SENICAPOC
+agonist;SENKTIDE
+inhibitor;SENNOSIDES
+agonist;SEOCALCITOL
+agonist;SEPETAPROST
+inhibitor;SERABELISIB
+agonist;SERACTIDE ACETATE
+antagonist;SERATRODAST
+activator;SERELAXIN
+inhibitor;SERGLIFLOZIN ETABONATE
+antagonist;SERGOLEXOLE
+antibody;SERIBANTUMAB
+modulator;SERIDOPIDINE
+agonist;SERINE
+antagonist;SERLOPITANT
+agonist;SERMORELIN ACETATE
+agonist;SEROTONIN
+inhibitor;SEROTONIN
+antagonist;SERTINDOLE
+inhibitor;SERTINDOLE
+binder,inhibitor;SERTRALINE
+inhibitor;SERTRALINE
+negative modulator,inhibitor;SERTRALINE
+negative modulator,inhibitor,binder;SERTRALINE
+inhibitor;SERTRALINE HYDROCHLORIDE
+antagonist;SETIPIPRANT
+antagonist;SETIPTILINE
+agonist;SETMELANOTIDE
+agonist;SETOGEPRAM
+antagonist;SETOGEPRAM
+binder;SEVELAMER
+activator;SEVOFLURANE
+agonist;SEVOFLURANE
+antagonist;SEVOFLURANE
+inhibitor;SEVOFLURANE
+positive modulator;SEVOFLURANE
+inhibitor;SF-1126
+inhibitor;SGI-1776
+agonist;SGN-30
+inhibitor;SGX-523
+inhibitor;SIBUTRAMINE
+inhibitor;SIBUTRAMINE HYDROCHLORIDE
+inhibitor;SILDENAFIL
+inhibitor;SILDENAFIL CITRATE
+inhibitor;SILMITASERTIB
+antagonist;SILODOSIN
+antagonist,antibody;SILTUXIMAB
+antibody;SILTUXIMAB
+inhibitor;SILTUXIMAB
+binder;SILVER
+inhibitor;SIMOTINIB
+inhibitor;SIMTUZUMAB
+inhibitor;SIMUROSERTIB
+inhibitor;SIMVASTATIN
+inhibitory allosteric modulator;SIMVASTATIN
+agonist;SINAPULTIDE
+agonist;SINCALIDE
+inhibitor;SIPLIZUMAB
+agonist;SIPONIMOD
+modulator;SIPONIMOD
+inhibitor;SIROLIMUS
+inhibitor;SIRUKUMAB
+inhibitor;SITAGLIPTIN
+inhibitor;SITAGLIPTIN PHOSPHATE
+antagonist;SITAXENTAN
+inhibitor;SITRAVATINIB
+inhibitor;SIVELESTAT
+agonist;SKF-38393
+inhibitor;SLX-4090
+agonist;SMC021
+antagonist;SNAP-7941
+inhibitor;SNS-314
+agonist;SOBETIROME
+agonist;SODELGLITAZAR
+inhibitor;SODIUM CARBONATE
+activator;SODIUM NITROPRUSSIDE
+agonist;SODIUM OXYBATE
+inhibitor;SODIUM STIBOGLUCONATE
+binder;SODIUM ZIRCONIUM CYCLOSILICATE
+agonist;SOFINICLINE
+agonist;SOLABEGRON
+inhibitor;SOLCITINIB
+antagonist;SOLIFENACIN
+antagonist;SOLIFENACIN SUCCINATE
+antibody;SOLITOMAB
+inhibitor;SOLRIAMFETOL
+agonist;SOMATOSTATIN
+agonist;SOMATREM
+agonist;SOMATROPIN
+agonist;SONEDENOSON
+antibody;SONEPCIZUMAB
+antagonist;SONEPIPRAZOLE
+antagonist;SONIDEGIB
+inhibitor;SONIDEGIB
+inhibitor;SONIDEGIB PHOSPHATE
+inhibitor;SONOLISIB
+antagonist;SORAFENIB
+inhibitor;SORAFENIB
+inhibitor;SORAFENIB TOSYLATE
+inhibitor;SORBINIL
+inhibitor;SOTAGLIFLOZIN
+antagonist;SOTALOL
+inhibitor;SOTALOL
+antagonist;SOTALOL HYDROCHLORIDE
+blocker;SOTALOL HYDROCHLORIDE
+inhibitor;SOTATERCEPT
+inhibitor;SOTRASTAURIN
+agonist;SPAGLUMIC ACID
+ligand;SPAGLUMIC ACID
+inhibitor;SPARFLOXACIN
+antagonist;SPARSENTAN
+antibody;SPARTALIZUMAB
+inhibitor;SPEBRUTINIB
+inhibitor;SPEBRUTINIB BESYLATE
+blocker;SPERMIDINE
+agonist;SPERMINE
+binder;SPERMINE
+blocker;SPERMINE
+ligand;SPERMINE
+product of;SPERMINE
+activator;SPHINGOSINE
+allosteric modulator;SPINORPHIN
+antagonist;SPINORPHIN
+antagonist;SPIPERONE
+antagonist;SPIRAMIDE
+inhibitor;SPIRAPRIL
+inhibitor;SPIRAPRIL HYDROCHLORIDE
+inhibitor;SPIRAPRILAT
+agonist;SPIRONOLACTONE
+antagonist;SPIRONOLACTONE
+binder;SPIRONOLACTONE
+inhibitor;SPIRONOLACTONE
+agonist;SPIROXATRINE
+antagonist;SPIROXATRINE
+inhibitor;SPLITOMICIN
+inhibitor;SQ109
+inhibitor;SR-13668
+antagonist;SR16234
+agonist;SR9009
+agonist;SR9011
+inhibitor;S-ROLIPRAM
+activator;SRT-2104
+antagonist;SRX246
+antagonist;SRX251
+antagonist;SSR125543
+partial agonist;SSR180711
+antagonist;ST1535
+inhibitor;STAMULUMAB
+agonist;STANOZOLOL
+binder;STANOZOLOL
+allosteric modulator;STAUROSPORINE
+inhibitor;STAUROSPORINE
+agonist,positive modulator;STIRIPENTOL
+inhibitor;STIRIPENTOL
+activator;STREPTOKINASE
+cleavage;STREPTOKINASE
+ligand;STREPTOZOCIN
+modulator;STREPTOZOCIN
+allosteric modulator;STRYCHNINE
+antagonist;STRYCHNINE
+inhibitor;STX-100
+inhibitor;SU-014813
+binder;SU-9516
+inhibitor;SU-9516
+modulator;SUCCIMER
+inhibitor;SUCCINIC ACID
+agonist;SUCCINYLCHOLINE CHLORIDE
+agonist,inducer;SUCRALFATE
+binder;SUCRALFATE
+inducer;SUCRALFATE
+inhibitor;SUCRALFATE
+ligand;SUCROSOFATE
+agonist;SUFENTANIL
+agonist;SUFENTANIL CITRATE
+antagonist;SUFUGOLIX
+agonist;SULFASALAZINE
+antagonist;SULFASALAZINE
+inhibitor;SULFASALAZINE
+activator;SULFINPYRAZONE
+inhibitor;SULFINPYRAZONE
+antagonist;SULINDAC
+inhibitor;SULINDAC
+negative modulator;SULINDAC
+agonist;SULODEXIDE
+potentiator;SULODEXIDE
+antagonist;SULPIRIDE
+inhibitor;SULPIRIDE
+agonist;SULPROSTONE
+antagonist;SULUKAST
+agonist;SUMANIROLE
+agonist;SUMATRIPTAN
+antagonist;SUMATRIPTAN
+agonist;SUMATRIPTAN SUCCINATE
+inhibitor;SUNITINIB
+inhibitor;SUNITINIB MALATE
+inhibitor;SUPROFEN
+activator;SURAMIN
+agonist;SURAMIN
+antagonist;SURAMIN
+inhibitor;SURAMIN
+antagonist;SURINABANT
+inhibitor;SURUFATINIB
+antibody;SUTIMLIMAB
+agonist;SUVN-G3031
+antagonist;SUVOREXANT
+agonist;SUXAMETHONIUM
+antagonist;SYL-1001
+agonist;SYNTHETIC CONJUGATED ESTROGENS, B
+agonist;T091317
+inhibitor;TA-5493
+inhibitor;TABALUMAB
+agonist;TABIMORELIN
+inhibitor;TABIMORELIN
+agonist;TACALCITOL
+inhibitor;TACEDINALINE
+inhibitor;TACRINE
+inhibitor;TACRINE HYDROCHLORIDE
+inhibitor;TACROLIMUS
+inhibitor;TADALAFIL
+antagonist;TADOCIZUMAB
+inhibitor;TAE-684
+chaperone;TAFAMIDIS
+inhibitor;TAFETINIB
+agonist;TAFLUPROST
+binder;TAGRAXOFUSP
+inhibitor;TAK-285
+antagonist;TAK-441
+agonist;TAK-448
+inhibitor;TAK-593
+inhibitor;TAK-659
+inhibitor;TAK-715
+allosteric modulator;TAK-733
+inhibitor;TAK-733
+inhibitor;TAK-901
+agonist;TAK-954
+inhibitor;TAK-960
+inhibitor;TALABOSTAT
+antagonist;TALADEGIB
+inhibitor;TALAROZOLE
+inhibitor;TALAZOPARIB
+inhibitor;TALAZOPARIB TOSYLATE
+antagonist;TALBUTAL
+positive modulator;TALBUTAL
+potentiator;TALBUTAL
+inhibitor;TALIZUMAB
+binder;TALLIMUSTINE
+inhibitor;TALMAPIMOD
+antagonist;TALNETANT
+antagonist;TALNIFLUMATE
+agonist;TALTIRELIN
+agonist;TAMIBAROTENE
+agonist;TAMOXIFEN
+agonist,antagonist;TAMOXIFEN
+inducer;TAMOXIFEN
+inhibitor;TAMOXIFEN
+modulator;TAMOXIFEN
+modulator;TAMOXIFEN CITRATE
+antagonist;TAMSULOSIN
+antagonist;TAMSULOSIN HYDROCHLORIDE
+agonist;TANAPROGET
+agonist;TANDOSPIRONE
+inhibitor;TANDUTINIB
+inhibitor;TANESPIMYCIN
+inhibitor;TANEZUMAB
+inhibitor;TANOMASTAT
+inhibitor;TANZISERTIB
+agonist;TAPENTADOL
+inhibitor;TAPENTADOL
+agonist;TAPENTADOL HYDROCHLORIDE
+inhibitor;TAPENTADOL HYDROCHLORIDE
+agonist;TAPINAROF
+agonist;TAPRENEPAG
+agonist;TAPROSTENE
+antagonist;TARAFENACIN
+agonist;TARANABANT
+antagonist;TARANABANT
+inverse agonist;TARANABANT
+modulator;TARENFLURBIL
+antibody;TAREXTUMAB
+inhibitor;TARIQUIDAR
+inhibitor;TARLOXOTINIB
+inhibitor;TAS-115
+inhibitor;TAS-119
+inhibitor;TASELISIB
+agonist;TASIMELTEON
+agonist;TASONERMIN
+antagonist;TASOSARTAN
+agonist;TASPOGLUTIDE
+allosteric modulator;TASQUINIMOD
+agonist;TAURINE
+inhibitor;TAURINE
+ligand;TAUROCHOLATE
+agonist;TAZAROTENE
+inhibitor;TAZEMETOSTAT
+inhibitor;TB-402
+antagonist;TC-2216
+agonist;TC-6499
+agonist;TC-6987
+inhibitor;TCD-717
+agonist;TEBANICLINE
+agonist;TECADENOSON
+allosteric modulator;TECALCET
+modulator;TECALCET HYDROCHLORIDE
+ligand;TECHNETIUM (99MTC) TILMANOCEPT
+agonist;TEDALINAB
+antagonist;TEDATIOXETINE
+inhibitor;TEDATIOXETINE
+blocker;TEDISAMIL
+agonist;TEDUGLUTIDE
+inhibitor;TEGAFUR
+agonist;TEGASEROD
+antagonist;TEGASEROD
+antagonist,partial agonist;TEGASEROD
+partial agonist;TEGASEROD MALEATE
+inhibitor;TEGLARINAD CHLORIDE
+inhibitor;TELAGLENASTAT
+inhibitor;TELAPREVIR
+modulator;TELAPRISTONE ACETATE
+inhibitor;TELATINIB
+agonist;TELBERMIN
+antagonist;TELCAGEPANT
+inhibitor;TELISOTUZUMAB
+antagonist;TELMISARTAN
+partial agonist;TELMISARTAN
+inhibitor;TELOTRISTAT
+inhibitor;TELOTRISTAT ETHYL
+inverse agonist;TEMANOGREL
+ligand;TEMAZEPAM
+positive modulator;TEMAZEPAM
+inhibitor;TEMOCAPRIL
+modulator;TEMOZOLOMIDE
+inhibitor;TEMSIROLIMUS
+inhibitor;TENALISIB
+inhibitor;TENAPANOR
+inhibitor;TENAPANOR HYDROCHLORIDE
+activator;TENECTEPLASE
+inhibitor;TENELIGLIPTIN
+partial agonist;TENELIXIMAB
+activator;TENIDAP
+inhibitor;TENIPOSIDE
+antagonist;TENOCYCLIDINE
+inhibitor;TENOXICAM
+inhibitor;TEPOTINIB
+antagonist;TEPROTUMUMAB
+antibody;TEPROTUMUMAB
+inhibitor;TEPROTUMUMAB
+antagonist;TERAZOSIN
+inducer;TERAZOSIN
+inhibitor;TERAZOSIN
+antagonist;TERAZOSIN HYDROCHLORIDE HYDRATE
+inhibitor;TERBINAFINE
+agonist;TERBUTALINE
+antagonist;TERBUTALINE
+agonist;TERBUTALINE SULFATE
+antagonist;TERFENADINE
+binder;TERFENADINE
+blocker;TERFENADINE
+inhibitor;TERFENADINE
+agonist;TERGURIDE
+agonist,antagonist;TERGURIDE
+antagonist;TERGURIDE
+inhibitor;TERIFLUNOMIDE
+agonist;TERIPARATIDE
+binder;TERIPARATIDE
+agonist;TERIPARATIDE ACETATE
+agonist;TERLIPRESSIN
+stimulator;TERLIPRESSIN
+antagonist;TERTATOLOL
+antagonist;TERUTROBAN
+agonist;TESAGLITAZAR
+agonist;TESAMORELIN
+binder;TESAMORELIN
+agonist;TESAMORELIN ACETATE
+inhibitor;TESEVATINIB
+antagonist;TESMILIFENE
+inducer;TESMILIFENE
+inhibitor;TESTOLACTONE
+agonist;TESTOSTERONE
+inhibitor;TESTOSTERONE
+ligand;TESTOSTERONE
+agonist;TESTOSTERONE CYPIONATE
+agonist;TESTOSTERONE ENANTHATE
+agonist;TESTOSTERONE PROPIONATE
+agonist;TESTOSTERONE UNDECANOATE
+inhibitor;TETRABENAZINE
+blocker;TETRACAINE
+modulator;TETRACAINE
+blocker;TETRACAINE HYDROCHLORIDE
+inhibitor;TETRACYCLINE
+agonist;TETRAHYDROCANNABIVARIN
+antagonist;TETRAHYDROCANNABIVARIN
+partial agonist;TETRAHYDROCANNABIVARIN
+cofactor;TETRAHYDROFOLATE
+antagonist;TETRAHYDROPALMATINE
+agonist;TETRAHYDROZOLINE HYDROCHLORIDE
+blocker;TETRODOTOXIN
+agonist,inhibitor;TETRYLAMMONIUM
+blocker;TETRYLAMMONIUM
+antagonist;TEVERELIX
+activator;TEZACAFTOR
+inhibitor;TEZACITABINE
+antagonist;TEZAMPANEL
+antagonist;TEZOSENTAN
+inhibitor;TG100-115
+inhibitor;TG100-801
+antagonist;THALIDOMIDE
+binder;THALIDOMIDE
+inhibitor;THALIDOMIDE
+negative modulator;THALIDOMIDE
+inhibitor;THELIATINIB
+antagonist;THEOBROMINE
+inhibitor;THEOBROMINE
+activator;THEOPHYLLINE
+antagonist;THEOPHYLLINE
+inhibitor;THEOPHYLLINE
+antagonist;THEOPHYLLINE SODIUM GLYCINATE
+inhibitor;THEOPHYLLINE SODIUM GLYCINATE
+substrate;THIAMINE
+agonist;THIAMYLAL
+inhibitor;THIAMYLAL
+positive modulator;THIAMYLAL SODIUM
+antagonist;THIETHYLPERAZINE
+antagonist;THIETHYLPERAZINE MALATE
+antagonist;THIETHYLPERAZINE MALEATE
+antagonist;THIMEROSAL
+antagonist;THIOCOLCHICOSIDE
+inhibitor;THIOGUANINE
+negative modulator;THIOGUANINE
+antagonist;THIOPENTAL
+inhibitor;THIOPENTAL
+potentiator;THIOPENTAL
+positive modulator;THIOPENTAL SODIUM
+antagonist;THIOPERAMIDE
+antagonist;THIOPROPERAZINE
+antagonist;THIORIDAZINE
+inhibitor;THIORIDAZINE
+antagonist;THIORIDAZINE HYDROCHLORIDE
+inhibitor;THIORPHAN
+inhibitor;THIOTEPA
+modulator;THIOTEPA
+antagonist;THIOTHIXENE
+antagonist;THIOTHIXENE HYDROCHLORIDE
+inhibitor;THONZONIUM
+antagonist;THONZYLAMINE
+activator;THROMBIN
+inhibitor;THROMBOMODULIN ALFA
+activator;THYMOL
+substrate;THYROID
+agonist;THYROTROPIN
+agonist;THYROTROPIN ALFA
+inhibitor;TIAGABINE
+inhibitor;TIAGABINE HYDROCHLORIDE
+agonist;TIANEPTINE
+inhibitor;TIANEPTINE
+modulator;TIANEPTINE
+antagonist;TIAPRIDE
+blocker;TIAPRIDE
+inhibitor;TIAPROFENIC ACID
+agonist;TIBOLONE
+agonist,antagonist;TIBOLONE
+antagonist;TICAGRELOR
+inhibitor;TICAGRELOR
+antagonist;TICLOPIDINE
+inhibitor;TICLOPIDINE
+antagonist;TICLOPIDINE HYDROCHLORIDE
+antagonist;TIDEGLUSIB
+inhibitor;TIDEGLUSIB
+agonist;TIFLUADOM
+agonist;TIGATUZUMAB
+antibody;TIGATUZUMAB
+cleavage;TILACTASE
+antagonist;TILDRAKIZUMAB
+inhibitor;TILDRAKIZUMAB
+antagonist;TIMOLOL
+antagonist;TIMOLOL MALEATE
+antibody;TIMOLUMAB
+binder;TINIDAZOLE
+activator;TINZAPARIN
+binder;TINZAPARIN
+inhibitor;TINZAPARIN
+potentiator;TINZAPARIN
+activator;TINZAPARIN SODIUM
+inhibitor;TIOCONAZOLE
+antagonist;TIOSPIRONE
+antagonist;TIOTROPIUM
+antagonist;TIOTROPIUM BROMIDE
+inhibitor;TIPIFARNIB
+inhibitor;TIPIRACIL
+inhibitor;TIPIRACIL HYDROCHLORIDE
+inhibitor;TIRABRUTINIB
+activator;TIRASEMTIV
+agonist;TIRATRICOL
+antagonist;TIROFIBAN
+inhibitor;TIROFIBAN HYDROCHLORIDE
+agonist;TIROTUNDIN
+antibody;TISAGENLECLEUCEL
+antibody;TISLELIZUMAB
+inhibitor;TIVANTINIB
+inhibitor;TIVOZANIB
+binder;TIXOCORTOL
+stimulator;TIXOCORTOL
+agonist;TIZANIDINE
+agonist;TIZANIDINE HYDROCHLORIDE
+agonist;TM30339
+antagonist;TNP-ATP
+inhibitor;TOCAINIDE
+blocker;TOCAINIDE HYDROCHLORIDE
+inhibitor;TOCILIZUMAB
+inhibitor,antibody;TOCILIZUMAB
+antagonist;TOCOPHERSOLAN
+antagonist,inhibitor;TOFACITINIB
+inhibitor;TOFACITINIB
+inhibitor;TOFACITINIB CITRATE
+inhibitor;TOFISOPAM
+inhibitor;TOFOGLIFLOZIN
+inhibitor;TOL-101
+blocker;TOLAZAMIDE
+agonist;TOLAZOLINE
+antagonist;TOLAZOLINE
+binder;TOLAZOLINE
+agonist;TOLAZOLINE HYDROCHLORIDE
+antagonist;TOLAZOLINE HYDROCHLORIDE
+blocker;TOLBUTAMIDE
+inhibitor;TOLBUTAMIDE
+blocker;TOLBUTAMIDE SODIUM, STERILE
+inhibitor;TOLCAPONE
+antagonist;TOLFENAMIC ACID
+allosteric modulator;TOLIMIDONE
+inhibitor;TOLMETIN
+inhibitor;TOLMETIN SODIUM
+antagonist;TOLOXATONE
+inhibitor;TOLRESTAT
+antagonist;TOLTERODINE
+antagonist;TOLTERODINE TARTRATE
+antagonist;TOLVAPTAN
+antibody;TOMARALIMAB
+inhibitor;TOMIVOSERTIB
+antagonist;TONAPOFYLLINE
+agonist;TOPIRAMATE
+antagonist;TOPIRAMATE
+blocker;TOPIRAMATE
+inhibitor;TOPIRAMATE
+inhibitor;TOPOTECAN
+negative modulator;TOPOTECAN
+inhibitor;TOPOTECAN HYDROCHLORIDE
+inhibitor;TORALIZUMAB
+antagonist;TORCETRAPIB
+antagonist;TOREFORANT
+modulator;TOREMIFENE
+modulator;TOREMIFENE CITRATE
+inhibitor;TORSEMIDE
+inhibitor;TOSEDOSTAT
+antibody;TOSITUMOMAB
+inhibitor;TOSITUMOMAB
+antibody;TOVETUMAB
+antagonist;TOZADENANT
+inhibitor;TOZASERTIB
+binder;TRABECTEDIN
+agonist;TRABODENOSON
+antagonist;TRADIPITANT
+inhibitor;TRALOKINUMAB
+agonist;TRAMADOL
+antagonist;TRAMADOL
+inhibitor;TRAMADOL
+stimulator;TRAMADOL
+agonist;TRAMADOL HYDROCHLORIDE
+antagonist,inhibitor;TRAMETINIB
+inhibitor;TRAMETINIB
+inhibitor;TRAMETINIB DIMETHYL SULFOXIDE
+inhibitor;TRANDOLAPRIL
+inhibitor;TRANDOLAPRILAT
+inhibitor;TRANEXAMIC ACID
+inhibitor;TRANILAST
+inhibitor;TRANYLCYPROMINE
+antagonist;TRAPIDIL
+inhibitor;TRAPIDIL
+antibody;TRASTUZUMAB
+inhibitor;TRASTUZUMAB
+antibody;TRASTUZUMAB DERUXTECAN
+inhibitor;TRASTUZUMAB DERUXTECAN
+inhibitor;TRASTUZUMAB EMTANSINE
+agonist;TRAVOPROST
+antagonist;TRAXOPRODIL
+agonist;TRAZODONE
+antagonist;TRAZODONE
+antagonist,partial agonist;TRAZODONE
+inhibitor;TRAZODONE
+antagonist;TRAZODONE HYDROCHLORIDE
+inhibitor;TRAZODONE HYDROCHLORIDE
+inhibitor;TREBANANIB
+agonist;TREGALIZUMAB
+antibody;TREGALIZUMAB
+inhibitor;TRELAGLIPTIN SUCCINATE
+antagonist;TRELANSERIN
+antibody;TREMELIMUMAB
+inhibitor;TREMELIMUMAB
+agonist;TREPROSTINIL
+agonist;TREPROSTINIL DIOLAMINE
+agonist;TRETINOIN
+agonist,antagonist;TRETINOIN
+agonist;TRIAMCINOLONE
+agonist;TRIAMCINOLONE ACETONIDE
+agonist;TRIAMCINOLONE DIACETATE
+agonist;TRIAMCINOLONE HEXACETONIDE
+blocker;TRIAMTERENE
+inhibitor;TRIAMTERENE
+inhibitor;TRIAPINE
+allosteric modulator;TRIAZOLAM
+ligand;TRIAZOLAM
+positive modulator;TRIAZOLAM
+inhibitor;TRICETAMIDE
+inhibitor;TRICHLORMETHIAZIDE
+inhibitor;TRICIRIBINE PHOSPHATE
+inhibitor;TRICLOSAN
+inverse agonist;TRICLOSAN
+antagonist;TRIDIHEXETHYL
+antagonist;TRIDIHEXETHYL CHLORIDE
+agonist;TRIFAROTENE
+binder;TRIFERIC
+antagonist;TRIFLUOPERAZINE
+inhibitor;TRIFLUOPERAZINE
+antagonist;TRIFLUOPERAZINE HYDROCHLORIDE
+antagonist;TRIFLUPROMAZINE
+antagonist;TRIFLUPROMAZINE HYDROCHLORIDE
+inhibitor;TRIFLURIDINE
+agonist;TRIFLUSAL
+antagonist;TRIFLUSAL
+antagonist;TRIHEXYPHENIDYL
+antagonist;TRIHEXYPHENIDYL HYDROCHLORIDE
+inhibitor;TRILACICLIB
+allosteric modulator;TRILOSTANE
+inhibitor;TRILOSTANE
+activator;TRIMEBUTINE
+agonist;TRIMEBUTINE
+antagonist;TRIMEBUTINE
+inhibitor;TRIMEBUTINE
+antagonist;TRIMEPRAZINE TARTRATE
+inhibitor;TRIMETAZIDINE
+blocker;TRIMETHADIONE
+inhibitor;TRIMETHADIONE
+antagonist;TRIMETHAPHAN
+antagonist;TRIMETHAPHAN CAMSYLATE
+inhibitor;TRIMETREXATE
+agonist;TRIMIPRAMINE
+antagonist;TRIMIPRAMINE
+binder;TRIMIPRAMINE
+inhibitor;TRIMIPRAMINE
+negative modulator;TRIMIPRAMINE
+antagonist;TRIMIPRAMINE MALEATE
+inhibitor;TRIMIPRAMINE MALEATE
+modulator;TRIOXSALEN
+antagonist;TRIPELENNAMINE
+antagonist;TRIPELENNAMINE CITRATE
+antagonist;TRIPELENNAMINE HYDROCHLORIDE
+antagonist;TRIPITRAMINE
+antagonist;TRIPROLIDINE
+antagonist;TRIPROLIDINE HYDROCHLORIDE
+agonist;TRIPTORELIN
+agonist;TRIPTORELIN PAMOATE
+inhibitor;TRODUSQUEMINE
+agonist;TROGLITAZONE
+antagonist;TROGLITAZONE
+blocker;TROGLITAZONE
+inhibitor;TROGLITAZONE
+inverse agonist;TROGLITAZONE
+inhibitor;TROLAMINE SALICYLATE
+activator;TROLEANDOMYCIN
+inhibitor;TROLEANDOMYCIN
+inhibitor;TROMETHAMINE
+antagonist;TROPICAMIDE
+agonist;TROPIFEXOR
+antagonist;TROPISETRON
+antagonist;TROSPIUM
+antagonist;TROSPIUM CHLORIDE
+inhibitor;TROVAFLOXACIN
+inhibitor;TRX-1
+agonist;TRYPTAMINE
+inhibitor;TRYPTANTHRIN
+agonist;TRYPTOPHAN
+allosteric modulator;TRYPTOPHAN
+inhibitor;TRYPTOPHAN
+inhibitor;TTP-607
+inhibitor;TUBACIN
+ligand;TUBERCULIN
+antagonist;TUBOCURARINE
+blocker;TUBOCURARINE
+inhibitor;TUBOCURARINE
+antagonist;TUBOCURARINE CHLORIDE
+inhibitor;TUCATINIB
+inhibitor;TUCIDINOSTAT
+agonist;TUROFEXORATE ISOPROPYL
+agonist;TXA127
+inhibitor;TYLOXAPOL
+agonist;TYRAMINE
+binder;TYROSINE
+inhibitor;TYROTHRICIN
+cofactor;UBIDECARENONE
+antibody;UBLITUXIMAB
+antagonist;UBROGEPANT
+inhibitor;UCN-01
+inhibitor;UDENAFIL
+agonist;UDP-GALACTOSE
+agonist;UK432097
+agonist;ULIMORELIN HYDROCHLORIDE
+antagonist;ULIPRISTAL
+modulator;ULIPRISTAL
+modulator;ULIPRISTAL ACETATE
+inhibitor;ULIXERTINIB
+antibody;ULOCUPLUMAB
+inhibitor;UMBRALISIB
+inhibitor;UMBRALISIB TOSYLATE
+antagonist;UMECLIDINIUM
+antagonist;UMECLIDINIUM BROMIDE
+inhibitor;UPADACITINIB
+inhibitor;UPAMOSTAT
+antagonist;UPIDOSIN
+inhibitor;UPROSERTIB
+antagonist;UR-63325
+negative modulator;URACIL MUSTARD
+antagonist;URANTIDE
+activator;URB-597
+inhibitor;URB-597
+agonist;URELUMAB
+antibody;URELUMAB
+agonist;URIDINE DIPHOSPHATE GLUCOSE
+agonist;UROFOLLITROPIN
+activator;UROKINASE
+inducer,substrate;UROKINASE
+ligand;UROKINASE
+modulator,inducer;UROKINASE
+substrate;UROKINASE
+agonist;UROTENSIN-II
+agonist;URSODIOL
+inhibitor;USTEKINUMAB
+antibody;UTOMILUMAB
+agonist;VABICASERIN HYDROCHLORIDE
+antagonist;VABICASERIN HYDROCHLORIDE
+inhibitor;VACTOSERTIB
+inducer;VADIMEZAN
+antagonist;VALBENAZINE
+inhibitor;VALBENAZINE
+inhibitor;VALDECOXIB
+adduct;VALGANCICLOVIR
+inhibitor;VALPROATE SODIUM
+inhibitor;VALPROIC ACID
+inhibitor;VALRUBICIN
+negative modulator;VALRUBICIN
+antagonist;VALSARTAN
+inhibitor;VANDETANIB
+inhibitor;VANOXERINE
+antagonist;VANTICTUMAB
+antibody;VANTICTUMAB
+antagonist;VAPIPROST
+antagonist;VAPITADINE DIHYDROCHLORIDE
+agonist;VAPREOTIDE
+antagonist;VAPREOTIDE
+inducer;VAPREOTIDE
+allosteric modulator;VARDENAFIL
+inhibitor;VARDENAFIL
+inhibitor;VARDENAFIL HYDROCHLORIDE
+agonist;VARENICLINE
+partial agonist;VARENICLINE
+agonist;VARENICLINE TARTRATE
+inhibitor;VARESPLADIB
+inhibitor;VARESPLADIB METHYL
+inhibitor;VARLITINIB
+agonist;VASOACTIVE INTESTINAL PEPTIDE
+agonist;VASOPRESSIN
+agonist;VASOPRESSIN TANNATE
+inhibitor;VATALANIB
+antagonist;VATELIZUMAB
+modulator;VATIQUINONE
+inhibitor;VECABRUTINIB
+antagonist;VECURONIUM
+antagonist;VECURONIUM BROMIDE
+antibody;VEDOLIZUMAB
+inhibitor;VEDOLIZUMAB
+agonist;VELCALCETIDE
+agonist;VELDOREOTIDE
+inhibitor;VELIPARIB
+antagonist;VELNEPERIT
+antibody;VELTUZUMAB
+inhibitor;VELTUZUMAB
+agonist;VELUSETRAG
+inhibitor;VEMURAFENIB
+antagonist;VENETOCLAX
+inhibitor;VENETOCLAX
+inhibitor;VENLAFAXINE
+inhibitor;VENLAFAXINE HYDROCHLORIDE
+inhibitor;VEPALIMOMAB
+antagonist;VERAPAMIL
+blocker;VERAPAMIL
+inhibitor;VERAPAMIL
+blocker;VERAPAMIL HYDROCHLORIDE
+activator;VERATRIDINE
+allosteric modulator;VERCIRNON
+antagonist;VERCIRNON
+inhibitor;VERDIPERSTAT
+inhibitor;VERINURAD
+antagonist;VERLUKAST
+inhibitor;VERLUKAST
+blocker;VERNAKALANT
+inhibitor;VEROSUDIL
+inhibitor;VERUBECESTAT
+antagonist;VERUCERFONT
+inhibitor;VESAMICOL
+antagonist;VESTIPITANT
+antagonist;VESTIPITANT MESYLATE
+agonist;VIBEGRON
+antagonist;VICRIVIROC
+antagonist;VICRIVIROC MALEATE
+inhibitor;VIDOFLUDIMUS
+antagonist;VIDUPIPRANT
+inhibitor;VIGABATRIN
+agonist;VILANTEROL
+agonist;VILANTEROL TRIFENATATE
+agonist;VILAZODONE
+inhibitor;VILAZODONE
+inhibitor;VILAZODONE HYDROCHLORIDE
+partial agonist;VILAZODONE HYDROCHLORIDE
+inhibitor;VILDAGLIPTIN
+inhibitor;VILOXAZINE
+adduct;VINBLASTINE
+inhibitor;VINBLASTINE
+inhibitor;VINBLASTINE SULFATE
+allosteric modulator;VINBURNINE
+allosteric modulator;VINCAMINE
+inhibitor;VINCRISTINE
+inhibitor;VINCRISTINE SULFATE
+inhibitor;VINDESINE
+inhibitor;VINFLUNINE
+antagonist,inhibitor;VINORELBINE
+inhibitor;VINORELBINE TARTRATE
+inhibitor;VINPOCETINE
+antagonist;VIPADENANT
+inhibitor;VISILIZUMAB
+antagonist;VISMODEGIB
+inhibitor;VISMODEGIB
+antagonist;VISNAGIN
+inhibitor;VISTUSERTIB
+binder;VITAMIN E
+blocker;VIXOTRIGINE
+modulator;VK5211
+inhibitor;VOACAMINE
+antagonist;VOFOPITANT
+inhibitor;VOGLIBOSE
+inhibitor;VOLASERTIB
+antagonist;VOLINANSERIN
+inhibitor;VOLIXIBAT
+antagonist;VOLOCIXIMAB
+antibody;VOLOCIXIMAB
+antibody;VONLEROLIZUMAB
+antagonist;VORAPAXAR
+antagonist;VORAPAXAR SULFATE
+inhibitor;VORINOSTAT
+agonist;VORTIOXETINE
+antagonist;VORTIOXETINE
+blocker;VORTIOXETINE
+inhibitor;VORTIOXETINE
+ligand;VORTIOXETINE
+partial agonist;VORTIOXETINE
+agonist;VORTIOXETINE HYDROBROMIDE
+antagonist;VORTIOXETINE HYDROBROMIDE
+inhibitor;VORTIOXETINE HYDROBROMIDE
+activator;VORUCICLIB
+inhibitor;VORUCICLIB
+inhibitor;VOSAROXIN
+agonist;VOSORITIDE
+binder;VOXELOTOR
+inhibitor;VOXELOTOR
+inhibitor;VOXTALISIB
+inhibitor;VS-4718
+inhibitor;VS-5584
+inhibitor;VX-702
+inhibitor;WARFARIN
+inhibitor;WARFARIN POTASSIUM
+inhibitor;WARFARIN SODIUM
+agonist;WAY-100,635
+antagonist;WAY-100,635
+inhibitor;WEDELOLACTONE
+inhibitor;WHI-P131
+inhibitor;WORTMANNIN
+inhibitor;WX-037
+inhibitor;WX-554
+inhibitor;X-82
+agonist;XAMOTEROL
+partial agonist;XAMOTEROL
+agonist;XANOMELINE
+antagonist;XANOMELINE
+binder;XANTHINOL
+cofactor;XANTHINOL
+inhibitor;XELJANZ
+blocker;XEN403
+antagonist;XEN-D0501
+inhibitor;XIMELAGATRAN
+inhibitor;XL-019
+inhibitor;XL-228
+inhibitor;XL-281
+inhibitor;XL-418
+antagonist;XL550
+inhibitor;XL-820
+inhibitor;XL-844
+inhibitor;XL-888
+inhibitor;XL-999
+agonist;XYLAZINE
+agonist;XYLOMETAZOLINE
+inhibitor;Y-39983
+antagonist;YOHIMBINE
+inhibitor;YOHIMBINE
+partial agonist;YOHIMBINE
+blocker;Z160
+agonist;ZACOPRIDE
+agonist;ZAFIRLUKAST
+antagonist;ZAFIRLUKAST
+inhibitor;ZAFIRLUKAST
+positive modulator;ZALEPLON
+potentiator;ZALEPLON
+agonist;ZALOSPIRONE
+antibody;ZALTRAP
+antagonist;ZALUTUMUMAB
+antibody;ZALUTUMUMAB
+inhibitor;ZANAMIVIR
+inhibitor;ZANUBRUTINIB
+agonist;ZAPRINAST
+inhibitor;ZAPRINAST
+blocker;ZATEBRADINE
+inhibitor;ZD-4190
+inhibitor;ZELBORAF
+inhibitor;ZENARESTAT
+antibody;ZEVALIN
+antagonist;ZIBOTENTAN
+inhibitor;ZICONOTIDE
+blocker;ZICONOTIDE ACETATE
+inhibitor;ZIDOVUDINE
+inhibitor;ZILEUTON
+inhibitor;ZIMELDINE
+activator;ZINC CHLORIDE
+agonist;ZINC CHLORIDE
+antagonist;ZINC CHLORIDE
+binder;ZINC CHLORIDE
+chaperone;ZINC CHLORIDE
+cofactor;ZINC CHLORIDE
+inducer;ZINC CHLORIDE
+inhibitor;ZINC CHLORIDE
+ligand;ZINC CHLORIDE
+ligand,inducer;ZINC CHLORIDE
+ligand,inhibitor;ZINC CHLORIDE
+modulator;ZINC CHLORIDE
+modulator,cofactor;ZINC CHLORIDE
+modulator,inhibitor;ZINC CHLORIDE
+modulator,ligand;ZINC CHLORIDE
+product of;ZINC CHLORIDE
+agonist;ZINTEROL
+agonist;ZIPRASIDONE
+antagonist;ZIPRASIDONE
+inhibitor;ZIPRASIDONE
+antagonist;ZIPRASIDONE HYDROCHLORIDE
+antagonist;ZIPRASIDONE MESYLATE
+inhibitor;ZIRITAXESTAT
+antagonist;ZM-241385
+inhibitor;ZOFENOPRIL
+antibody;ZOLBETUXIMAB
+inhibitor;ZOLEDRONIC ACID
+agonist;ZOLMITRIPTAN
+agonist;ZOLPIDEM
+allosteric modulator;ZOLPIDEM
+positive modulator;ZOLPIDEM TARTRATE
+antagonist;ZONAMPANEL
+blocker;ZONISAMIDE
+inhibitor;ZONISAMIDE
+agonist;ZOPICLONE
+potentiator;ZOPICLONE
+inhibitor;ZOPOLRESTAT
+agonist;ZOPTARELIN DOXORUBICIN
+inhibitor;ZOSUQUIDAR
+inhibitor;ZOTAROLIMUS
+antagonist;ZOTEPINE
+inhibitor;ZOTEPINE
+inhibitor;ZOTIRACICLIB
+inhibitor;ZSTK-474
+agonist,activator;ZUCAPSAICIN
+antagonist;ZUCLOPENTHIXOL
+agonist;ZYH7
+antagonist;ZYKLOPHIN
+inhibitor;ZYTIGA
