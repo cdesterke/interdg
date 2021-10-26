@@ -1,8 +1,8 @@
 # interdg
 
 
-R package interdg allows to perform over-representative analysis on a vector of genes with drug database DGldb v3 comprising interactions between 12498 drugs and 4187 genes
-
+R package interdg allows to perform over-representative analysis on a vector of genes with drug database DGldb version 2021-jan comprising interactions between 12498 drugs and 4187 genes
+link : https://dgidb.org/
 
 
 ## Script used in the package
