@@ -27,7 +27,7 @@ R package interdg allows to perform over-representative analysis on a vector of 
 
 > plotdrugs(res, n=10, font=14, label=5)
 
-![barplots](https://github.com/cdesterke/interdg/blob/main/barplots.png)
+![barplots](https://github.com/cdesterke/interdg/blob/main/baplots.png)
 
 
 ### plot heatmap of jaccard index between significant drugs
